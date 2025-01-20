@@ -1,30 +1,3 @@
----
-layout: single
-title: Racist Bills in Current Session of Legislature
-permalink: /bills/
----
-
-| Bill Number           | Author(s) | Summary                                                                                                                                        |
-| --------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| SB103                 |           | Similar to SB147 (2023), targeting commercial entities headquartered in China.                                                                 |
-| SB?                   |           | Proposes removing in-state tuition eligibility for Chinese immigrants, even if they are Texas residents.                                       |
-| HB173                 |           | Prohibits higher education institutions from accepting students from China and discourages cross-cultural relations with China.                |
-| HB191                 | Spiller   | Prohibits companies owned by Chinese individuals from purchasing land and modifies the definition of “resident” to exclude Chinese immigrants. |
-| HB243                 | Spiller   | Authorizes the Attorney General to confiscate land from individuals deemed threats.                                                            |
-| HB402 & HB518         |           | Focus on restricting farmland purchases by Chinese entities.                                                                                   |
-| HB733                 |           | Mandates property sellers verify buyers’ eligibility and imposes penalties for non-compliance.                                                 |
-| HB1457                |           | Requires high school curricula to emphasize negative aspects of China, such as the Cultural Revolution, June 4th events, and Falun Gong.       |
-| HB1743, HB1849, SB307 |           | Variations of SB147.                                                                                                                           |
-| HB1907                |           | Bans contracts between Texas state agencies and Chinese companies.                                                                             |
-| SB453                 | Middleton | Targets education policies related to China.                                                                                                   |
-| SB667                 | Hughes    | Prohibits state agencies from investing in companies with Chinese connections.                                                                 |
-
-# Bills Radar
-
-We regularly monitor the Texas Legislature Online to identify bills targeting innocent immigrants from specific countries and provide updates, listed below:
-
-<!-- Begin of Table -->
-
 |Bill Number|Caption|Authors|Last Action|
 |-|-|-|-|
 |[HB173](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB173)|Relating to prohibiting public institutions of higher education from soliciting or accepting gifts, grants, or donations from certain foreign countries.|Capriglione|11/12/2024 H Filed|
@@ -104,5 +77,3 @@ We regularly monitor the Texas Legislature Online to identify bills targeting in
 |[SB762](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB762)|Relating to the display of flags in public schools.|Campbell|01/10/2025 S Filed|
 |[SB778](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB778)|Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve; making an appropriation.|Schwertner|01/14/2025 S Filed|
 |[SB780](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB780)|Relating to the homeland security activities of certain entities, including the establishment and operations of the Homeland Security Division in the Department of Public Safety.|Parker|01/14/2025 S Filed|
-
-<!-- End of Table -->

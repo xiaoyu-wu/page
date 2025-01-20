@@ -1,6 +1,6 @@
 ---
 layout: single
-title: I want to fight!
+title: How can I fight? 
 permalink: /fight/
 ---
 

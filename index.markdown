@@ -1,6 +1,65 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: "Texas Racist Bills"
+layout: splash
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/protest.jpg
+  actions:
+    - label: "Act Now. Fight!"
+      url: "/fight/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "The 89th session of the Texas Legislature has witnessed numerous racially discriminatory bills justified under the guise of national security. Stand up for your community—raise your voice, and fight back!"
+# intro: 
+#   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+# feature_row:
+#   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+#     alt: "placeholder image 1"
+#     title: "What are they?"
+#     # excerpt: "An on-going list of racist bills in the current Texas legislature"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Why are they racist?"
+#     # excerpt: "The evial consequences"
+#   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+#     title: "How can I fight them?"
+#     excerpt: "Yes, every person counts!"
+feature_row2:
+  - image_path: /assets/images/documents.jpg
+    alt: "documents"
+    title: "What are they?"
+    excerpt: 'This is an on-going list of racist bills, covering real property, business, education and many more aspects of your life.'
+    url: "/bills/"
+    btn_label: "Read the list of RACIST bills"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/mask.jpg
+    alt: "mask"
+    title: "Why are they racist?"
+    excerpt: 'Many racist bills have been proposed, disguised as concerns over national security. However, their true intention stems from fear and hatred. These bills unjustly target innocent civilians, stripping them of fair treatment and equal privileges.'
+    url: "/facts/"
+    btn_label: "Learn FACTS. And find out how ridiculous they are"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/fist.jpg
+    alt: "placeholder image 2"
+    title: "How can I fight?"
+    excerpt: 'Yes, everybody counts and your community needs you. No need to do everything. Just open the link and do ONE thing today!'
+    url: "/fight/"
+    btn_label: "FIGHT!"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+<!-- {% include feature_row %} -->
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}

@@ -21,16 +21,20 @@
 title: Texas Racist Bills
 email: contactus@texasracistbills.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Website introducing racist bills in the current session of Texas legislature
+  Introducing racist bills in the current session of Texas legislature
   and how to fight them
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://texasracistbills.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+# minimal-mistakes
+subtitle: RACIST bills in Texas legislature and how to FIGHT them!
+minimal_mistakes_skin: "contrast"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

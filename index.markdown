@@ -11,7 +11,7 @@ header:
       url: "/fight/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The 89th session of the Texas Legislature has witnessed numerous racially discriminatory bills justified under the guise of national security. Stand up for your community—raise your voice, and fight back!"
-# intro: 
+# intro:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 # feature_row:
 #   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -42,7 +42,7 @@ feature_row3:
     title: "Why are they racist?"
     excerpt: 'Many racist bills have been proposed, disguised as concerns over national security. However, their true intention stems from fear and hatred. These bills unjustly target innocent civilians, stripping them of fair treatment and equal privileges.'
     url: "/facts/"
-    btn_label: "Learn FACTS. And find out how ridiculous they are"
+    btn_label: "Learn FACTS. And find out how ridiculous those bills are"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/fist.jpg

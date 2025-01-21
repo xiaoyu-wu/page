@@ -34,7 +34,7 @@ def extract_key_info(soup, tag, id_pattern=None):
 def scan_bills(url, tag, css_class=None, interval=60):
     page_num = 1
     bills = []
-    while True: 
+    while True:
         populated_url = url.format(page_num)
         print(f"Polling {populated_url}...")
         soup = fetch_and_parse(populated_url)
@@ -56,11 +56,11 @@ def scan_bills(url, tag, css_class=None, interval=60):
             bills_scanned_file.write(bill + '\n')
     return bills
 
-def lookup_bill(url, bill_number): 
+def lookup_bill(url, bill_number):
     populated_url = url.format(bill_number)
     soup = fetch_and_parse(populated_url)
     caption = soup.find('td', id='cellCaptionText').text.strip()
-    authors = soup.find('td', id='cellAuthors').text.strip().replace(' |', ',')  # Not to mess with MD table 
+    authors = soup.find('td', id='cellAuthors').text.strip().replace(' |', ',')  # Not to mess with MD table
     last_action = soup.find('td', id='cellLastAction').text.strip()
     print("Caption: {}\nAuthors: {}\nLast Action: {}\n".format(caption, authors, last_action))
     return (caption, authors, last_action)
@@ -68,7 +68,7 @@ def lookup_bill(url, bill_number):
 def generate_bills_table(bills, url):
     with open("bills_table.md", "w") as f:
        f.write("|Bill Number|Caption|Authors|Last Action|\n")
-       f.write("|-|-|-|-|\n") 
+       f.write("|-|-|-|-|\n")
        for bill in bills:
            bill_url = url.format(bill)
            caption, authors, last_action = lookup_bill(BILL_SEARCH_URL, bill)
@@ -84,6 +84,15 @@ if __name__ == "__main__":
     else:
         with open('bills_scanned.txt') as f:
             bills = f.read().splitlines()
-    print("Looking up bills info...")
-    generate_bills_table(bills, BILL_SEARCH_URL)
-    
+    with open("bills_patch.txt") as f:
+        bills_patch = f.read().splitlines()
+    for bill in bills_patch:
+        if bill not in bills:
+            bills.append(bill)
+            print(f"Added: {bill}")
+    with open("bills_to_understand.txt", "w") as f:
+        for bill in bills:
+            f.write(bill + '\n')
+    # print("Looking up bills info...")
+    # generate_bills_table(bills, BILL_SEARCH_URL)
+

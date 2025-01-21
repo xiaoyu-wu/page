@@ -2,17 +2,28 @@ import boto3
 import requests
 from bs4 import BeautifulSoup
 from botocore.exceptions import ClientError
+from botocore.config import Config
 import os
 import time
+import json
 
 BILL_HISTORY_URL = "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill={}"
 BILL_TEXT_URL = "https://capitol.texas.gov/BillLookup/Text.aspx?LegSess=89R&Bill={}"
 TLO_BASE_URL = "https://capitol.texas.gov"
 
-POLL_INTERVAL = 5  # Time in seconds between each poll
+POLL_INTERVAL = 30  # Time in seconds between each poll
 
-CLIENT = boto3.client("bedrock-runtime", region_name="us-west-2")
+retry_config = Config(
+    retries={
+        "max_attempts": 5,
+        "mode": "adaptive",
+    }
+)
+
+CLIENT = boto3.client("bedrock-runtime", region_name="us-west-2", config=retry_config)
 MODEL_ID = "anthropic.claude-3-5-sonnet-20241022-v2:0"
+
+UNDERSTANDING_ERROR = "Error: Unable to understand the bill."
 
 def fetch_and_parse(url):
     """Fetch the content of the URL and parse it with BeautifulSoup."""
@@ -112,7 +123,7 @@ def understand_bill(bill_text):
         response = CLIENT.converse(
             modelId=MODEL_ID,
             messages=conversation,
-            inferenceConfig={"maxTokens": 512, "temperature": 0.5, "topP": 0.9},
+            inferenceConfig={"maxTokens": 2048, "temperature": 0.5, "topP": 0.9},
         )
 
         # Extract and print the response text.
@@ -122,19 +133,42 @@ def understand_bill(bill_text):
 
     except (ClientError, Exception) as e:
         print(f"ERROR: Can't invoke '{MODEL_ID}'. Reason: {e}")
-        exit(1)
+        return UNDERSTANDING_ERROR
 
 def update_bills_table(bills, url):
     with open("bills_table.md", "w") as f:
-       f.write("|Bill Number|Summary|Caption|Authors|Last Actiond|\n")
-       f.write("|-|-|-|-|-|\n")
-       for bill in bills:
-           bill_url = url.format(bill)
-           caption, authors, last_action = lookup_bill_info(bill)
-           bill_text = lookup_bill_text(bill)
-           undersanding = understand_bill(bill_text).replace("\n", "<br>")
-           f.write("|[{}]({})|{}|{}|{}|{}|\n".format(bill, bill_url, undersanding, caption, authors, last_action))
-           time.sleep(POLL_INTERVAL)
+        f.write("|Bill Number|Summary|Caption|Authors|Last Actiond|\n")
+        f.write("|-|-|-|-|-|\n")
+        for bill in bills:
+            print(f"Processing bill {bill}...")
+
+            if os.path.isfile(f"data/{bill}.json"):
+                print(f"Bill {bill} already understood, loading...")
+                with open(f"data/{bill}.json") as dataf:
+                    bill_data = json.load(dataf)
+                    bill_url = bill_data["url"]
+                    caption = bill_data["caption"]
+                    authors = bill_data["authors"]
+                    last_action = bill_data["last_action"]
+                    undersanding = bill_data["undersanding"]
+            else:
+                bill_url = url.format(bill)
+                caption, authors, last_action = lookup_bill_info(bill)
+                bill_text = lookup_bill_text(bill)
+                undersanding = understand_bill(bill_text).replace("\n", "<br>")
+                if undersanding != UNDERSTANDING_ERROR:
+                    bill_data = {
+                        "number": bill,
+                        "url": bill_url,
+                        "caption": caption,
+                        "authors": authors,
+                        "last_action": last_action,
+                        "undersanding": undersanding
+                    }
+                    with open(f"data/{bill}.json", "w") as dataf:
+                        json.dump(bill_data, dataf)
+                time.sleep(POLL_INTERVAL)
+            f.write("|[{}]({})|{}|{}|{}|{}|\n".format(bill, bill_url, undersanding, caption, authors, last_action))
 
 if __name__ == "__main__":
     print("Collecting bills to understand...")
@@ -143,6 +177,7 @@ if __name__ == "__main__":
     else:
         with open('bills_to_understand.txt') as f:
             bills = f.read().splitlines()
-            bills.sort()
+            bills_sorted = sorted(bills, key=lambda x: (x[:2], int(x[2:])))
+            print(f"Sorted bills: {bills_sorted}")
     print("Understanding bills ...")
-    update_bills_table(bills, BILL_HISTORY_URL)
+    update_bills_table(bills_sorted, BILL_HISTORY_URL)

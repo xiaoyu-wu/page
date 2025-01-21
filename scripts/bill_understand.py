@@ -5,6 +5,7 @@ from botocore.exceptions import ClientError
 from botocore.config import Config
 import os
 import time
+import datetime
 import json
 
 BILL_HISTORY_URL = "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill={}"
@@ -137,6 +138,7 @@ def understand_bill(bill_text):
 
 def update_bills_table(bills, url):
     with open("bills_table.md", "w") as f:
+        f.write(f"Last Updated at {datetime.datetime.now().strftime('%H:%M:%S %Y-%m-%d')}\n")
         f.write("|Bill Number|Summary|Caption|Authors|Last Actiond|\n")
         f.write("|-|-|-|-|-|\n")
         for bill in bills:

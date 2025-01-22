@@ -7,12 +7,13 @@ import os
 import time
 import datetime
 import json
+from utils import fetch_and_parse
 
 BILL_HISTORY_URL = "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill={}"
 BILL_TEXT_URL = "https://capitol.texas.gov/BillLookup/Text.aspx?LegSess=89R&Bill={}"
 TLO_BASE_URL = "https://capitol.texas.gov"
 
-POLL_INTERVAL = 30  # Time in seconds between each poll
+POLL_INTERVAL = 10  # Time in seconds between each poll
 
 retry_config = Config(
     retries={
@@ -25,49 +26,6 @@ CLIENT = boto3.client("bedrock-runtime", region_name="us-west-2", config=retry_c
 MODEL_ID = "anthropic.claude-3-5-sonnet-20241022-v2:0"
 
 UNDERSTANDING_ERROR = "Error: Unable to understand the bill."
-
-def fetch_and_parse(url):
-    """Fetch the content of the URL and parse it with BeautifulSoup."""
-    try:
-        response = requests.get(url)
-        response.raise_for_status()  # Raise HTTPError for bad responses
-        with open("response.txt", "w") as response_file:
-            response_file.write(response.text)
-        return BeautifulSoup(response.text, "html.parser")
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching the URL: {e}")
-        return None
-
-def extract_key_info(soup, tag, id_pattern=None):
-    """Extract key information from the parsed HTML."""
-    if id_pattern:
-        elements = soup.find_all(tag, id=id_pattern)
-    return [element['id'] for element in elements]
-
-def scan_bills(url, tag, css_class=None, interval=60):
-    page_num = 1
-    bills = []
-    while True:
-        populated_url = url.format(page_num)
-        print(f"Polling {populated_url}...")
-        soup = fetch_and_parse(populated_url)
-        info = extract_key_info(soup, tag, css_class)
-        if info:
-            print("Extracted Information:")
-            for item in info:
-                print(f"- {item}")
-                bills.append(item.split("-")[1])
-            page_num += 1
-        else:
-            print("No information found.")
-            break
-        print(f"Waiting for {interval} seconds...\n")
-        time.sleep(interval)
-    print("Bills: ", bills)
-    with open("bills_scanned.txt", "w") as bills_scanned_file:
-        for bill in bills:
-            bills_scanned_file.write(bill + '\n')
-    return bills
 
 def lookup_bill_info(bill_number, url=BILL_HISTORY_URL):
     populated_url = url.format(bill_number)
@@ -88,7 +46,7 @@ def lookup_bill_text(bill_number, url=BILL_TEXT_URL):
         if link["href"].endswith(".htm"):
             htm_links.append(TLO_BASE_URL + link["href"])
 
-    # Assume the last one is the useful one
+    # FIXME: Assume the last one is the useful one
     # Can be an issue later as bill proceeds
     bill_text_url = htm_links[-1]
 
@@ -96,21 +54,39 @@ def lookup_bill_text(bill_number, url=BILL_TEXT_URL):
 
 def understand_bill(bill_text):
     prompt = f"""
-    You are a legal expert specialized in analyzing the potential impacts of legislature bills, specifically those impacts to immigrants from certain nations or countries.
-    Please provide a summary of the bill in less than 80 words.
+You are a legal expert specialized in analyzing the potential impacts of legislature bills, specifically those impacts to immigrants from certain nations or countries.
 
-    Requirement:
-    Be explicit if the Chinese immigrants are impacted.
-    No need to include the date when the law become effective.
-    The summary should discuss the potential effect of the law to any Chinese in the US.
+You will be given the following input:
+<BillText>: Text of the bill in HTML format
 
-    Please also provide a Chinese translation for the summary.
+Your task is to do the following 3 tasks:
+1. Summarize the bill text in less than 80 words:
+  - Be explicit if the Chinese immigrants are impacted.
+  - No need to include the date when the bill become effective.
+  - Discuss the potential effect of the bill to any Chinese in the US.
 
-    Finally, list the most possible 3 committees this bill will be sent to.
+2. Translate the <Summary> into Chinese.
 
-    The bill text is as follows:
-    {bill_text}
-    """
+3. List the most possible 3 committees this bill will be sent to.
+
+Follow this output format:
+<Summary>
+[Your summary of the bill's imapct to immigrants]
+</Summary>
+<Translation>
+[Your translation of the summary into Chinese]
+</Translation>
+<Committees>
+1. [Most Possible Committee the bill will be assigned to]
+2. [2nd Most Possible Committee the bill will be assigned to]
+3. [3rd Most Possible Committee the bill will be assigned to]
+</Committees>
+
+The bill text is as follows:
+<BillText>
+{bill_text}
+<BillText>
+"""
     # Start a conversation with the user message.
     conversation = [
         {
@@ -129,19 +105,24 @@ def understand_bill(bill_text):
 
         # Extract and print the response text.
         response_text = response["output"]["message"]["content"][0]["text"]
-        print(f"Response: {response_text}\n")
+        print(f"Response:\n{response_text}\n")
         return response_text
 
     except (ClientError, Exception) as e:
         print(f"ERROR: Can't invoke '{MODEL_ID}'. Reason: {e}")
         return UNDERSTANDING_ERROR
 
+def extract_string_by_tag(xml_string, tag_name):
+    soup = BeautifulSoup(xml_string, 'xml')
+    tag = soup.find(tag_name)
+    return tag.text if tag else None
+
 def update_bills_table(bills, url):
     with open("bills_table.md", "w") as f:
         f.write(f"Last Updated at {datetime.datetime.now().strftime('%H:%M:%S %Y-%m-%d')}\n\n")
-        f.write("|Bill Number|Summary|Caption|Authors|Last Actiond|\n")
-        f.write("|-|-|-|-|-|\n")
-        for bill in bills:
+        f.write("|Bill Number|Summary|Translation|Committees|Caption|Authors|Last Actiond|\n")
+        f.write("|-|-|-|-|-|-|-|\n")
+        for bill in bills[:]:
             print(f"Processing bill {bill}...")
 
             if os.path.isfile(f"data/{bill}.json"):
@@ -152,25 +133,33 @@ def update_bills_table(bills, url):
                     caption = bill_data["caption"]
                     authors = bill_data["authors"]
                     last_action = bill_data["last_action"]
-                    undersanding = bill_data["undersanding"]
+                    summary = bill_data["summary"]
+                    translation = bill_data["translation"]
+                    committees = bill_data["committees"]
             else:
                 bill_url = url.format(bill)
                 caption, authors, last_action = lookup_bill_info(bill)
                 bill_text = lookup_bill_text(bill)
-                undersanding = understand_bill(bill_text).replace("\n", "<br>")
+                undersanding = understand_bill(bill_text)
                 if undersanding != UNDERSTANDING_ERROR:
+                    undersanding_xml = f"<root>{undersanding}</root>"
+                    summary = extract_string_by_tag(undersanding_xml, "Summary").replace("\n", "<br>")
+                    translation = extract_string_by_tag(undersanding_xml, "Translation").replace("\n", "<br>")
+                    committees = extract_string_by_tag(undersanding_xml, "Committees").replace("\n", "<br>")
                     bill_data = {
                         "number": bill,
                         "url": bill_url,
                         "caption": caption,
                         "authors": authors,
                         "last_action": last_action,
-                        "undersanding": undersanding
+                        "summary": summary,
+                        "translation": translation,
+                        "committees": committees
                     }
                     with open(f"data/{bill}.json", "w") as dataf:
                         json.dump(bill_data, dataf)
                 time.sleep(POLL_INTERVAL)
-            f.write("|[{}]({})|{}|{}|{}|{}|\n".format(bill, bill_url, undersanding, caption, authors, last_action))
+            f.write("|[{}]({})|{}|{}|{}|{}|{}|{}|\n".format(bill, bill_url, summary, translation, committees, caption, authors, last_action))
 
 if __name__ == "__main__":
     print("Collecting bills to understand...")

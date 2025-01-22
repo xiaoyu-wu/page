@@ -161,6 +161,14 @@ def update_bills_table(bills, url):
                 time.sleep(POLL_INTERVAL)
             f.write("|[{}]({})|{}|{}|{}|{}|{}|{}|\n".format(bill, bill_url, summary, translation, committees, caption, authors, last_action))
 
+def update_bills_page():
+    with open("bills_table.md") as f:
+        table = f.read()
+    with open("../bills.markdown.template") as f:
+        tempate = f.read()
+    with open("../bills.markdown", "w") as f:
+        f.write(tempate.format(bill_table=table))
+
 if __name__ == "__main__":
     print("Collecting bills to understand...")
     if not os.path.isfile("bills_to_understand.txt"):
@@ -172,3 +180,5 @@ if __name__ == "__main__":
             print(f"Sorted bills: {bills_sorted}")
     print("Understanding bills ...")
     update_bills_table(bills_sorted, BILL_HISTORY_URL)
+    print("Updating bills page ...")
+    update_bills_page()

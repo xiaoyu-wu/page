@@ -24,6 +24,9 @@ retry_config = Config(
 
 CLIENT = boto3.client("bedrock-runtime", region_name="us-west-2", config=retry_config)
 MODEL_ID = "anthropic.claude-3-5-sonnet-20241022-v2:0"
+DEFAULT_MAX_TOKENS = 4096
+DEFAULT_TEMPERATURE = 0.3
+DEFAULT_TOP_P = 0.9
 
 UNDERSTANDING_ERROR = "Error: Unable to understand the bill."
 
@@ -110,7 +113,7 @@ The bill text is as follows:
         response = CLIENT.converse(
             modelId=MODEL_ID,
             messages=conversation,
-            inferenceConfig={"maxTokens": 2048, "temperature": 0.5, "topP": 0.9},
+            inferenceConfig={"maxTokens": DEFAULT_MAX_TOKENS, "temperature": DEFAULT_TEMPERATURE, "topP": DEFAULT_TOP_P},
         )
 
         # Extract and print the response text.
@@ -217,7 +220,7 @@ The input is as follows:
         response = CLIENT.converse(
             modelId=MODEL_ID,
             messages=conversation,
-            inferenceConfig={"maxTokens": 2048, "temperature": 0.5, "topP": 0.9},
+            inferenceConfig={"maxTokens": DEFAULT_MAX_TOKENS, "temperature": DEFAULT_TEMPERATURE, "topP": DEFAULT_TOP_P},
         )
 
         # Extract and print the response text.

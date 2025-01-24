@@ -56,6 +56,12 @@ if __name__ == "__main__":
         if bill not in bills:
             bills.append(bill)
             print(f"Added: {bill}")
+    with open("bills_irrelevant.txt") as f:
+        bills_irrelevent = f.read().splitlines()
+        for bill in bills_irrelevent:
+            if bill in bills:
+                bills.remove(bill)
+                print(f"Removed: {bill}")
     with open("bills_to_understand.txt", "w") as f:
         for bill in bills:
             f.write(bill + '\n')

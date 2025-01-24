@@ -63,11 +63,18 @@ Your task is to do the following 3 tasks:
 1. Summarize the bill text in less than 80 words:
   - Be explicit if the Chinese immigrants are impacted.
   - No need to include the date when the bill become effective.
-  - Discuss the potential effect of the bill to any Chinese in the US.
+  - Discuss the potential effect of the bill to any Chinese in the US. Even if some bills are targeting Chinese goverment, discuss the potential impact to Chinese personals.
 
 2. Translate the <Summary> into Chinese.
 
 3. List the most possible 3 committees this bill will be sent to.
+
+4. Categorize the bill into one of the following category:
+  - Alien land laws: including but not limited to bills restricting immigrants' right to purchase real property, farm land, natural resources, etc.
+  - Education: including but not limited to bills restricting immigrants' right to education (public schools and universities)
+  - Contracting and Investment: including but not limited to bills restricting immigrants' right to receive contracts or investments
+  - Immigration: including but not limited to bills punishing immigrants due to their entry or using health care services
+  - Others: any bills that cannot be categorized above
 
 Follow this output format:
 <Summary>
@@ -81,6 +88,9 @@ Follow this output format:
 2. [2nd Most Possible Committee the bill will be assigned to]
 3. [3rd Most Possible Committee the bill will be assigned to]
 </Committees>
+<Category>
+[Your classification of category]
+</Category>
 
 The bill text is as follows:
 <BillText>
@@ -120,8 +130,8 @@ def extract_string_by_tag(xml_string, tag_name):
 def update_bills_table(bills, url):
     with open("bills_table.md", "w") as f:
         f.write(f"Last Updated at {datetime.datetime.now().strftime('%H:%M:%S %Y-%m-%d')}\n\n")
-        f.write("|Bill Number|Summary|Translation|Committees|Caption|Authors|Last Actiond|\n")
-        f.write("|-|-|-|-|-|-|-|\n")
+        f.write("|Bill Number|Summary|Translation|Category|Committees|Caption|Authors|Last Actiond|\n")
+        f.write("|-|-|-|-|-|-|-|-|\n")
         for bill in bills[:]:
             print(f"Processing bill {bill}...")
 
@@ -136,6 +146,7 @@ def update_bills_table(bills, url):
                     summary = bill_data["summary"]
                     translation = bill_data["translation"]
                     committees = bill_data["committees"]
+                    category = bill_data["category"]
             else:
                 bill_url = url.format(bill)
                 caption, authors, last_action = lookup_bill_info(bill)
@@ -146,6 +157,7 @@ def update_bills_table(bills, url):
                     summary = extract_string_by_tag(undersanding_xml, "Summary").replace("\n", "<br>")
                     translation = extract_string_by_tag(undersanding_xml, "Translation").replace("\n", "<br>")
                     committees = extract_string_by_tag(undersanding_xml, "Committees").replace("\n", "<br>")
+                    category = extract_string_by_tag(undersanding_xml, "Category").replace("\n", "")
                     bill_data = {
                         "number": bill,
                         "url": bill_url,
@@ -154,20 +166,129 @@ def update_bills_table(bills, url):
                         "last_action": last_action,
                         "summary": summary,
                         "translation": translation,
-                        "committees": committees
+                        "committees": committees,
+                        "category": category
                     }
                     with open(f"data/{bill}.json", "w") as dataf:
                         json.dump(bill_data, dataf)
                 time.sleep(POLL_INTERVAL)
-            f.write("|[{}]({})|{}|{}|{}|{}|{}|{}|\n".format(bill, bill_url, summary, translation, committees, caption, authors, last_action))
+            f.write("|[{}]({})|{}|{}|{}|{}|{}|{}|{}|\n".format(bill, bill_url, summary, translation, category, committees, caption, authors, last_action))
 
-def update_bills_page():
-    with open("bills_table.md") as f:
-        table = f.read()
-    with open("../bills.markdown.template") as f:
-        tempate = f.read()
-    with open("../bills.markdown", "w") as f:
-        f.write(tempate.format(bill_table=table))
+def generate_summary(bill_summarys):
+
+    prompt = f"""
+You are a legislature expert specialized in summarizing legislature bills.
+
+You will be given the following input:
+<Category>: The focus of the bills and the specific area the bills is trying to regulate
+<Bills>: The bills of the same <Category> and each <Bill> represented by <BillNumber> and <BillSummary> tags
+
+Your task is to do the following 2 tasks:
+1. Summarize the bills and their potential impact
+  - Start with a brief introduction about regular bills in the domain related to <Category>
+  - For alian land laws, point out its discriminative nature
+  - Reference bills by their numbers
+  - Be explicit if the Chinese immigrants are impacted.
+  - Discuss the potential effect of the bill to any Chinese in the US. Even if some bills are targeting Chinese goverment, discuss the potential impact to Chinese personals.
+
+2. Translate the <Summary> into Chinese
+
+Follow this output format:
+<Summary>
+[Your summary of the bills and their imapct to immigrants]
+</Summary>
+<Translation>
+[Your translation of the summary into Chinese]
+</Translation>
+
+The input is as follows:
+{bill_summarys}
+"""
+    # Start a conversation with the user message.
+    conversation = [
+        {
+            "role": "user",
+            "content": [{"text": prompt}],
+        }
+    ]
+
+    try:
+        # Send the message to the model, using a basic inference configuration.
+        response = CLIENT.converse(
+            modelId=MODEL_ID,
+            messages=conversation,
+            inferenceConfig={"maxTokens": 2048, "temperature": 0.5, "topP": 0.9},
+        )
+
+        # Extract and print the response text.
+        response_text = response["output"]["message"]["content"][0]["text"]
+        print(f"Response:\n{response_text}\n")
+        return response_text
+
+    except (ClientError, Exception) as e:
+        print(f"ERROR: Can't invoke '{MODEL_ID}'. Reason: {e}")
+        return UNDERSTANDING_ERROR
+
+def summarize_bills_by_category(bills):
+    categories = {}
+    for bill in bills:
+        with open(f"data/{bill}.json") as dataf:
+            bill_data = json.load(dataf)
+        category = bill_data["category"]
+        if category not in categories:
+            categories[category] = []
+        categories[category].append((bill, bill_data['summary'].replace("<br>", "\n")))
+    for category in categories:
+        cat_bills = [bill for (bill, _) in categories[category]]
+        build_bills_table(cat_bills, f"summary/bills_table-{category}.md", includeCategory=False)
+
+        print(f"Summarizing category: {category}")
+        if os.path.isfile(f"summary/{category}.json"):
+            print(f"Category {category} already summarized. Delete file to regenerate summary.")
+            continue
+        aggregated_text = f"<Category>{category}</Category>\n"
+        bills_text = "".join([
+            f"<Bill>\n<BillNumber>{bn}</BillNumber>\n<BillSummary>{summary}</BillSummary>\n</Bill>\n" for (bn, summary) in categories[category]
+        ])
+        aggregated_text += f"<Bills>\n{bills_text}</Bills>\n"
+        print("Aggregated input:\n" + aggregated_text)
+        summary = generate_summary(aggregated_text)
+        print("Summary:\n" + summary)
+        summary_xml = f"<root>{summary}</root>"
+        summary_json = {
+            "english": extract_string_by_tag(summary_xml, "Summary"),
+            "chinese": extract_string_by_tag(summary_xml, "Translation")
+        }
+        with open(f"summary/{category}.json", "w") as f:
+            json.dump(summary_json, f)
+
+
+def build_bills_table(bills, file_name, includeCategory=False):
+    with open(file_name, "w") as f:
+        f.write(f"Last Updated at {datetime.datetime.now().strftime('%H:%M:%S %Y-%m-%d')}\n\n")
+        f.write(f"|Bill Number|Summary|Translationd{"|Category" if includeCategory else ""}|Committees|Caption|Authors|Last Actiond|\n")
+        f.write(f"|{"-|" * 7}{"-|" if includeCategory else ""}\n")
+        for bill in bills[:]:
+            print(f"Processing bill {bill}...")
+
+            if os.path.isfile(f"data/{bill}.json"):
+                with open(f"data/{bill}.json") as dataf:
+                    bill_data = json.load(dataf)
+                    bill_url = bill_data["url"]
+                    caption = bill_data["caption"]
+                    authors = bill_data["authors"]
+                    last_action = bill_data["last_action"]
+                    summary = bill_data["summary"]
+                    translation = bill_data["translation"]
+                    committees = bill_data["committees"]
+                    category = bill_data["category"]
+            else:
+                raise RuntimeError(f"Data for Bill {bill} not found")
+            if includeCategory:
+                f.write("|[{}]({})|{}|{}|{}|{}|{}|{}|{}|\n".format(bill, bill_url, summary, translation, category, committees, caption, authors, last_action))
+            else:
+                f.write("|[{}]({})|{}|{}|{}|{}|{}|{}|\n".format(bill, bill_url, summary, translation, committees, caption, authors, last_action))
+
 
 if __name__ == "__main__":
     print("Collecting bills to understand...")
@@ -180,5 +301,4 @@ if __name__ == "__main__":
             print(f"Sorted bills: {bills_sorted}")
     print("Understanding bills ...")
     update_bills_table(bills_sorted, BILL_HISTORY_URL)
-    print("Updating bills page ...")
-    update_bills_page()
+    summarize_bills_by_category(bills_sorted)

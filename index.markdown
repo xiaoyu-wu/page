@@ -40,17 +40,17 @@ feature_row3:
   - image_path: /assets/images/mask.jpg
     alt: "mask"
     title: "Why are they racist?"
-    excerpt: 'Many racist bills have been proposed, disguised as concerns over national security. However, their true intention stems from fear and hatred. These bills unjustly target innocent civilians, stripping them of fair treatment and equal privileges.'
+    excerpt: 'Many racist bills have been proposed, disguised as concerns over national security. However, their true intention stems from fear and hatred. These bills unjustly target innocent civilians, stripping them of fair treatment and equal rights.'
     url: "/facts/"
     btn_label: "Learn FACTS. And find out how ridiculous those bills are"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/fist.jpg
     alt: "placeholder image 2"
-    title: "How can I fight?"
+    title: "How can I defend my rights?"
     excerpt: 'Yes, everybody counts and your community needs you. No need to do everything. Just open the link and do ONE thing today!'
     url: "/fight/"
-    btn_label: "FIGHT!"
+    btn_label: "Act now!"
     btn_class: "btn--primary"
 ---
 

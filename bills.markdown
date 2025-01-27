@@ -73,7 +73,7 @@ The discriminatory nature of these bills is evident in their targeted approach t
 
 
 ### Bills
-Last Updated at 12:34:02 2025-01-24
+Last Updated at 17:25:37 2025-01-27
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -134,7 +134,7 @@ SB521的标准化考试要求可能因语言障碍而对中国留学生不利，
 
 
 ### Bills
-Last Updated at 12:33:10 2025-01-24
+Last Updated at 17:25:37 2025-01-27
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -161,50 +161,56 @@ Last Updated at 12:33:10 2025-01-24
 
 ### Overview
 
-Contracting and investment bills typically regulate business operations, professional licensing, and financial transactions. This set of bills shows a significant focus on foreign entities, with several specifically targeting Chinese interests and potentially affecting Chinese immigrants and professionals in Texas.
+Bills related to contracting and investment typically focus on regulating business operations, professional licensing, and protecting critical infrastructure. This set of bills presents a mix of opportunities and restrictions that significantly impact Chinese nationals and Chinese-owned businesses in Texas.
 
-Several bills offer opportunities for foreign professionals:
-- HB296 and HB994 create pathways for foreign-educated physicians to obtain medical licenses, though HB994's fast-track program initially excludes China
-- HB710 enables recognition of foreign occupational licenses and certifications
+Some bills offer expanded opportunities:
+- HB296 and HB994 create pathways for foreign-educated physicians, including Chinese medical professionals, to obtain licenses in Texas, though China is excluded from initial fast-track options
+- HB710 enables recognition of foreign professional credentials
+- HB957 allows remote home equity loan closings, benefiting all out-of-state borrowers
 
-However, multiple bills implement restrictive measures targeting Chinese interests:
+However, several bills impose significant restrictions targeting Chinese interests:
 - HB1907 explicitly prohibits Texas government contracts with Chinese-owned technology companies
 - HB1623 restricts tax benefits for entities from "designated countries," likely affecting Chinese businesses
 - SB667 prohibits state retirement systems from investing in Chinese-affiliated entities
+- SB934 bans Chinese-made critical electric grid equipment
 - HB1381 could restrict Chinese funding in higher education if China is designated as a "country of particular concern"
 
-Financial and security measures that could impact Chinese nationals include:
+Additional bills create potential barriers:
 - HB1049 and HB1056 establish gold/silver currency systems with provisions to restrict transactions with certain foreign entities
-- SB778 creates a Texas Bitcoin Reserve with restrictions on foreign transactions
-- SB780 establishes homeland security measures that could increase scrutiny of Chinese nationals in critical infrastructure sectors
+- SB780 creates homeland security measures that could increase surveillance of Chinese nationals
+- HB2003 requires detailed disclosure of foreign investments in rail projects
+- SB778 limits foreign participation in the state's bitcoin reserve
 
-While some bills like HB957 and SB871 are neutral and benefit all residents equally, the overall legislative pattern shows increased restrictions and scrutiny on Chinese-affiliated entities and individuals, potentially creating challenges for Chinese immigrants, professionals, and businesses operating in Texas.
+These bills collectively represent a trend toward increased scrutiny and restrictions on Chinese involvement in Texas's economy, potentially affecting Chinese immigrants, students, professionals, and businesses operating in the state.
 
 
 ### Translation
 
-合同和投资法案通常规范商业运营、专业执照和金融交易。这组法案显著关注外国实体，其中多项特别针对中国利益，可能影响在德克萨斯州的中国移民和专业人士。
+与合同和投资相关的法案通常侧重于规范商业运营、专业执照发放和保护关键基础设施。这组法案既包含机遇也设置了限制，显著影响在德克萨斯州的中国公民和中资企业。
 
-几项法案为外国专业人士提供机会：
-- HB296和HB994为外国受教育的医生获取医疗执照创造途径，但HB994的快速通道项目初期排除中国
-- HB710允许认可外国职业执照和认证
+一些法案提供扩展机会：
+- HB296和HB994为包括中国医疗专业人员在内的外国医生提供获得执照的途径，但中国被排除在初始快速通道之外
+- HB710允许认可外国专业资格证书
+- HB957允许远程办理房屋净值贷款，惠及所有州外借款人
 
-然而，多项法案实施了针对中国利益的限制措施：
-- HB1907明确禁止德州政府与中国所有的技术公司签订合同
-- HB1623限制"指定国家"实体的税收优惠，可能影响中国企业
+然而，多项法案对中国利益施加重大限制：
+- HB1907明确禁止德州政府与中资科技公司签订合同
+- HB1623限制"指定国家"实体的税收优惠，可能影响中资企业
 - SB667禁止州退休系统投资中国相关实体
-- 如果中国被指定为"特别关注国家"，HB1381可能限制中国在高等教育领域的资金
+- SB934禁止使用中国制造的关键电网设备
+- 如果中国被列为"特别关注国"，HB1381可能限制中国在高等教育领域的资金投入
 
-可能影响中国公民的金融和安全措施包括：
-- HB1049和HB1056建立金银货币系统，并可能限制与某些外国实体的交易
-- SB778建立德克萨斯比特币储备，限制外国交易
-- SB780建立国土安全措施，可能加强对关键基础设施领域中国公民的审查
+其他法案设置潜在障碍：
+- HB1049和HB1056建立金银货币系统，可能限制与特定外国实体的交易
+- SB780建立的国土安全措施可能加强对中国公民的监控
+- HB2003要求详细披露铁路项目中的外国投资
+- SB778限制外国参与州比特币储备
 
-虽然HB957和SB871等法案是中性的，对所有居民都同等有利，但整体立法模式显示对中国相关实体和个人的限制和审查有所增加，可能给在德克萨斯州经营的中国移民、专业人士和企业带来挑战。
+这些法案共同反映出对德州经济中中国参与度的审查和限制日益加强，可能影响在该州的中国移民、学生、专业人士和企业的运营。
 
 
 ### Bills
-Last Updated at 12:34:29 2025-01-24
+Last Updated at 17:25:37 2025-01-27
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -222,6 +228,7 @@ Last Updated at 12:34:29 2025-01-24
 |[SB778](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB778)|<br>This bill establishes the Texas Strategic Bitcoin Reserve, allowing the state to hold bitcoin as a financial asset. The bill prohibits transactions with entities/individuals outside Texas. While not directly targeting Chinese immigrants, the restriction on foreign transactions could impact Chinese residents' ability to participate in bitcoin donations to the reserve or engage in related transactions with the state.<br>|<br>该法案建立了德克萨斯州战略比特币储备，允许该州持有比特币作为金融资产。该法案禁止与德克萨斯州以外的实体/个人进行交易。虽然没有直接针对中国移民，但对外国交易的限制可能会影响中国居民向储备捐赠比特币或与州政府进行相关交易的能力。<br>|<br>1. House Committee on Financial Services<br>2. House Committee on State Affairs<br>3. House Committee on Appropriations<br>|Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve; making an appropriation.|Schwertner|01/14/2025 S Filed|
 |[SB780](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB780)|<br>This bill establishes a Homeland Security Division within Texas Department of Public Safety to enhance state security and border operations. While not directly targeting Chinese immigrants, Section 411.556 requires monitoring potential threats to critical infrastructure, including from foreign entities, and Section 411.562 restricts commerce with Chinese military companies identified by US Defense Secretary. This could increase surveillance and scrutiny of Chinese nationals in sensitive sectors.<br>|<br>该法案在德克萨斯州公共安全部内设立国土安全部门，以加强州安全和边境行动。虽然没有直接针对中国移民，但第411.556条要求监控对关键基础设施的潜在威胁，包括来自外国实体的威胁，第411.562条限制与美国国防部长认定的中国军工企业进行商业往来。这可能会加强对在敏感领域工作的中国公民的监视和审查。<br>|<br>1. Homeland Security  Public Safety Committee<br>2. State Affairs Committee<br>3. Border  International Affairs Committee<br>|Relating to the homeland security activities of certain entities, including the establishment and operations of the Homeland Security Division in the Department of Public Safety.|Parker|01/14/2025 S Filed|
 |[SB871](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB871)|<br>This bill modifies Texas disaster response laws by limiting government powers during emergencies. While not directly targeting Chinese immigrants, it could affect all business owners including Chinese business owners by requiring legislative approval (rather than governor's executive order) to restrict or impair business operations during disasters or emergencies. The bill also clarifies definitions of disasters and emergencies, and limits local government authority during disasters.<br>|<br>该法案修改了德克萨斯州灾难应对法律，限制了政府在紧急情况下的权力。虽然没有直接针对中国移民，但它可能会影响包括中国商业业主在内的所有商业业主，因为在灾难或紧急情况下限制或影响商业运营需要立法机构批准（而不是州长行政命令）。该法案还明确了灾难和紧急情况的定义，并限制了地方政府在灾难期间的权力。<br>|<br>1. State Affairs Committee<br>2. Homeland Security  Public Safety Committee<br>3. Business  Industry Committee<br>|Relating to the authority of the legislature, governor, and certain political subdivisions with respect to disasters and emergencies.|Birdwell|01/22/2025 S Filed|
+|[SB934](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB934)|<br>The bill prohibits installation and repair of critical electric grid equipment purchased from companies and organizations from China, Iran, North Korea, Russia, or designated countries after Dec 31, 2025. Chinese companies and nonprofits are explicitly banned from supplying equipment to ERCOT power region. This affects Chinese businesses' ability to participate in Texas's electric grid infrastructure market.<br>|<br>该法案禁止在2025年12月31日后安装和维修从中国、伊朗、朝鲜、俄罗斯或指定国家的公司和组织购买的关键电网设备。明确禁止中国公司和非营利组织向ERCOT电力区域供应设备。这影响了中国企业参与德克萨斯州电网基础设施市场的能力。<br>|<br>1. State Affairs Committee<br>2. Energy Resources Committee<br>3. Business  Commerce Committee<br>|Relating to the installation and repair of critical electric grid equipment purchased from certain companies and nonprofit organizations.|Hall|01/27/2025 S Filed|
 
 
 ## Immigration
@@ -269,7 +276,7 @@ HB1308通过要求大型雇主使用E-verify系统加强就业核查，这可能
 
 
 ### Bills
-Last Updated at 12:33:38 2025-01-24
+Last Updated at 17:25:37 2025-01-27
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -342,7 +349,7 @@ While many bills (like HB316, HB495, HB1675) have no specific impact on Chinese 
 
 
 ### Bills
-Last Updated at 12:34:53 2025-01-24
+Last Updated at 17:26:00 2025-01-27
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|

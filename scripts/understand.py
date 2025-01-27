@@ -188,7 +188,7 @@ You will be given the following input:
 
 Your task is to do the following 2 tasks:
 1. Summarize the bills and their potential impact
-  - Start with a brief introduction about regular bills in the domain related to <Category>
+  - Start with a brief introduction about common focus for normla bills in the domain of <Category>
   - For alian land laws, point out its discriminative nature
   - Reference bills by their numbers
   - Be explicit if the Chinese immigrants are impacted.

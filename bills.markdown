@@ -73,7 +73,7 @@ The discriminatory nature of these bills is evident in their targeted approach t
 
 
 ### Bills
-Last Updated at 17:25:37 2025-01-27
+Last Updated at 10:46:14 2025-01-28
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -134,7 +134,7 @@ SB521的标准化考试要求可能因语言障碍而对中国留学生不利，
 
 
 ### Bills
-Last Updated at 17:25:37 2025-01-27
+Last Updated at 10:46:14 2025-01-28
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -210,7 +210,7 @@ These bills collectively represent a trend toward increased scrutiny and restric
 
 
 ### Bills
-Last Updated at 17:25:37 2025-01-27
+Last Updated at 10:46:14 2025-01-28
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -276,7 +276,7 @@ HB1308通过要求大型雇主使用E-verify系统加强就业核查，这可能
 
 
 ### Bills
-Last Updated at 17:25:37 2025-01-27
+Last Updated at 10:46:14 2025-01-28
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -349,7 +349,7 @@ While many bills (like HB316, HB495, HB1675) have no specific impact on Chinese 
 
 
 ### Bills
-Last Updated at 17:26:00 2025-01-27
+Last Updated at 10:46:14 2025-01-28
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|

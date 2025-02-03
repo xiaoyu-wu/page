@@ -138,6 +138,7 @@ def update_bills_table(bills, url):
         for bill in bills[:]:
             print(f"Processing bill {bill}...")
 
+            should_understand = True
             if os.path.isfile(f"data/{bill}.json"):
                 print(f"Bill {bill} already understood, loading...")
                 with open(f"data/{bill}.json") as dataf:
@@ -150,7 +151,14 @@ def update_bills_table(bills, url):
                     translation = bill_data["translation"]
                     committees = bill_data["committees"]
                     category = bill_data["category"]
-            else:
+                new_caption, new_authors, new_last_action = lookup_bill_info(bill)
+                if new_caption == caption and new_authors == authors and new_last_action == last_action:
+                    print(f"Bill {bill} has not been updated, skipping...")
+                    should_understand = False
+                else:
+                    print(f"ALERT! Bill {bill} has been updated, understanding again...")
+
+            if should_understand:
                 bill_url = url.format(bill)
                 caption, authors, last_action = lookup_bill_info(bill)
                 bill_text = lookup_bill_text(bill)

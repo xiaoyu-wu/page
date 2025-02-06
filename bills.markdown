@@ -57,7 +57,7 @@ While some bills exempt U.S. citizens and permanent residents of Chinese origin,
 
 
 ### Bills
-Last Updated at 09:20:24 2025-02-05
+Last Updated at 09:32:11 2025-02-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -126,7 +126,7 @@ The cumulative effect of these bills could create a challenging and potentially 
 
 
 ### Bills
-Last Updated at 09:19:33 2025-02-05
+Last Updated at 09:32:11 2025-02-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -203,7 +203,7 @@ The bills collectively represent a systematic approach to limiting Chinese influ
 
 
 ### Bills
-Last Updated at 09:20:51 2025-02-05
+Last Updated at 09:32:11 2025-02-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -290,7 +290,7 @@ The overall impact on Chinese immigrants could be severe, particularly for those
 
 
 ### Bills
-Last Updated at 09:19:57 2025-02-05
+Last Updated at 09:32:11 2025-02-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -379,7 +379,7 @@ While many bills don't directly target Chinese immigrants, some could disproport
 
 
 ### Bills
-Last Updated at 09:21:17 2025-02-05
+Last Updated at 09:32:11 2025-02-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|

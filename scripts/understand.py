@@ -159,6 +159,7 @@ def update_bills_table(bills, url):
                     print(f"ALERT! Bill {bill} has been updated, understanding again...")
 
             if should_understand:
+                print(f"Understand bill {bill}...")
                 bill_url = url.format(bill)
                 caption, authors, last_action = lookup_bill_info(bill)
                 bill_text = lookup_bill_text(bill)

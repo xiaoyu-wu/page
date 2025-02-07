@@ -78,6 +78,7 @@ Your task is to do the following 3 tasks:
   - Contracting and Investment: including but not limited to bills restricting immigrants' right to receive contracts or investments
   - Immigration: including but not limited to bills punishing immigrants due to their entry or using health care services
   - Others: any bills that cannot be categorized above
+  - Irrelevant: the bills does not mention specific countries or target immigrants of certain nations
 
 Follow this output format:
 <Summary>

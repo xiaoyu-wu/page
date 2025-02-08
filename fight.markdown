@@ -10,6 +10,11 @@ Racist bills can have harmful and lasting effects on communities. Here are steps
 
 ---
 
+## Monitor Legislative Progress
+
+1. **Be Aware of Deadlines**  
+   Follow [Texas Legislative Calendar](https://www.texaspolicyresearch.com/legislative-calendar-89th-legislative-session/) to be aware of last days for Legislature to take certain actions
+
 
 ## Call Your Representative
 

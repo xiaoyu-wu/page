@@ -5,21 +5,23 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/protest.jpg
+  overlay_image: /assets/images/texas_capital.jpg
   actions:
-    - label: "Act Now. Fight!"
+    - label: "Join AAPI Advocacy Day"
+      url: "http://bit.ly/3EjGOtS"
+    - label: "Fight Racist Bills!"
       url: "/fight/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The 89th session of the Texas Legislature has witnessed numerous racially discriminatory bills justified under the guise of national security. Stand up for your community—raise your voice, and fight back!"
 # intro:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 # feature_row:
-#   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#     alt: "placeholder image 1"
-#     title: "What are they?"
+#   - image_path: assets/images/aapi_advocacy_day.jpeg
+#     alt: "AAPI Advocacy Day"
+#     title: "Make your own voice! Join "
 #     # excerpt: "An on-going list of racist bills in the current Texas legislature"
 #     url: "#test-link"
-#     btn_label: "Read More"
+#     btn_label: "Join"
 #     btn_class: "btn--primary"
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
@@ -52,6 +54,13 @@ feature_row4:
     url: "/fight/"
     btn_label: "Act now!"
     btn_class: "btn--primary"
+  - image_path: assets/images/aapi_advocacy_day.jpeg
+    alt: "AAPI Advocacy Day"
+    title: "Join AAPI Advocacy Day"
+    excerpt: "Engage directly with your representatives! Share your concerns and make your voice heard!"
+    url: "http://bit.ly/3EjGOtS"
+    btn_label: "RSVP"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -62,4 +71,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" %}

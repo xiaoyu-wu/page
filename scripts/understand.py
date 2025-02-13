@@ -201,6 +201,7 @@ Your task is to do the following 2 tasks:
   - Start with a brief introduction about common focus for normla bills in the domain of <Category>
   - For alian land laws, point out its discriminative nature
   - Reference bills by their numbers
+  - Make sure every bill is mentioned
   - Be explicit if the Chinese immigrants are impacted.
   - Discuss the potential effect of the bill to any Chinese in the US. Even if some bills are targeting Chinese goverment, discuss the potential impact to Chinese personals.
 

@@ -73,7 +73,7 @@ These bills collectively create a hostile environment for Chinese investment and
 
 
 ### Bills
-Last Updated at 09:13:16 2025-02-13
+Last Updated at 13:28:10 2025-02-14
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -100,51 +100,44 @@ Last Updated at 09:13:16 2025-02-13
 
 ### Overview
 
-Education bills typically focus on curriculum standards, funding allocation, and student eligibility criteria. However, this set of Texas bills reveals a concerning pattern of restrictions targeting international students and foreign influences in education, with particular implications for Chinese students and academic partnerships.
+Education bills typically focus on curriculum standards, funding allocation, and student eligibility criteria. However, this set of Texas bills reveals a concerning pattern of restrictions targeting international students and foreign academic collaboration, with particular implications for Chinese nationals.
 
-Several bills (HB160, HB232, HB424, HB979, HB1324) systematically restrict unauthorized immigrants' access to in-state tuition rates, requiring reclassification to non-resident status. These changes significantly impact Chinese students without proper documentation by substantially increasing their education costs.
+Several bills (HB160, HB232, HB424, HB979, HB1324) systematically restrict unauthorized immigrants' access to in-state tuition rates, requiring schools to reclassify previously qualified students as non-residents. This directly impacts Chinese students without proper immigration status, potentially making higher education financially inaccessible.
 
-The bills also demonstrate heightened scrutiny of foreign influence in education:
-- HB173 and SB1067 prohibit accepting gifts or donations from Chinese governmental entities
-- HB1450 mandates detailed reporting of all foreign source funding
-- HB2595 explicitly prohibits contracts with "foreign adversaries" including China, effectively ending many Chinese educational partnerships
+HB371 goes further by limiting public school admission to only US citizens and legally present aliens, potentially denying basic education to undocumented Chinese children unless federal funding is secured.
 
-Of particular note are HB1457 and SB453, which mandate high school courses covering sensitive topics in Chinese history, including Tiananmen Square and treatment of Uyghurs. While educational in nature, these could potentially foster negative perceptions of China and impact Chinese students' educational experience.
+A significant focus on foreign influence monitoring is evident through HB173, HB1450, and SB1067, which prohibit accepting gifts or donations from Chinese government entities and require detailed reporting of foreign funding sources. This could severely impact Chinese-related academic programs and research opportunities.
 
-HB371 goes further by restricting public school admission to legally present students, potentially denying basic education access to undocumented Chinese children unless federal funding is secured.
+HB2595 and SB1273 specifically target academic collaboration with "foreign adversaries," including China, implementing strict restrictions and establishing surveillance mechanisms. These bills could create a hostile environment for Chinese researchers and academics in Texas institutions.
 
-These bills collectively create a challenging environment for Chinese students, scholars, and educational institutions by:
-1. Increasing educational costs through tuition reclassification
-2. Limiting funding sources and academic partnerships
-3. Potentially creating an unwelcoming atmosphere through mandatory curriculum content
-4. Restricting educational access for undocumented students
+Curriculum-focused bills (HB1457 and SB453) mandate teaching about sensitive topics in Chinese history, potentially affecting how Chinese students and immigrants are perceived in educational settings.
 
+Even seemingly neutral bills like SB762 regarding flag displays could impact cultural expression within educational institutions.
+
+The collective impact of these bills creates a multi-layered system of restrictions and surveillance that could significantly affect Chinese students, researchers, and academics in Texas, potentially limiting educational opportunities and creating an atmosphere of suspicion and discrimination.
 
 
 ### Translation
 
-教育法案通常关注课程标准、资金分配和学生资格标准。然而，这些德克萨斯州法案呈现出一系列针对国际学生和外国影响力的限制措施，特别影响中国学生和学术合作。
+教育法案通常关注课程标准、资金分配和学生资格标准。然而，这些德克萨斯州法案显示出一个令人担忧的模式，针对国际学生和国际学术合作设置限制，特别影响中国公民。
 
-多项法案（HB160、HB232、HB424、HB979、HB1324）系统性地限制无证移民获得州内学费待遇，要求将其重新归类为非居民身份。这些变化显著增加了无proper身份中国学生的教育成本。
+多项法案（HB160、HB232、HB424、HB979、HB1324）系统性地限制未获授权移民享受州内学费待遇，要求学校将先前符合资格的学生重新归类为非居民。这直接影响没有适当移民身份的中国学生，可能使高等教育在经济上变得难以负担。
 
-这些法案还加强了对教育领域外国影响力的审查：
-- HB173和SB1067禁止接受来自中国政府实体的捐赠或资助
-- HB1450要求详细报告所有外国资金来源
-- HB2595明确禁止与包括中国在内的"外国对手"签订合同，实际上终止了许多中国教育合作项目
+HB371更进一步限制公立学校入学资格仅限于美国公民和合法居留的外国人，除非获得联邦资金支持，否则可能剥夺无证中国儿童接受基础教育的机会。
 
-特别值得注意的是HB1457和SB453，这些法案要求高中开设课程涵盖中国历史敏感话题，包括天安门事件和对维吾尔族的处理。虽然具有教育性质，但可能会影响学生对中国的看法，影响中国学生的教育体验。
+通过HB173、HB1450和SB1067，显示出对外国影响力监控的重视，禁止接受来自中国政府实体的捐赠，并要求详细报告外国资金来源。这可能严重影响与中国相关的学术项目和研究机会。
 
-HB371更进一步限制公立学校仅接收合法居留学生，除非获得联邦资金支持，否则可能剥夺无证中国儿童的基础教育机会。
+HB2595和SB1273特别针对与"外国对手"（包括中国）的学术合作，实施严格限制并建立监控机制。这些法案可能在德克萨斯州教育机构中为中国研究人员和学者创造敌对环境。
 
-这些法案共同为中国学生、学者和教育机构创造了一个充满挑战的环境，通过：
-1. 通过学费重新分类增加教育成本
-2. 限制资金来源和学术合作
-3. 通过强制性课程内容可能营造不友好氛围
-4. 限制无证学生的教育机会
+课程相关法案（HB1457和SB453）强制要求教授中国历史敏感话题，可能影响教育环境中对中国学生和移民的看法。
+
+即使是像SB762这样关于旗帜展示的看似中立的法案也可能影响教育机构内的文化表达。
+
+这些法案的综合影响创造了一个多层次的限制和监控系统，可能显著影响在德克萨斯州的中国学生、研究人员和学者，潜在限制教育机会，并创造怀疑和歧视的氛围。
 
 
 ### Bills
-Last Updated at 09:13:16 2025-02-13
+Last Updated at 13:27:44 2025-02-14
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -161,6 +154,7 @@ Last Updated at 09:13:16 2025-02-13
 |[SB453](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB453)|<br>This bill requires Texas public high school students to take a half-credit course on modern conflicts, including detailed study of China's history. The course covers sensitive topics about China including the Communist Party's rise, Tiananmen Square protests, Tibet occupation, and treatment of Uyghurs and Falun Gong practitioners. While not directly restricting Chinese immigrants, the mandatory curriculum could potentially influence students' perspectives about China and Chinese people.<br>|<br>该法案要求德克萨斯州公立高中学生必修一门关于现代冲突的半学分课程，包括对中国历史的详细研究。课程涵盖了有关中国的敏感话题，包括共产党的崛起、天安门广场抗议、西藏占领以及对维吾尔族和法轮功修炼者的处理。虽然没有直接限制中国移民，但这个强制性课程可能会影响学生对中国和中国人的看法。<br>|<br>1. Education Committee<br>2. Public Education Committee<br>3. Higher Education Committee<br>|Relating to the inclusion of a course on modern conflicts in the curriculum requirements for public high school students.|Middleton|02/03/2025 S Referred to Education K-16|
 |[SB762](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB762)|<br>The bill restricts flag displays in Texas public schools to only specific types, including flags of foreign countries. While not directly targeting Chinese immigrants, it could affect cultural expression by limiting display of cultural/heritage flags that don't fall under the permitted categories. However, Chinese national flag would still be allowed as it qualifies under "flags that represent a foreign country."<br>|<br>该法案限制德克萨斯州公立学校只能展示特定类型的旗帜，包括外国国旗。虽然并非直接针对中国移民，但可能会影响文化表达，因为不在允许范围内的文化/传统旗帜将被禁止展示。不过，中国国旗作为"代表外国的旗帜"仍被允许展示。<br>|<br>1. Education Committee<br>2. Public Education Committee<br>3. State Affairs Committee<br>|Relating to the display of flags in public schools.|Campbell|02/07/2025 S Referred to Education K-16|
 |[SB1067](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1067)|<br>The bill prohibits public higher education institutions and their employees from soliciting or accepting gifts, grants, donations, or investments from entities of designated countries that pose national security risks (as identified by US Intelligence). While not explicitly naming China, it likely impacts Chinese government entities, political parties, and state-owned companies. Existing funds received must be returned. This could affect Chinese scholars' research funding and academic collaboration opportunities.<br>|<br>该法案禁止公立高等教育机构及其员工接受或soliciting来自被指定国家（经美国情报机构认定对国家安全构成风险的国家）的实体的礼物、赠款、捐赠或投资。虽然未明确提到中国，但该法案很可能影响中国政府实体、政党和国有企业。已收到的资金必须退还。这可能影响中国学者的研究经费和学术合作机会。<br>|<br>1. Higher Education Committee<br>2. State Affairs Committee<br>3. Education Committee<br>|Relating to prohibiting public institutions of higher education and employees of public institutions of higher education from soliciting or accepting gifts, grants, donations, or investments from certain foreign entities.|Middleton|02/03/2025 S Filed|
+|[SB1273](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1273)|<br>The bill establishes a Higher Education Research Security Council to promote secure academic research while preventing foreign espionage at tier one research institutions. Chinese researchers may face increased scrutiny through background checks and monitoring. The council cannot accept donations from China and other specified countries. This could create additional barriers and surveillance for Chinese academics in Texas universities.<br>|<br>该法案建立了高等教育研究安全委员会，旨在促进一级研究机构的学术研究安全，同时防止外国间谍活动。中国研究人员可能面临更严格的背景调查和监控。该委员会不能接受来自中国和其他指定国家的捐赠。这可能会给德克萨斯州大学的中国学者带来额外的障碍和监视。<br>|<br>1. Higher Education Committee<br>2. State Affairs Committee<br>3. Homeland Security  Public Safety Committee<br>|Relating to establishing the Higher Education Research Security Council.|Hughes|02/13/2025 S Filed|
 
 
 ## Contracting and Investment
@@ -232,7 +226,7 @@ These bills collectively create a challenging environment for Chinese nationals,
 
 
 ### Bills
-Last Updated at 09:13:50 2025-02-13
+Last Updated at 13:28:10 2025-02-14
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -246,9 +240,10 @@ Last Updated at 09:13:50 2025-02-13
 |[HB2403](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2403)|<br>This bill prohibits Texas governmental entities from contracting with Chinese companies for information and communications technology services. It impacts Chinese companies and their subsidiaries, whether state-owned or private. Companies must verify they are not Chinese-owned/controlled. Violations result in contract termination, 2-year contracting ban, and civil penalties. While targeting Chinese companies, this could indirectly affect Chinese professionals working for these companies.<br>|<br>该法案禁止德克萨斯州政府机构与中国公司签订信息和通信技术服务合同。它影响中国公司及其子公司，无论是国有还是私营。公司必须证实它们不受中国所有/控制。违规将导致合同终止、2年承包禁令和民事处罚。虽然针对中国公司，但可能间接影响在这些公司工作的中国专业人士。<br>|<br>1. State Affairs Committee<br>2. Technology Committee<br>3. Government Operations Committee<br>|Relating to a prohibition on governmental contracts with Chinese companies for certain information and communications technology; authorizing a civil penalty.|Leo Wilson|02/04/2025 H Filed|
 |[HB2409](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2409)|<br>This bill prohibits Texas governmental entities from contracting with Chinese companies for information and communications technology services. Companies must verify they are not Chinese-owned/controlled. Violations result in contract termination, 5-year ban from state contracts, civil penalties up to twice contract value, and criminal charges. While targeting Chinese companies, this could impact Chinese professionals working for or owning tech companies in Texas.<br>|<br>该法案禁止德克萨斯州政府机构与中国公司签订信息和通信技术服务合同。公司必须证明其不受中国所有/控制。违规将导致合同终止、5年内禁止参与州政府合同、高达合同价值两倍的民事处罚以及刑事指控。虽然该法案针对中国公司，但可能会影响在德克萨斯州经营科技公司或为科技公司工作的中国专业人士。<br>|<br>1. State Affairs Committee<br>2. Technology Committee<br>3. Government Operations Committee<br>|Relating to a prohibition on governmental contracts with Chinese companies for certain information and communications technology; authorizing a civil penalty; creating a criminal offense.|Cain|02/04/2025 H Filed|
 |[HB2527](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2527)|<br>This bill prohibits lobbyists from representing entities from designated countries that pose national security risks (as identified by US Intelligence). This affects Chinese entities and individuals, as China is consistently listed in Annual Threat Assessments. Lobbyists cannot represent Chinese government entities, China-headquartered organizations, Chinese-controlled organizations, or Chinese nationals. Violations are third-degree felonies.<br>|<br>该法案禁止说客代表来自被指定国家（经美国情报部门认定对国家安全构成风险）的实体。这影响到中国实体和个人，因为中国在年度威胁评估中被持续列入。说客不能代表中国政府实体、总部在中国的组织、受中国控制的组织或中国公民。违反者将被判处三级重罪。<br>|<br>1. State Affairs Committee<br>2. Homeland Security  Public Safety Committee<br>3. International Relations  Economic Development Committee<br>|Relating to prohibiting lobbyists from representing certain aliens or foreign entities, providing a criminal penalty.|King|02/06/2025 H Filed|
+|[HB2852](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2852)|<br>The bill allows foreign medical license holders, including Chinese doctors, to obtain a provisional license to practice medicine in Texas if they meet specific requirements including 3 years of practice abroad, foreign medical degree, ECFMG certification, and employment offer from qualified healthcare providers. Chinese medical professionals could benefit from this pathway to practice in Texas under supervision for 2 years before getting a full license.<br>|<br>该法案允许包括中国医生在内的外国医师执照持有者在德克萨斯州获得临时执照行医，前提是需满足特定要求，包括在国外有3年行医经验、具有国外医学学位、获得ECFMG认证，并有合格医疗机构的聘用邀请。中国医疗专业人员可以通过这一途径在督导下在德州行医2年，之后可获得正式执照。<br>|<br>1. House Public Health Committee<br>2. House Higher Education Committee<br>3. House Licensing  Administrative Procedures Committee<br>|Relating to the issuance of a provisional license to practice medicine to certain foreign medical license holders with offers of employment; authorizing fees.|Perez, Vincent|02/14/2025 H Filed|
 |[SB667](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB667)|<br>This bill prohibits Texas state retirement systems from investing in Chinese-affiliated entities, including companies incorporated/headquartered in China, controlled by Chinese government/CCP, or required to assist Chinese intelligence work. While targeting Chinese government-affiliated entities, this could indirectly impact Chinese businesses and individuals by limiting their access to Texas state pension fund investments and capital markets.<br>|<br>该法案禁止德克萨斯州退休系统投资于中国相关实体，包括在中国注册/总部设在中国的公司、受中国政府/中共控制的公司，或被要求协助中国情报工作的公司。虽然该法案针对的是中国政府相关实体，但可能会通过限制其获得德克萨斯州养老基金投资和资本市场准入，间接影响中国企业和个人。<br>|<br>1. Pensions Committee<br>2. State Affairs Committee<br>3. Investments  Financial Services Committee<br>|Relating to prohibiting state retirement systems from investing in certain Chinese-affiliated entities.|Hughes|02/03/2025 S Referred to State Affairs|
 |[SB780](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB780)|<br>This bill establishes a Homeland Security Division within Texas Department of Public Safety to coordinate border security and critical infrastructure protection. While not directly targeting Chinese immigrants, Section 411.556 requires the division to assist agencies in complying with federal restrictions on commerce with Chinese military companies and entities listed in federal sanctions, which could indirectly affect Chinese businesses and personnel in Texas.<br>|<br>该法案在德克萨斯州公共安全部内设立国土安全部门，负责协调边境安全和关键基础设施保护。虽然没有直接针对中国移民，但第411.556条要求该部门协助各机构遵守联邦对中国军工企业和被制裁实体的商业限制，这可能间接影响在德克萨斯州的中国企业和人员。<br>|<br>1. Homeland Security  Public Safety Committee<br>2. State Affairs Committee<br>3. Border  International Affairs Committee<br>|Relating to the homeland security activities of certain entities, including the establishment and operations of the Homeland Security Division in the Department of Public Safety.|Parker|02/07/2025 S Referred to Border Security|
-|[SB934](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB934)|<br>The bill prohibits installation and repair of critical electric grid equipment purchased from companies and organizations from China, Iran, North Korea, Russia, or designated countries after Dec 31, 2025. Chinese companies and nonprofits are explicitly banned from supplying equipment to ERCOT power region. This affects Chinese businesses' ability to participate in Texas's electric grid infrastructure market.<br>|<br>该法案禁止在2025年12月31日后安装和维修从中国、伊朗、朝鲜、俄罗斯或指定国家的公司和组织购买的关键电网设备。明确禁止中国公司和非营利组织向ERCOT电力区域供应设备。这影响了中国企业参与德克萨斯州电网基础设施市场的能力。<br>|<br>1. State Affairs Committee<br>2. Energy Resources Committee<br>3. Business  Commerce Committee<br>|Relating to the installation and repair of critical electric grid equipment purchased from certain companies and nonprofit organizations.|Hall|01/27/2025 S Filed|
+|[SB934](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB934)|<br>The bill prohibits installation and repair of critical electric grid equipment purchased from companies and organizations from China, Iran, North Korea, and Russia after December 31, 2025. While not directly targeting Chinese individuals, this affects Chinese companies and nonprofits from participating in Texas's electric grid infrastructure, potentially impacting Chinese-owned businesses operating in Texas's power sector.<br>|<br>该法案禁止在2025年12月31日后安装和维修从中国、伊朗、朝鲜和俄罗斯的公司和组织购买的关键电网设备。虽然不直接针对中国个人，但这影响到中国公司和非营利组织参与德克萨斯州电网基础设施的能力，可能会影响在德克萨斯州电力行业运营的中资企业。<br>|<br>1. State Affairs Committee<br>2. Energy Resources Committee<br>3. Business  Commerce Committee<br>|Relating to the installation and repair of critical electric grid equipment purchased from certain companies and nonprofit organizations.|Hall|02/13/2025 S Referred to Business & Commerce|
 |[SB1200](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1200)|<br>The bill requires claimants in civil actions against US defense contractors to disclose any funding or financial support received from sanctioned/embargoed nations. While not explicitly mentioning China, this could affect Chinese nationals or entities if China is designated as a sanctioned nation, requiring them to disclose any financial connections when filing lawsuits against US defense contractors.<br>|<br>该法案要求在对美国国防承包商提起民事诉讼时，原告必须披露从受制裁/禁运国家获得的任何资金或财务支持。虽然没有明确提到中国，但如果中国被列为受制裁国家，这可能会影响中国公民或实体，要求他们在起诉美国国防承包商时披露任何财务关联。<br>|<br>1. Committee on State Affairs<br>2. Committee on Defense  Veterans' Affairs<br>3. Committee on Judiciary  Civil Jurisprudence<br>|Relating to the required disclosure of certain financial relationships in civil actions against United States defense contractors.|Kolkhorst|02/10/2025 S Filed|
 
 
@@ -277,7 +272,7 @@ HB2587引入了一个医疗保健追踪系统，可能会为无证移民（包�
 
 
 ### Bills
-Last Updated at 09:13:50 2025-02-13
+Last Updated at 13:28:10 2025-02-14
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -318,7 +313,7 @@ HB2241虽主要是枪支管制措施，但特别将中国制造的武器列入�
 
 
 ### Bills
-Last Updated at 09:13:50 2025-02-13
+Last Updated at 13:28:10 2025-02-14
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|

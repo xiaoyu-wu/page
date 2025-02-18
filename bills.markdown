@@ -73,7 +73,7 @@ These bills collectively create a hostile environment for Chinese investment and
 
 
 ### Bills
-Last Updated at 10:33:28 2025-02-17
+Last Updated at 10:41:48 2025-02-18
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -137,7 +137,7 @@ HB2595和SB1273特别针对与"外国对手"（包括中国）的学术合作，
 
 
 ### Bills
-Last Updated at 10:33:28 2025-02-17
+Last Updated at 10:41:48 2025-02-18
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -162,60 +162,62 @@ Last Updated at 10:33:28 2025-02-17
 
 ### Overview
 
-Contracting and investment laws typically focus on regulating business transactions, government contracts, and financial investments to protect national interests and security. This set of bills from Texas demonstrates a clear pattern of restrictions specifically targeting Chinese entities and, by extension, potentially affecting Chinese immigrants and Chinese Americans.
+These bills primarily focus on regulating business contracts, investments, and economic relationships with foreign entities, with a particular emphasis on national security concerns. The legislation package demonstrates a clear pattern of restricting Chinese involvement in Texas's economy and infrastructure.
 
-Several bills focus on technology and infrastructure:
-- HB1907, HB2403, and HB2409 prohibit Texas government entities from contracting with Chinese companies for IT services, affecting Chinese-owned businesses and Chinese professionals in the tech sector.
-- HB2244 specifically bans purchasing electric vehicles or components from Chinese-connected companies.
-- SB934 prohibits Chinese-made critical electric grid equipment.
+Several bills directly target Chinese business interests and investments:
+- HB1907, HB2403, and HB2409 specifically prohibit Texas governmental entities from contracting with Chinese companies for IT services, affecting Chinese-owned businesses and Chinese professionals in the tech sector.
+- HB2244 bans purchasing electric vehicles or components from Chinese-connected companies.
+- SB934 prohibits Chinese involvement in critical electric grid equipment.
+- SB667 prevents Texas state retirement systems from investing in Chinese-affiliated entities.
 
-Financial and investment restrictions are established through:
-- HB1049 and HB1056 create a gold/silver currency system with provisions that could restrict transactions with Chinese entities.
-- SB667 prohibits state retirement systems from investing in Chinese-affiliated entities.
+Other bills create broader restrictions that could impact Chinese nationals and entities:
+- HB1049 and HB1056 establish a gold/silver currency system with provisions that could restrict transactions with foreign entities deemed problematic.
+- HB1381 affects higher education funding, potentially impacting Chinese students' scholarships and educational partnerships.
 - HB1623 restricts tax benefits for entities from "designated countries."
-
-Educational and professional impacts:
-- HB1381 could cut off Chinese funding and partnerships in higher education.
-- HB2852 provides a pathway for Chinese medical professionals to practice in Texas.
-- HB2527 prohibits lobbying representation for Chinese entities and nationals.
-
-Infrastructure and legal requirements:
-- HB2003 requires disclosure of foreign investments in high-speed rail projects.
-- HB2884 and SB1200 require disclosure of funding from sanctioned nations in legal actions.
+- HB2003 increases scrutiny on foreign investments in rail projects.
+- HB2527 and HB2912 prohibit lobbying activities on behalf of Chinese interests.
+- HB2884 and SB1200 require disclosure of foreign funding in legal actions against defense contractors.
 - SB780 establishes oversight of commerce with Chinese military companies.
 
-These bills collectively create a restrictive environment for Chinese nationals, businesses, and potentially Chinese Americans, affecting their ability to conduct business, invest, work in certain sectors, and receive funding in Texas.
+The collective impact on Chinese immigrants, students, and professionals in Texas could be substantial, potentially affecting their ability to:
+- Operate businesses in technology and infrastructure sectors
+- Receive educational funding
+- Participate in government contracts
+- Access certain financial services
+- Engage in lobbying or legal actions
+- Receive state tax benefits
 
 
 ### Translation
 
-合同和投资法通常致力于规范商业交易、政府合同和金融投资，以保护国家利益和安全。这些德克萨斯州的法案显示出明确针对中国实体的限制模式，并可能影响中国移民和美籍华人。
+这些法案主要关注规范商业合同、投资和与外国实体的经济关系，特别强调国家安全考虑。该立法包显示出明确限制中国参与德克萨斯州经济和基础设施的模式。
 
-多项法案聚焦于技术和基础设施：
-- HB1907、HB2403和HB2409禁止德州政府实体与中国公司签订IT服务合同，影响中资企业和科技领域的中国专业人士。
-- HB2244特别禁止从中国相关公司购买电动车或零部件。
-- SB934禁止使用中国制造的关键电网设备。
+多项法案直接针对中国商业利益和投资：
+- HB1907、HB2403和HB2409特别禁止德州政府实体与中国公司签订IT服务合同，影响中资企业和科技领域的中国专业人士。
+- HB2244禁止从与中国有关联的公司购买电动车或零部件。
+- SB934禁止中国参与关键电网设备。
+- SB667防止德州州立退休系统投资中国相关实体。
 
-金融和投资限制通过以下方式确立：
-- HB1049和HB1056建立金银货币体系，可能限制与中国实体的交易。
-- SB667禁止州退休系统投资中国相关实体。
+其他法案制定了可能影响中国公民和实体的更广泛限制：
+- HB1049和HB1056建立金银货币体系，可能限制与被认为有问题的外国实体进行交易。
+- HB1381影响高等教育资金，可能影响中国学生的奖学金和教育合作。
 - HB1623限制"指定国家"实体的税收优惠。
-
-教育和职业影响：
-- HB1381可能切断中国在高等教育领域的资金和合作。
-- HB2852为中国医疗专业人员在德州执业提供途径。
-- HB2527禁止为中国实体和公民提供游说代表。
-
-基础设施和法律要求：
-- HB2003要求披露高铁项目中的外国投资。
-- HB2884和SB1200要求在法律诉讼中披露来自受制裁国家的资金。
+- HB2003加强对铁路项目外国投资的审查。
+- HB2527和HB2912禁止代表中国利益进行游说活动。
+- HB2884和SB1200要求在对国防承包商提起诉讼时披露外国资金来源。
 - SB780建立对与中国军事公司商业往来的监督。
 
-这些法案共同为中国公民、企业和潜在的美籍华人创造了一个限制性环境，影响他们在德克萨斯州开展业务、投资、在特定领域工作和接受资金的能力。
+这些法案对德州的中国移民、学生和专业人士的整体影响可能很大，潜在影响其：
+- 在技术和基础设施领域经营企业的能力
+- 获取教育资金
+- 参与政府合同
+- 获取某些金融服务
+- 参与游说或法律行动
+- 获得州税收优惠
 
 
 ### Bills
-Last Updated at 10:33:28 2025-02-17
+Last Updated at 10:41:48 2025-02-18
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -229,8 +231,8 @@ Last Updated at 10:33:28 2025-02-17
 |[HB2403](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2403)|<br>This bill prohibits Texas governmental entities from contracting with Chinese companies for information and communications technology services. It impacts Chinese companies and their subsidiaries, whether state-owned or private. Companies must verify they are not Chinese-owned/controlled. Violations result in contract termination, 2-year contracting ban, and civil penalties. While targeting Chinese companies, this could indirectly affect Chinese professionals working for these companies.<br>|<br>该法案禁止德克萨斯州政府机构与中国公司签订信息和通信技术服务合同。它影响中国公司及其子公司，无论是国有还是私营。公司必须证实它们不受中国所有/控制。违规将导致合同终止、2年承包禁令和民事处罚。虽然针对中国公司，但可能间接影响在这些公司工作的中国专业人士。<br>|<br>1. State Affairs Committee<br>2. Technology Committee<br>3. Government Operations Committee<br>|Relating to a prohibition on governmental contracts with Chinese companies for certain information and communications technology; authorizing a civil penalty.|Leo Wilson|02/04/2025 H Filed|
 |[HB2409](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2409)|<br>This bill prohibits Texas governmental entities from contracting with Chinese companies for information and communications technology services. Companies must verify they are not Chinese-owned/controlled. Violations result in contract termination, 5-year ban from state contracts, civil penalties up to twice contract value, and criminal charges. While targeting Chinese companies, this could impact Chinese professionals working for or owning tech companies in Texas.<br>|<br>该法案禁止德克萨斯州政府机构与中国公司签订信息和通信技术服务合同。公司必须证明其不受中国所有/控制。违规将导致合同终止、5年内禁止参与州政府合同、高达合同价值两倍的民事处罚以及刑事指控。虽然该法案针对中国公司，但可能会影响在德克萨斯州经营科技公司或为科技公司工作的中国专业人士。<br>|<br>1. State Affairs Committee<br>2. Technology Committee<br>3. Government Operations Committee<br>|Relating to a prohibition on governmental contracts with Chinese companies for certain information and communications technology; authorizing a civil penalty; creating a criminal offense.|Cain|02/04/2025 H Filed|
 |[HB2527](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2527)|<br>This bill prohibits lobbyists from representing entities from designated countries that pose national security risks (as identified by US Intelligence). This affects Chinese entities and individuals, as China is consistently listed in Annual Threat Assessments. Lobbyists cannot represent Chinese government entities, China-headquartered organizations, Chinese-controlled organizations, or Chinese nationals. Violations are third-degree felonies.<br>|<br>该法案禁止说客代表来自被指定国家（经美国情报部门认定对国家安全构成风险）的实体。这影响到中国实体和个人，因为中国在年度威胁评估中被持续列入。说客不能代表中国政府实体、总部在中国的组织、受中国控制的组织或中国公民。违反者将被判处三级重罪。<br>|<br>1. State Affairs Committee<br>2. Homeland Security  Public Safety Committee<br>3. International Relations  Economic Development Committee<br>|Relating to prohibiting lobbyists from representing certain aliens or foreign entities, providing a criminal penalty.|King|02/06/2025 H Filed|
-|[HB2852](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2852)|<br>The bill allows foreign medical license holders, including Chinese doctors, to obtain a provisional license to practice medicine in Texas if they meet specific requirements including 3 years of practice abroad, foreign medical degree, ECFMG certification, and employment offer from qualified healthcare providers. Chinese medical professionals could benefit from this pathway to practice in Texas under supervision for 2 years before getting a full license.<br>|<br>该法案允许包括中国医生在内的外国医师执照持有者在德克萨斯州获得临时执照行医，前提是需满足特定要求，包括在国外有3年行医经验、具有国外医学学位、获得ECFMG认证，并有合格医疗机构的聘用邀请。中国医疗专业人员可以通过这一途径在督导下在德州行医2年，之后可获得正式执照。<br>|<br>1. House Public Health Committee<br>2. House Higher Education Committee<br>3. House Licensing  Administrative Procedures Committee<br>|Relating to the issuance of a provisional license to practice medicine to certain foreign medical license holders with offers of employment; authorizing fees.|Perez, Vincent|02/14/2025 H Filed|
 |[HB2884](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2884)|<br>The bill requires claimants in civil actions against US defense contractors to disclose any funding or financial support received from sanctioned or embargoed nations. While not explicitly mentioning China, this could affect Chinese nationals or entities if China is designated as a sanctioned nation, potentially impacting their ability to pursue legal actions against US defense contractors without disclosing funding sources.<br>|<br>该法案要求在针对美国国防承包商的民事诉讼中，原告必须披露从受制裁或禁运国家获得的任何资金或财务支持。虽然没有明确提到中国，但如果中国被列为受制裁国家，这可能会影响中国公民或实体，可能影响他们在不披露资金来源的情况下对美国国防承包商提起法律诉讼的能力。<br>|<br>1. House Judiciary Committee<br>2. House Defense Committee<br>3. House Foreign Affairs Committee<br>|Relating to the required disclosure of certain financial relationships in civil actions against United States defense contractors.|Landgraf|02/14/2025 H Filed|
+|[HB2912](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2912)|<br>The bill prohibits lobbying activities on behalf of foreign adversaries, including China and their related entities. It affects anyone representing Chinese government, officials, political parties, or companies controlled by China. Violations can result in injunctive relief and civil penalties up to $50,000 per violation. This could impact Chinese businesses and organizations seeking to influence Texas legislation.<br>|<br>该法案禁止代表外国对手（包括中国及其相关实体）进行游说活动。它影响到代表中国政府、官员、政党或受中国控制的公司的任何人。违反者可能面临禁令救济和每次违规最高5万美元的民事处罚。这可能影响寻求影响德克萨斯州立法的中国企业和组织。<br>|<br>1. State Affairs Committee<br>2. International Relations  Economic Development Committee<br>3. Judiciary  Civil Jurisprudence Committee<br>|Relating to a prohibition on engaging in lobbying activities on behalf of a foreign adversary; providing a civil penalty.|Cain|02/18/2025 H Filed|
 |[SB667](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB667)|<br>This bill prohibits Texas state retirement systems from investing in Chinese-affiliated entities, including companies incorporated/headquartered in China, controlled by Chinese government/CCP, or required to assist Chinese intelligence work. While targeting Chinese government-affiliated entities, this could indirectly impact Chinese businesses and individuals by limiting their access to Texas state pension fund investments and capital markets.<br>|<br>该法案禁止德克萨斯州退休系统投资于中国相关实体，包括在中国注册/总部设在中国的公司、受中国政府/中共控制的公司，或被要求协助中国情报工作的公司。虽然该法案针对的是中国政府相关实体，但可能会通过限制其获得德克萨斯州养老基金投资和资本市场准入，间接影响中国企业和个人。<br>|<br>1. Pensions Committee<br>2. State Affairs Committee<br>3. Investments  Financial Services Committee<br>|Relating to prohibiting state retirement systems from investing in certain Chinese-affiliated entities.|Hughes|02/03/2025 S Referred to State Affairs|
 |[SB780](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB780)|<br>This bill establishes a Homeland Security Division within Texas Department of Public Safety to coordinate border security and critical infrastructure protection. While not directly targeting Chinese immigrants, Section 411.556 requires the division to assist agencies in complying with federal restrictions on commerce with Chinese military companies and entities listed in federal sanctions, which could indirectly affect Chinese businesses and personnel in Texas.<br>|<br>该法案在德克萨斯州公共安全部内设立国土安全部门，负责协调边境安全和关键基础设施保护。虽然没有直接针对中国移民，但第411.556条要求该部门协助各机构遵守联邦对中国军工企业和被制裁实体的商业限制，这可能间接影响在德克萨斯州的中国企业和人员。<br>|<br>1. Homeland Security  Public Safety Committee<br>2. State Affairs Committee<br>3. Border  International Affairs Committee<br>|Relating to the homeland security activities of certain entities, including the establishment and operations of the Homeland Security Division in the Department of Public Safety.|Parker|02/07/2025 S Referred to Border Security|
 |[SB934](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB934)|<br>The bill prohibits installation and repair of critical electric grid equipment purchased from companies and organizations from China, Iran, North Korea, and Russia after December 31, 2025. While not directly targeting Chinese individuals, this affects Chinese companies and nonprofits from participating in Texas's electric grid infrastructure, potentially impacting Chinese-owned businesses operating in Texas's power sector.<br>|<br>该法案禁止在2025年12月31日后安装和维修从中国、伊朗、朝鲜和俄罗斯的公司和组织购买的关键电网设备。虽然不直接针对中国个人，但这影响到中国公司和非营利组织参与德克萨斯州电网基础设施的能力，可能会影响在德克萨斯州电力行业运营的中资企业。<br>|<br>1. State Affairs Committee<br>2. Energy Resources Committee<br>3. Business  Commerce Committee<br>|Relating to the installation and repair of critical electric grid equipment purchased from certain companies and nonprofit organizations.|Hall|02/13/2025 S Referred to Business & Commerce|
@@ -262,13 +264,12 @@ HB2587引入了一个医疗保健追踪系统，可能会为无证移民（包�
 
 
 ### Bills
-Last Updated at 10:33:50 2025-02-17
+Last Updated at 10:42:08 2025-02-18
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
 |[HB1762](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1762)|<br>This bill makes illegal aliens ineligible for any form of community supervision or deferred adjudication in Texas criminal cases. While not specifically targeting Chinese immigrants, it affects any Chinese nationals who entered the US without proper inspection or failed to maintain their nonimmigrant status (like expired student/work visas). This could result in harsher punishments as they would be ineligible for probation alternatives.<br>|<br>该法案规定非法移民在德克萨斯州的刑事案件中不能获得社区监督或延期判决等缓刑待遇。虽然并非专门针对中国移民，但会影响所有未经适当检查入境或未能维持非移民身份（如学生签证/工作签证过期）的中国公民。由于他们将无法获得缓刑选择，这可能导致更严厉的处罚。<br>|<br>1. Criminal Justice Committee<br>2. State Affairs Committee<br>3. Judiciary Committee<br>|Relating to changing the eligibility of certain persons to receive community supervision, including deferred adjudication community supervision.|Leach|01/07/2025 H Filed|
 |[HB2587](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2587)|<br>This bill requires Texas hospitals to track and report uncompensated healthcare costs for patients not lawfully present in the US. Hospitals must include immigration status questions on intake forms and submit quarterly reports. While not specifically targeting Chinese immigrants, it affects all non-citizens without lawful permanent residence, including unauthorized Chinese immigrants seeking medical care in Texas.<br>|<br>该法案要求德克萨斯州的医院追踪并报告为非法居留人士提供的未补偿医疗费用。医院必须在入院表格中包含移民身份问题，并提交季度报告。虽然没有特别针对中国移民，但该法案会影响所有没有合法永久居留权的非公民，包括在德克萨斯州寻求医疗服务的无证中国移民。<br>|<br>1. Health  Human Services Committee<br>2. State Affairs Committee<br>3. Public Health Committee<br>|Relating to an annual report on certain uncompensated hospital care costs.|Olcott|02/07/2025 H Filed|
-|[HB2858](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2858)|<br>This bill establishes a temporary guest worker program in Texas, allowing businesses to hire Mexican workers through US nonimmigrant visas. While not directly impacting Chinese immigrants, it creates a precedent for state-level guest worker programs that could potentially be expanded to include other countries in the future. The program requires workers to pass background checks, skills tests, and maintain proper documentation.<br>|<br>该法案在德克萨斯州建立临时客工计划，允许企业通过美国非移民签证雇用墨西哥工人。虽然没有直接影响中国移民，但它为州级客工计划创造了先例，未来可能扩展到包括其他国家。该计划要求工人通过背景调查、技能测试，并保持适当的文件记录。<br>|<br>1. State Affairs Committee<br>2. International Relations  Economic Development Committee<br>3. Labor Committee<br>|Relating to the establishment of a temporary guest worker program in this state.|Lopez, Ray|02/14/2025 H Filed|
 
 
 ## Others
@@ -304,7 +305,7 @@ HB2241虽主要是枪支管制措施，但特别将中国制造的武器列入�
 
 
 ### Bills
-Last Updated at 10:33:28 2025-02-17
+Last Updated at 10:41:48 2025-02-18
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|

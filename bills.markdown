@@ -14,65 +14,66 @@ Every bill is accompanied by an AI-generated summary, along with translations to
 
 ### Overview
 
-Alien land laws historically have been used to restrict property ownership by non-citizens, often targeting specific ethnic or national groups. This set of Texas bills represents a modern iteration of discriminatory land laws, primarily targeting Chinese nationals and entities, along with some other designated countries.
+Alien land laws historically have been discriminatory measures used to restrict property ownership rights of specific ethnic or national groups. This set of Texas bills represents a modern iteration of such discriminatory legislation, primarily targeting Chinese nationals and entities, along with some other designated countries.
 
-The bills can be categorized into several key restrictions:
+These bills create a comprehensive framework of restrictions that significantly impact Chinese individuals and entities in Texas:
 
-1. Broad Property Ownership Restrictions:
-- Multiple bills (HB191, HB402, HB1566, HB1849, HB2389, HB2536, SB103) explicitly prohibit Chinese citizens, government entities, and Chinese-controlled organizations from purchasing real property in Texas, unless they are US citizens or permanent residents.
-- HB2628 and HB2752 take a broader approach by targeting foreign organizations and entities from "designated countries."
+Property Purchase Restrictions:
+- Multiple bills (HB191, HB402, HB1566, HB1849, HB2389, HB2536, SB17, SB103, SB307) explicitly prohibit Chinese nationals, government entities, and Chinese-controlled organizations from purchasing real property in Texas.
+- Agricultural land faces particular scrutiny, with HB518, HB1743, and SB1063 specifically restricting foreign ownership of farmland.
 
-2. Agricultural Land Specific:
-- HB518, HB1743, and SB1063 specifically restrict foreign ownership of agricultural land, with SB1063 focusing on parcels up to 5 acres.
-- HB546 affects tax benefits for foreign-owned agricultural and open-space land.
+Enforcement and Penalties:
+- HB243 authorizes property seizure through eminent domain near critical infrastructure.
+- HB733 requires citizenship verification for residential property purchases.
+- Bills like HB1849 impose severe penalties, including criminal charges and substantial fines.
 
-3. Enhanced Enforcement Mechanisms:
-- HB243 grants the Texas Attorney General power to seize foreign-owned property near critical infrastructure.
-- HB733 implements strict verification requirements for residential property transactions.
+Additional Restrictions:
+- HB546 affects tax benefits for foreign-owned open-space land.
 - HB2034 restricts groundwater permits for entities from designated countries.
+- HB2628 requires existing foreign-owned properties to be divested by 2026.
 
-The discriminatory impact on Chinese individuals and entities is severe:
-- Chinese nationals without permanent residency will be forced to divest existing properties by specific dates (e.g., 2027 under HB1743)
-- Chinese businesses face complete prohibition from property ownership
-- Even Chinese permanent residents may face additional scrutiny and documentation requirements
-- Chinese agricultural investments will be particularly affected
-- Criminal penalties and forced divestitures create significant legal risks
+While many bills exempt U.S. citizens and permanent residents of Chinese descent, these laws create a hostile environment for Chinese nationals, students, and temporary workers in Texas. The legislation could affect:
+- Chinese students' housing options
+- Chinese businesses' operations in Texas
+- Chinese professionals on work visas
+- Chinese agricultural investments
+- Property values of existing Chinese-owned properties
 
-These bills collectively create a hostile environment for Chinese investment and property ownership in Texas, potentially affecting even legitimate business operations and individual property rights of Chinese immigrants and Chinese Americans.
-
+This legislative package represents a discriminatory approach that could lead to broader anti-Chinese sentiment and affect the Chinese-American community, even those exempt from these restrictions.
 
 
 ### Translation
 
-外国人土地法历来被用于限制非公民的房地产所有权，通常针对特定的族裔或国籍群体。这套德克萨斯州法案代表了歧视性土地法的现代版本，主要针对中国公民和实体，以及其他一些特定国家。
+外国人土地法历来是用于限制特定族裔或国籍群体产权的歧视性措施。这些德克萨斯州法案代表了此类歧视性立法的现代版本，主要针对中国公民和实体，以及其他一些特定国家。
 
-这些法案可分为几个主要限制类别：
+这些法案建立了一个全面的限制框架，严重影响在德克萨斯州的中国个人和实体：
 
-1. 广泛的产权限制：
-- 多项法案（HB191、HB402、HB1566、HB1849、HB2389、HB2536、SB103）明确禁止中国公民、政府实体和中国控制的组织在德克萨斯购买房地产，除非他们是美国公民或永久居民。
-- HB2628和HB2752采取更广泛的方式，针对来自"指定国家"的外国组织和实体。
+产权购买限制：
+- 多项法案(HB191、HB402、HB1566、HB1849、HB2389、HB2536、SB17、SB103、SB307)明确禁止中国公民、政府实体和中国控制的组织在德克萨斯州购买不动产。
+- 农业用地受到特别审查，HB518、HB1743和SB1063专门限制外国人拥有农田。
 
-2. 农业用地特定限制：
-- HB518、HB1743和SB1063专门限制外国人拥有农业用地，其中SB1063侧重于5英亩以下的地块。
-- HB546影响外国人拥有的农业和开放空间用地的税收优惠。
+执法和处罚：
+- HB243授权通过征用权没收关键基础设施附近的财产。
+- HB733要求验证购买住宅物业者的公民身份。
+- 如HB1849等法案施加严厉处罚，包括刑事指控和巨额罚款。
 
-3. 加强执法机制：
-- HB243授权德克萨斯州总检察长没收靠近关键基础设施的外国人拥有的财产。
-- HB733对住宅物业交易实施严格的验证要求。
-- HB2034限制指定国家实体的地下水许可证。
+额外限制：
+- HB546影响外国人拥有的开放空间土地的税收优惠。
+- HB2034限制特定国家实体的地下水许可。
+- HB2628要求现有外国人拥有的物业在2026年前出售。
 
-对中国个人和实体的歧视性影响是严重的：
-- 没有永久居留权的中国公民将被迫在特定日期前（如HB1743规定的2027年）出售现有财产
-- 中国企业完全被禁止拥有房地产
-- 即使是中国永久居民也可能面临额外审查和文件要求
-- 中国农业投资将受到特别影响
-- 刑事处罚和强制剥离造成重大法律风险
+虽然许多法案豁免了具有中国血统的美国公民和永久居民，但这些法律为德克萨斯州的中国公民、学生和临时工作者创造了一个敌对环境。这些立法可能影响：
+- 中国学生的住房选择
+- 中国企业在德克萨斯州的运营
+- 持工作签证的中国专业人士
+- 中国在农业领域的投资
+- 现有中国人拥有物业的价值
 
-这些法案共同为中国在德克萨斯州的投资和房地产所有权创造了一个敌对环境，可能影响到中国移民和华裔美国人的合法商业运营和个人产权。
+这套立法体系代表了一种歧视性做法，可能导致更广泛的反华情绪，并影响中美社区，即使是那些豁免于这些限制的人。
 
 
 ### Bills
-Last Updated at 12:52:02 2025-02-19
+Last Updated at 11:51:10 2025-02-20
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -81,7 +82,7 @@ Last Updated at 12:52:02 2025-02-19
 |[HB402](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB402)|<br>This bill prohibits individuals and entities from designated countries (identified as national security risks by US Intelligence) from purchasing real property in Texas. This would impact Chinese citizens and Chinese-owned companies if China is designated as a risk country. Exceptions include US citizens, permanent residents, and residential homestead properties. Violations result in forced divestiture through court-appointed receivers.<br>|<br>该法案禁止来自被指定国家（被美国情报机构认定为国家安全风险的国家）的个人和实体购买德克萨斯州的不动产。如果中国被列为风险国家，这将影响中国公民和中资企业。例外情况包括美国公民、永久居民和自住房产。违反规定将导致通过法院指定的接管人强制剥离资产。<br>|<br>1. House Committee on State Affairs<br>2. House Committee on Business  Industry<br>3. House Committee on Land  Resource Management<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities.|Cain|11/12/2024 H Filed|
 |[HB518](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB518)|<br>The bill prohibits nonresident aliens, foreign businesses, and foreign governments from purchasing or acquiring agricultural land in Texas. This affects Chinese nationals and businesses not residing in Texas. The Department must submit annual reports identifying all agricultural land owned by foreign entities. While not specifically targeting Chinese owners, it impacts their ability to acquire farmland in Texas.<br>|<br>该法案禁止非居民外国人、外国企业和外国政府购买或获得德克萨斯州的农业用地。这影响到不在德克萨斯州居住的中国公民和企业。相关部门必须提交年度报告，确认所有由外国实体拥有的农业用地。虽然并非专门针对中国业主，但这会影响他们在德克萨斯州获取农田的能力。<br>|<br>1. Agriculture Committee<br>2. State Affairs Committee<br>3. Land and Resource Management Committee<br>|Relating to the ownership of agricultural land by nonresident aliens or foreign entities.|Leo Wilson, Hefner, Harris|11/12/2024 H Filed|
 |[HB546](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB546)|<br>The bill amends Texas Tax Code to make land ineligible for open-space land tax appraisal if owned by nonresident aliens, foreign governments, or entities with majority foreign ownership. While not explicitly targeting Chinese nationals, this affects all foreign individuals and entities, including Chinese property owners, potentially increasing their tax burden on agricultural and open-space land in Texas.<br>|<br>该法案修改德克萨斯州税收法规，规定由非居民外国人、外国政府或外资控股实体所拥有的土地将不具备开放空间用地税收评估资格。虽然没有明确针对中国公民，但这项法案会影响所有外国个人和实体（包括中国产权所有者），可能增加他们在德克萨斯州农业用地和开放空间用地的税收负担。<br>|<br>1. Ways and Means Committee<br>2. Agriculture Committee<br>3. Land and Resource Management Committee<br>|Relating to the eligibility of land taken by condemnation for appraisal for ad valorem tax purposes as qualified open-space land.|Bell, Cecil|11/12/2024 H Filed|
-|[HB733](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB733)|<br>The bill requires verification of citizenship or legal residency status for residential real property transactions in Texas. Sellers must verify buyers' status through specific documents (US passport, permanent resident card, etc.) and file an affidavit within 30 days. This affects Chinese immigrants and other non-citizens by adding extra documentation requirements when purchasing homes through certain contracts. Violations are criminal offenses with escalating penalties.<br>|<br>该法案要求在德克萨斯州进行住宅房地产交易时必须验证公民身份或合法居留身份。卖方必须通过特定文件（美国护照、永久居民卡等）验证买方身份，并在30天内提交宣誓书。这影响中国移民和其他非公民，在通过某些合同购买房屋时需要额外的文件要求。违反规定属于刑事犯罪，并有递进的处罚措施。<br>|<br>1. House Committee on State Affairs<br>2. House Committee on Business  Industry<br>3. House Committee on Judiciary  Civil Jurisprudence<br>|Relating to verification of citizenship or legal residency for purposes of certain contracts for or concerning the purchase of residential real property located in platted subdivisions; creating a criminal offense.|Bell, Cecil|11/12/2024 H Filed|
+|[HB733](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB733)|<br>This bill requires sellers to verify citizenship/legal residency status before entering residential real property contracts in Texas. While not specifically targeting Chinese immigrants, it affects all non-US citizens, including Chinese nationals, by requiring them to present valid immigration documents (like permanent resident cards or foreign passports with proper authorization) to purchase residential property. Violations are criminal offenses with escalating penalties.<br>|<br>该法案要求在德克萨斯州进行住宅房地产交易前，卖方必须验证买方的公民身份或合法居留身份。虽然并非专门针对中国移民，但该法案影响所有非美国公民，包括中国公民，要求他们在购买住宅物业时出示有效的移民文件（如永久居民卡或带有适当授权的外国护照）。违反该法案属于刑事犯罪，并有递进式处罚。<br>|<br>1. House Committee on State Affairs<br>2. House Committee on Business  Industry<br>3. House Committee on Urban Affairs<br>|Relating to verification of citizenship or legal residency for purposes of certain contracts for or concerning the purchase of residential real property located in platted subdivisions; creating a criminal offense.|Bell, Cecil, Holt|11/12/2024 H Filed|
 |[HB1566](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1566)|<br>This bill prohibits entities from designated countries that pose national security risks (like China, as identified in US Intelligence reports) from purchasing real property in Texas. This affects Chinese government entities, organizations headquartered in China, or those controlled by Chinese government. The attorney general can enforce this through court action and appoint receivers to manage/sell violating properties. Existing property ownership before the law is grandfathered.<br>|<br>该法案禁止来自被指定为对美国国家安全构成风险的国家（如在美国情报报告中确定的中国）的实体购买德克萨斯州的不动产。这影响中国政府实体、总部设在中国的组织或受中国政府控制的组织。司法部长可以通过法院诉讼执行该法律，并任命接管人管理/出售违规财产。法律生效前的现有产权不受影响。<br>|<br>1. House Committee on State Affairs<br>2. House Committee on Business  Industry<br>3. House Committee on Judiciary  Civil Jurisprudence<br>|Relating to the purchase of or acquisition of title to real property by certain foreign entities.|Patterson|12/10/2024 H Filed|
 |[HB1743](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1743)|<br>This bill prohibits certain foreign individuals and entities, especially those from countries under US arms embargo (including China), from holding or acquiring agricultural and other real property in Texas. Chinese citizens who are not Texas residents will be forced to divest their property by 2027. The bill creates criminal penalties and establishes an agricultural intelligence office to enforce these restrictions.<br>|<br>该法案禁止某些外国个人和实体，特别是来自受美国武器禁运国家（包括中国）的个人和实体，在德克萨斯州持有或购买农业用地和其他不动产。不是德克萨斯州居民的中国公民将被迫在2027年前出售其财产。该法案设立刑事处罚，并设立农业情报办公室来执行这些限制。<br>|<br>1. Agriculture  Livestock Committee<br>2. State Affairs Committee<br>3. Homeland Security  Public Safety Committee<br>|Relating to the holding or acquisition of an interest in real property by or on behalf of certain foreign individuals or entities; establishing an agricultural intelligence office; creating a criminal offense.|Little|01/06/2025 H Filed|
 |[HB1849](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1849)|<br>This bill prohibits individuals and entities from designated countries (China, Iran, North Korea, Russia) from purchasing or acquiring real property in Texas. Chinese citizens living in China are directly impacted and cannot buy property. Violations result in property divestiture, criminal charges (state jail felony), and fines up to 50% of property value or $250,000. Chinese permanent residents or citizens not domiciled in China are exempt.<br>|<br>该法案禁止来自指定国家（中国、伊朗、朝鲜、俄罗斯）的个人和实体在德克萨斯州购买或获得不动产。居住在中国的中国公民直接受影响，不能购买房产。违反者将被强制剥夺财产所有权、面临刑事指控（州监狱重罪）、并处以高达房产价值50%或25万美元的罚款。拥有永久居留权的中国人或不在中国定居的中国公民可以豁免。<br>|<br>1. House State Affairs Committee<br>2. House Judiciary  Civil Jurisprudence Committee<br>3. House Land  Resource Management Committee<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities; creating a criminal offense.|Hefner|01/15/2025 H Filed|
@@ -90,6 +91,7 @@ Last Updated at 12:52:02 2025-02-19
 |[HB2536](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2536)|<br>This bill prohibits individuals and entities from designated countries (specifically including China) from purchasing or acquiring real property in Texas. Chinese citizens living in China cannot buy property, and Chinese companies headquartered in China or controlled by Chinese government are also banned. Violations result in property divestiture and criminal penalties. However, Chinese citizens who are US permanent residents or not domiciled in China are exempt.<br>|<br>该法案禁止来自特定国家（特别包括中国）的个人和实体在德克萨斯州购买或获得不动产。居住在中国的中国公民不能购买房产，总部在中国或受中国政府控制的中国公司也被禁止。违反规定将导致资产剥离和刑事处罚。但是，拥有美国永久居留权或未在中国定居的中国公民可以豁免。<br>|<br>1. State Affairs Committee<br>2. Judiciary  Civil Jurisprudence Committee<br>3. Land  Resource Management Committee<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities; creating a criminal offense.|Leach|02/06/2025 H Filed|
 |[HB2628](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2628)|<br>This bill prohibits foreign organizations and organizations controlled by foreign entities/individuals from purchasing or acquiring real property in Texas. While not explicitly targeting Chinese entities, it affects Chinese companies, organizations with principal places outside the US, and organizations controlled by non-US citizens/residents. Existing property holdings must be divested by March 1, 2026.<br>|<br>该法案禁止外国组织和受外国实体/个人控制的组织在德克萨斯州购买或获得不动产。虽然没有明确针对中国实体，但它会影响中国公司、主要营业地在美国境外的组织，以及受非美国公民/居民控制的组织。现有的不动产所有权必须在2026年3月1日前处置。<br>|<br>1. House Committee on State Affairs<br>2. House Committee on Business  Industry<br>3. House Committee on Land  Resource Management<br>|Relating to the purchase of or acquisition of title to real property by foreign organizations.|Leo Wilson|02/11/2025 H Filed|
 |[HB2752](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2752)|<br>This bill prohibits individuals and entities from designated countries (identified as national security threats by US intelligence) from purchasing real property in Texas. While China is not explicitly named, Chinese citizens and entities would be impacted if China is designated as a security threat. The bill affects government officials, political party members, and citizens of designated countries who are not lawful US residents. US citizens and permanent residents are exempt.<br>|<br>该法案禁止来自被指定国家（被美国情报机构认定为国家安全威胁的国家）的个人和实体在德克萨斯州购买不动产。虽然没有明确提到中国，但如果中国被列为安全威胁，中国公民和实体将受到影响。该法案影响政府官员、政党成员和未获得合法居留权的指定国家公民。美国公民和永久居民不受影响。<br>|<br>1. House State Affairs Committee<br>2. House Land and Resource Management Committee<br>3. House Judiciary and Civil Jurisprudence Committee<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities.|Vasut|02/12/2025 H Filed|
+|[SB17](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB17)|<br>This bill prohibits individuals and organizations from designated countries (identified as national security risks by US intelligence) from purchasing real property in Texas. While China is not explicitly named, Chinese nationals and Chinese-controlled organizations would likely be impacted if China is designated as a risk country. The bill affects agricultural land, commercial/industrial property, residential property, mines, and timber lands.<br>|<br>该法案禁止来自被指定国家（被美国情报机构认定为国家安全风险的国家）的个人和组织购买德克萨斯州的不动产。虽然法案没有明确提到中国，但如果中国被列为风险国家，中国公民和受中国控制的组织很可能会受到影响。该法案涉及农业用地、商业/工业地产、住宅物业、矿场和林地。<br>|<br>1. State Affairs Committee<br>2. Business  Commerce Committee<br>3. Agriculture, Water  Rural Affairs Committee<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities.|Kolkhorst, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hinojosa, Adam, Hinojosa, Juan "Chuy", Huffman, King, Middleton, Parker, Schwertner, Sparks|02/20/2025 S Referred to State Affairs|
 |[SB103](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB103)|<br>This bill prohibits citizens of China (and Iran, North Korea, Russia) from purchasing real property in Texas, unless they are US citizens or permanent residents. It also bans Texas government entities from contracting with Chinese companies/entities or individuals. This significantly impacts Chinese nationals' ability to buy property or do business in Texas. Companies controlled by Chinese citizens or headquartered in China are also affected.<br>|<br>该法案禁止中国（以及伊朗、朝鲜、俄罗斯）公民在德克萨斯州购买不动产，除非他们是美国公民或永久居民。该法案还禁止德克萨斯州政府机构与中国公司/实体或个人签订合同。这将显著影响中国公民在德克萨斯州购买房产或开展业务的能力。由中国公民控制或总部设在中国的公司也将受到影响。<br>|<br>1. State Affairs Committee<br>2. Business  Commerce Committee<br>3. International Relations  Economic Development Committee<br>|Relating to prohibiting the purchase of or acquisition of title to real property by and contracts or other agreements with certain aliens or foreign entities.|Hall|02/03/2025 S Referred to State Affairs|
 |[SB307](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB307)|<br>This bill prohibits individuals and organizations from designated countries (including China) that pose national security risks from purchasing real property (agricultural land, mines, timber) in Texas. It affects Chinese nationals and Chinese-controlled organizations. The attorney general can investigate suspicious purchases and appoint receivers to manage/sell properties acquired in violation. US citizens/permanent residents are exempt.<br>|<br>该法案禁止来自被指定为对国家安全构成风险的国家（包括中国）的个人和组织购买德克萨斯州的不动产（农业用地、矿场、林地）。这影响到中国公民和受中国控制的组织。司法部长可以调查可疑的购买行为，并任命接管人管理/出售违规获得的财产。美国公民/永久居民不受影响。<br>|<br>1. State Affairs Committee<br>2. Agriculture  Livestock Committee<br>3. Natural Resources Committee<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities.|Kolkhorst, Bettencourt, Hall, Middleton|02/03/2025 S Referred to State Affairs|
 |[SB1063](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1063)|<br>This bill prohibits foreign individuals and companies from entering agreements related to agricultural land in Texas, specifically land up to 5 acres. Chinese citizens and Chinese-owned companies would be directly impacted, as they would be prohibited from purchasing, leasing, or controlling agricultural land. This affects both individual Chinese citizens and Chinese companies, regardless of whether they are publicly traded.<br>|<br>该法案禁止外国个人和公司就德克萨斯州的农业用地（特别是面积不超过5英亩的土地）签订协议。这将直接影响中国公民和中资公司，使他们无法购买、租赁或控制农业用地。这一限制同时适用于中国个人公民和中国公司，无论该公司是否为上市公司。<br>|<br>1. Agriculture Committee<br>2. State Affairs Committee<br>3. Business  Commerce Committee<br>|Relating to prohibiting contracts or other agreements with foreign-owned companies in connection with agricultural land.|Campbell|02/03/2025 S Filed|
@@ -99,58 +101,54 @@ Last Updated at 12:52:02 2025-02-19
 
 ### Overview
 
-Education bills typically focus on curriculum standards, funding allocation, and student eligibility criteria. However, this set of bills reveals a concerning pattern of restrictions targeting international students and foreign influences in Texas education, with particular implications for Chinese immigrants and students.
+Education bills typically focus on curriculum standards, funding allocation, and student eligibility criteria. However, this set of Texas bills reveals a concerning pattern of restrictions targeting international students and foreign academic connections, with particular implications for Chinese immigrants and students.
 
-Several bills (HB160, HB232, HB424, HB979, HB1324) systematically restrict unauthorized immigrants from qualifying for in-state tuition, requiring reclassification as non-residents. This significantly increases education costs for affected students, including Chinese students without proper documentation.
+Several bills (HB160, HB232, HB424, HB979, HB1324) systematically restrict unauthorized immigrants from qualifying for in-state tuition, requiring reclassification as non-residents. These changes significantly impact Chinese students without proper documentation by substantially increasing their education costs.
 
-The bills also establish various barriers to Chinese academic engagement:
-- HB173 and SB1067 prohibit accepting gifts or donations from Chinese governmental entities
-- HB2595 bans contracts with "foreign adversaries" including China
-- SB1273 creates a security council to monitor foreign research activities
+Multiple bills focus on limiting foreign influence in education:
+- HB173 and SB1067 prohibit accepting gifts or donations from Chinese government entities
 - HB1450 mandates detailed reporting of foreign funding sources
-- SB1319 caps foreign student athletic scholarships at 25%
+- HB2595 broadly restricts educational partnerships with "foreign adversaries," including China
+- SB1273 establishes oversight mechanisms specifically targeting foreign research activities
 
-Curriculum-related bills (HB1457, SB453) mandate teaching about sensitive topics in Chinese history, potentially affecting how Chinese students and immigrants are perceived in educational settings.
+The bills also introduce curriculum changes through HB1457 and SB453, mandating courses covering sensitive topics in Chinese history, which could potentially shape public perception of Chinese immigrants and their communities.
 
-The most severe restrictions come from HB371, which limits public school admission to legally present individuals, potentially denying basic education access to undocumented Chinese children unless federal funding is secured.
+Some bills create additional barriers:
+- HB371 restricts public school access for undocumented students
+- SB1319 limits athletic scholarships for international students
+- SB762 regulates flag displays, though allowing official national flags
+- SB1273 increases scrutiny of Chinese researchers through background checks
 
-These bills could create a challenging environment for Chinese students, researchers, and academics through:
-- Increased surveillance and scrutiny
-- Reduced funding opportunities
-- Limited academic collaboration
-- Higher education costs
-- Potential stigmatization
-- Restricted athletic opportunities
+The collective impact of these bills creates a challenging environment for Chinese students, scholars, and immigrants in Texas educational institutions, potentially limiting educational access, research opportunities, and cultural expression while increasing surveillance and administrative barriers.
+
 
 
 ### Translation
 
-教育法案通常关注课程标准、资金分配和学生资格标准。然而，这系列法案呈现出针对国际学生和外国影响力的限制性模式，特别影响中国移民和学生。
+教育法案通常关注课程标准、资金分配和学生资格标准。然而，这系列德克萨斯州法案呈现出一个令人担忧的模式，针对国际学生和外国学术联系设置限制，特别影响中国移民和学生。
 
-多项法案(HB160、HB232、HB424、HB979、HB1324)系统性地限制无证移民获得州内学费资格，要求将其重新归类为非居民身份。这显著增加了受影响学生的教育成本，包括没有适当文件的中国学生。
+多项法案（HB160、HB232、HB424、HB979、HB1324）系统性地限制无证移民获得州内学费资格，要求将其重新归类为非居民身份。这些变化通过大幅增加教育成本，显著影响没有适当文件的中国学生。
 
-这些法案还对中国学术参与设置了多重障碍：
+多项法案致力于限制外国影响：
 - HB173和SB1067禁止接受中国政府实体的捐赠或资助
-- HB2595禁止与"外国对手"（包括中国）签订合同
-- SB1273设立安全委员会监控外国研究活动
 - HB1450要求详细报告外国资金来源
-- SB1319将外国学生运动奖学金限制在25%
+- HB2595广泛限制与"外国对手"（包括中国）的教育合作
+- SB1273建立专门针对外国研究活动的监督机制
 
-课程相关法案(HB1457、SB453)强制要求教授中国历史敏感话题，可能影响中国学生和移民在教育环境中的处境。
+这些法案还通过HB1457和SB453引入课程变更，强制要求课程涵盖中国历史敏感话题，可能影响公众对中国移民及其社区的看法。
 
-最严格的限制来自HB371，该法案将公立学校入学限制在合法居留人员范围内，除非获得联邦资金支持，否则可能剥夺无证中国儿童的基础教育机会。
+一些法案设置额外障碍：
+- HB371限制无证学生接受公立学校教育
+- SB1319限制国际学生获得体育奖学金
+- SB762规范旗帜展示，但允许官方国旗
+- SB1273加强对中国研究人员的背景审查
 
-这些法案可能通过以下方式为中国学生、研究人员和学者创造具有挑战性的环境：
-- 加强监视和审查
-- 减少资助机会
-- 限制学术合作
-- 提高教育成本
-- 潜在的污名化
-- 限制体育机会
+这些法案的综合影响为德克萨斯州教育机构中的中国学生、学者和移民创造了一个充满挑战的环境，可能限制教育机会、研究机会和文化表达，同时增加监管和行政障碍。
+
 
 
 ### Bills
-Last Updated at 12:51:39 2025-02-19
+Last Updated at 11:50:34 2025-02-20
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -175,50 +173,87 @@ Last Updated at 12:51:39 2025-02-19
 
 ### Overview
 
-These bills primarily focus on regulating business contracts, investments, and financial transactions in Texas, with a significant emphasis on restricting Chinese involvement in various sectors. The legislation demonstrates a clear pattern of limiting Chinese influence and participation in Texas's economy and infrastructure.
+These bills primarily focus on regulating business contracts, investments, and financial transactions in Texas, with a significant emphasis on restricting Chinese involvement in various sectors. The legislation demonstrates a clear pattern of limiting Chinese influence in Texas's economy and infrastructure.
 
-Several bills (HB1907, HB2403, HB2409) specifically target information and communications technology services, prohibiting Texas governmental entities from contracting with Chinese companies. These restrictions could severely impact Chinese-owned businesses and Chinese professionals working in the tech sector in Texas.
+The bills can be categorized into several key areas:
 
-Financial and investment-related bills (HB1049, HB1056) establish a gold and silver currency system while including provisions that could restrict transactions with foreign entities deemed problematic. SB667 explicitly prohibits Texas state retirement systems from investing in Chinese-affiliated entities.
+1. Financial Systems and Currency (HB1049, HB1056):
+- Establishes gold/silver currency systems with provisions to restrict transactions with entities engaged in "illegal activities"
+- Could potentially affect Chinese nationals' ability to participate in these financial systems
 
-Infrastructure and energy sector bills (SB934, HB2244) specifically restrict Chinese involvement in critical electric grid equipment and electric vehicles. HB2003 increases scrutiny on foreign investments in high-speed rail projects.
+2. Technology and Infrastructure Contracts (HB1907, HB2403, HB2409, SB934):
+- Explicitly prohibits Texas government entities from contracting with Chinese companies for IT services
+- Impacts Chinese-owned businesses and Chinese professionals in the tech sector
+- Extends to electric grid equipment (SB934)
 
-The legislation also addresses political influence, with HB2527, HB2912, and HB2981 restricting lobbying activities and political contributions by Chinese nationals and entities. HB1381 impacts educational institutions by limiting contracts with countries of concern, potentially affecting Chinese students' funding sources.
+3. Educational and Investment Restrictions (HB1381, SB667):
+- Restricts higher education institutions from accepting Chinese funding
+- Prohibits state retirement systems from investing in Chinese-affiliated entities
+- Could affect Chinese students' scholarships and Chinese businesses' access to capital
 
-These bills could have far-reaching consequences for Chinese immigrants, Chinese-Americans, and Chinese nationals in Texas by:
-- Limiting business opportunities and government contracts
-- Restricting employment options in technology and infrastructure sectors
-- Affecting educational funding and partnerships
-- Limiting political participation and advocacy
-- Creating additional scrutiny and disclosure requirements for Chinese-affiliated entities
+4. Business and Tax Benefits (HB1623, HB2244):
+- Restricts tax benefits for entities from "designated countries"
+- Specifically impacts Chinese companies in the electric vehicle sector
+- Affects Chinese-owned businesses and Chinese nationals operating in Texas
 
-The cumulative effect of these bills suggests a systematic approach to limiting Chinese influence in Texas's economy and public sector, potentially creating challenges for Chinese individuals and businesses operating in the state.
+5. Lobbying and Political Influence (HB2527, HB2912, HB2981):
+- Prohibits lobbying activities on behalf of Chinese entities
+- Prevents Chinese nationals from contributing to ballot measures
+- Significantly limits Chinese individuals' and organizations' political participation
+
+6. Infrastructure and Transportation (HB2003, SB780):
+- Increases scrutiny of foreign investment in high-speed rail projects
+- Establishes security measures affecting commerce with Chinese entities
+
+7. Legal Proceedings (HB2884, SB1200):
+- Requires disclosure of Chinese funding in legal actions against US defense contractors
+
+The collective impact on Chinese immigrants and Chinese Americans is substantial, potentially affecting their ability to conduct business, participate in political processes, access certain financial services, and maintain educational and professional connections with China.
+
 
 
 ### Translation
 
-这些法案主要关注德克萨斯州的商业合同、投资和金融交易的监管，特别强调限制中国在各个领域的参与。这些立法展现出明确限制中国对德克萨斯州经济和基础设施影响力的模式。
+这些法案主要关注德克萨斯州的商业合同、投资和金融交易监管，特别强调限制中国在各个领域的参与。这些立法展现出明确限制中国对德克萨斯州经济和基础设施影响的模式。
 
-多项法案（HB1907、HB2403、HB2409）特别针对信息和通信技术服务，禁止德克萨斯州政府实体与中国公司签订合同。这些限制可能会严重影响中资企业和在德克萨斯州科技领域工作的中国专业人士。
+这些法案可分为以下几个主要领域：
 
-金融和投资相关法案（HB1049、HB1056）建立黄金和白银货币体系，同时包含可能限制与被认为有问题的外国实体进行交易的条款。SB667明确禁止德克萨斯州退休系统投资于中国相关实体。
+1. 金融系统和货币（HB1049，HB1056）：
+- 建立金银货币系统，并限制与"从事非法活动"实体的交易
+- 可能影响中国公民参与这些金融系统的能力
 
-基础设施和能源领域法案（SB934、HB2244）特别限制中国参与关键电网设备和电动车领域。HB2003加强了对高铁项目外国投资的审查。
+2. 技术和基础设施合同（HB1907，HB2403，HB2409，SB934）：
+- 明确禁止德州政府实体与中国公司签订IT服务合同
+- 影响中资企业和科技领域的中国专业人士
+- 延伸至电网设备（SB934）
 
-这些法案还涉及政治影响力，HB2527、HB2912和HB2981限制中国公民和实体的游说活动和政治捐款。HB1381通过限制与受关注国家的合同来影响教育机构，可能影响中国学生的资金来源。
+3. 教育和投资限制（HB1381，SB667）：
+- 限制高等教育机构接受中国资金
+- 禁止州退休系统投资中国相关实体
+- 可能影响中国学生奖学金和中国企业获取资本的机会
 
-这些法案可能对德克萨斯州的中国移民、华裔美国人和中国公民产生深远影响：
-- 限制商业机会和政府合同
-- 限制技术和基础设施领域的就业选择
-- 影响教育资金和合作关系
-- 限制政治参与和倡导活动
-- 对中国相关实体增加额外审查和披露要求
+4. 商业和税收优惠（HB1623，HB2244）：
+- 限制"指定国家"实体的税收优惠
+- 特别影响电动车领域的中国公司
+- 影响在德州经营的中资企业和中国公民
 
-这些法案的累积效应表明，德克萨斯州采取系统性方法限制中国在该州经济和公共部门的影响力，可能会给在该州经营的中国个人和企业带来挑战。
+5. 游说和政治影响（HB2527，HB2912，HB2981）：
+- 禁止代表中国实体的游说活动
+- 禁止中国公民对投票措施进行捐助
+- 显著限制中国个人和组织的政治参与
+
+6. 基础设施和交通（HB2003，SB780）：
+- 加强对高铁项目外国投资的审查
+- 建立影响与中国实体商业往来的安全措施
+
+7. 法律程序（HB2884，SB1200）：
+- 要求在对美国国防承包商的法律诉讼中披露中国资金来源
+
+这些法案对中国移民和美籍华人的整体影响重大，可能影响他们开展业务、参与政治进程、获取某些金融服务以及维持与中国的教育和专业联系的能力。
 
 
 ### Bills
-Last Updated at 12:52:46 2025-02-19
+Last Updated at 11:52:16 2025-02-20
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -245,28 +280,28 @@ Last Updated at 12:52:46 2025-02-19
 
 ### Overview
 
-Immigration laws typically focus on regulating entry, residence, and access to public services for non-citizens. These Texas bills represent restrictive measures that affect all unauthorized immigrants, including those from China.
+Immigration laws typically focus on regulating the entry, residence, and rights of non-citizens within a jurisdiction. The two Texas bills presented here introduce restrictive measures that affect unauthorized immigrants, including those from China.
 
-HB1762 creates a more punitive criminal justice environment for unauthorized immigrants by eliminating alternatives to incarceration like probation or deferred adjudication. This could severely impact Chinese nationals who have overstayed visas or entered without inspection, forcing them to face full sentences without access to rehabilitation programs or community supervision options.
+HB1762 creates a more severe criminal justice environment for unauthorized immigrants by eliminating access to community supervision or deferred adjudication options in Texas criminal cases. This particularly impacts Chinese nationals who may have overstayed their visas or entered without proper documentation, forcing them to face full penalties without access to alternative sentencing options that are available to others. This could result in longer incarceration periods and more severe consequences for even minor offenses.
 
-HB2587 implements a healthcare tracking system that requires hospitals to document immigration status and report costs associated with treating unauthorized immigrants. This could create barriers to healthcare access for Chinese immigrants without legal status, as they may fear seeking medical treatment due to mandatory reporting requirements. The bill could also contribute to discrimination and profiling in healthcare settings.
+HB2587 implements a healthcare tracking system that requires hospitals to document and report costs associated with treating unauthorized immigrants. The bill mandates immigration status disclosure during hospital intake, which could create barriers to healthcare access for Chinese immigrants without legal status. This requirement might deter unauthorized Chinese immigrants from seeking necessary medical care due to fear of detection or reporting, potentially leading to serious public health consequences.
 
-Both bills represent an increasingly restrictive approach to immigration enforcement that, while not explicitly targeting Chinese immigrants, creates additional hardships for Chinese nationals who lack proper immigration status. The measures could lead to increased detention rates, reduced access to essential healthcare services, and heightened fear within immigrant communities.
+Both bills, while not explicitly targeting Chinese immigrants, create additional layers of scrutiny and restrictions that could disproportionately affect Chinese nationals who are out of status, potentially forcing them to live in fear of seeking basic services or legal protections.
 
 
 ### Translation
 
-移民法通常侧重于管理非公民的入境、居留和获取公共服务。这些德克萨斯州的法案代表了影响所有非法移民（包括来自中国的移民）的限制性措施。
+移民法通常侧重于规范非公民在特定管辖区内的入境、居留和权利。这两项德克萨斯州法案引入了影响无证移民（包括来自中国的移民）的限制性措施。
 
-HB1762通过取消缓刑或延期判决等替代监禁方式，为非法移民创造了更具惩罚性的刑事司法环境。这可能会严重影响签证逾期或未经检查入境的中国公民，迫使他们面临完整刑期，无法获得康复计划或社区监督选择。
+HB1762通过取消无证移民在德克萨斯州刑事案件中获得社区监督或延期判决的机会，造就了更为严厉的刑事司法环境。这特别影响到签证逾期或无证入境的中国公民，迫使他们在没有其他人可获得的替代判决选项的情况下面临全额刑罚。这可能导致即使是轻微违法也会面临更长的监禁期和更严重的后果。
 
-HB2587实施了一个医疗保健追踪系统，要求医院记录移民身份并报告与治疗非法移民相关的费用。这可能会为没有合法身份的中国移民设置医疗保健准入障碍，因为他们可能因强制报告要求而害怕寻求医疗治疗。该法案还可能导致医疗保健环境中的歧视和筛查。
+HB2587实施了一个医疗保健追踪系统，要求医院记录和报告与治疗无证移民相关的费用。该法案要求在医院入院时披露移民身份，这可能会为无合法身份的中国移民获得医疗保健服务制造障碍。这项要求可能会因担心被发现或举报而使无证中国移民不敢寻求必要的医疗护理，可能导致严重的公共卫生后果。
 
-这两项法案代表了日益严格的移民执法方式，虽然没有明确针对中国移民，但为缺乏适当移民身份的中国公民制造了额外的困难。这些措施可能导致拘留率上升、基本医疗保健服务的获取减少，以及移民社区恐惧感的增加。
+这两项法案虽然没有明确针对中国移民，但创造了额外的审查和限制层面，可能会对身份不合规的中国公民造成不成比例的影响，可能迫使他们在寻求基本服务或法律保护时生活在恐惧中。
 
 
 ### Bills
-Last Updated at 12:53:12 2025-02-19
+Last Updated at 11:52:53 2025-02-20
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -278,40 +313,40 @@ Last Updated at 12:53:12 2025-02-19
 
 ### Overview
 
-These bills primarily focus on state sovereignty, security measures, and regulation of foreign influence in Texas. While most don't explicitly target Chinese immigrants or Chinese Americans, they could have significant implications for these communities.
+These bills represent various legislative efforts in Texas focusing on state sovereignty, security, and foreign influence. While not exclusively targeting Chinese immigrants or nationals, several bills could have significant implications for the Chinese community in Texas.
 
-HB796, HB898, and SB80 are identical Texas Sovereignty Act bills that could potentially impact Chinese immigrants if Texas declares federal immigration policies or US-China agreements unconstitutional, potentially jeopardizing their legal status and protections.
+Three bills (HB796, HB898, and SB80) propose the Texas Sovereignty Act, establishing a committee to review federal actions. This could potentially impact Chinese immigrants if Texas decides to challenge federal immigration policies or international agreements with China, potentially affecting their legal status and protections.
 
-HB1170's focus on transportation security threats from "foreign actors" could lead to increased surveillance and scrutiny of Chinese travelers and transportation workers. HB1451's foreign agent registration requirements could affect Chinese individuals or organizations involved in lobbying activities in Texas.
+Security-focused legislation includes HB1170, which mandates transportation security threat analysis. This could lead to increased surveillance and screening of Chinese travelers and workers in the transportation sector. SB1348 establishes a committee specifically focused on potential conflicts with China, which could result in heightened scrutiny of Chinese-American businesses and individuals connected to Chinese infrastructure projects.
 
-HB2241 specifically mentions Chinese-made firearms in its assault weapons ban, though its impact is primarily commercial rather than demographic. However, it could affect Chinese Americans' ability to purchase or transfer certain firearms of Chinese origin.
+HB1451 requires foreign agent registration disclosure for lobbyists, which could affect Chinese individuals or organizations involved in lobbying activities. HB2241 specifically restricts certain Chinese-manufactured firearms, though its primary impact is on weapon availability rather than the Chinese community directly.
 
-SB1348 establishes a committee focused on potential conflicts with China, particularly regarding Taiwan. While not directly targeting Chinese immigrants, it could lead to increased scrutiny of Chinese Americans and Chinese-owned businesses, especially those involved in critical infrastructure or supply chains.
+Most notably, SB1349 creates criminal offenses for transnational repression, which could significantly impact Chinese nationals in the US. This bill specifically addresses concerns about foreign government agents engaging in harassment or surveillance, activities that have been associated with Chinese government efforts to influence overseas Chinese communities.
 
-Most concerning for Chinese nationals and potentially Chinese Americans is SB1349, which criminalizes transnational repression. While intended to protect against foreign government interference, it could complicate relationships between Chinese immigrants and their homeland, particularly in cases involving communication with Chinese government entities or participation in Chinese community organizations.
+These bills collectively suggest an increasing focus on potential security threats and foreign influence, which could lead to enhanced scrutiny and potential challenges for Chinese immigrants and Chinese Americans in Texas.
 
 
 ### Translation
 
-这些法案主要关注德克萨斯州主权、安全措施和外国影响力的管制。虽然大多数法案并未明确针对中国移民或美籍华人，但可能会对这些群体产生重大影响。
+这些法案代表德克萨斯州在州主权、安全和外国影响方面的各种立法努力。虽然这些法案并非专门针对中国移民或国民，但其中几项法案可能会对德克萨斯州的中国社区产生重大影响。
 
-HB796、HB898和SB80这三个相同的德克萨斯主权法案，如果德克萨斯州宣布联邦移民政策或美中协议违宪，可能会影响中国移民的法律地位和保护。
+三项法案（HB796、HB898和SB80）提出了《德克萨斯主权法案》，建立委员会审查联邦行动。如果德克萨斯州决定挑战联邦移民政策或与中国的国际协议，这可能会影响中国移民的法律地位和保护。
 
-HB1170关注"外国行为者"带来的运输安全威胁，可能导致对中国旅客和运输工作者加强监视和审查。HB1451的外国代理人登记要求可能影响在德克萨斯州从事游说活动的中国个人或组织。
+安全相关立法包括HB1170，该法案要求进行运输安全威胁分析。这可能导致对中国旅客和运输部门工作人员加强监控和检查。SB1348专门成立针对中国潜在冲突的委员会，这可能导致对与中国基础设施项目有关联的中美企业和个人加强审查。
 
-HB2241特别提到在攻击性武器禁令中包括中国制造的枪支，虽然其影响主要是商业性的而非人口统计学的，但可能影响美籍华人购买或转让某些中国产枪支的能力。
+HB1451要求游说者披露外国代理人登记信息，这可能影响参与游说活动的中国个人或组织。HB2241具体限制某些中国制造的枪支，尽管其主要影响是武器供应而非直接影响中国社区。
 
-SB1348设立专门委员会关注潜在的中国相关冲突，特别是关于台湾问题。虽然不直接针对中国移民，但可能导致对美籍华人和中资企业加强审查，尤其是那些涉及关键基础设施或供应链的企业。
+最值得注意的是，SB1349针对跨国压制行为制定刑事犯罪，这可能对在美中国公民产生重大影响。该法案特别针对外国政府代理人进行骚扰或监视的行为，这些活动往往与中国政府影响海外华人社区的努力有关。
 
-对中国公民和可能对美籍华人影响最大的是SB1349，该法案将跨国压制定为刑事犯罪。虽然旨在防止外国政府干预，但可能会使中国移民与祖国的关系变得复杂，特别是在与中国政府机构联系或参与华人社区组织活动的情况下。
+这些法案共同表明，对潜在安全威胁和外国影响的关注度在不断提高，这可能导致德克萨斯州的中国移民和美籍华人面临更严格的审查和潜在挑战。
 
 
 ### Bills
-Last Updated at 12:52:23 2025-02-19
+Last Updated at 11:51:46 2025-02-20
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
-|[HB796](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB796)|<br>This bill, known as the Texas Sovereignty Act, establishes a Joint Legislative Committee to review federal actions and determine if they are unconstitutional. While not directly targeting Chinese immigrants, it could potentially impact them if federal immigration policies or international agreements with China are declared unconstitutional by Texas. The bill allows Texas to refuse implementation of federal actions deemed unconstitutional.<br>|<br>这项被称为《德克萨斯主权法案》的法案设立了一个联合立法委员会，用于审查联邦行动并确定其是否违宪。虽然没有直接针对中国移民，但如果德克萨斯州认定与中国相关的联邦移民政策或国际协议违宪，可能会影响在德州的中国人。该法案允许德克萨斯拒绝执行被认定为违宪的联邦行动。<br>|<br>1. State Affairs Committee<br>2. Constitutional Rights  Remedies Committee<br>3. Judiciary  Civil Jurisprudence Committee<br>|Relating to the Texas Sovereignty Act.|Bell, Cecil|11/12/2024 H Filed|
+|[HB796](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB796)|<br>This bill, known as the Texas Sovereignty Act, establishes a Joint Legislative Committee to review federal actions and determine if they are unconstitutional. While not specifically targeting Chinese immigrants, any federal immigration policies or executive orders deemed unconstitutional by this committee could potentially affect Chinese nationals in Texas, as the state could choose not to recognize or enforce such federal actions.<br>|<br>这项被称为《德克萨斯主权法案》的法案设立了一个联合立法委员会，用于审查联邦行动并确定其是否违宪。虽然该法案并未特别针对中国移民，但如果该委员会认定任何联邦移民政策或行政命令违宪，德克萨斯州可能会选择不承认或不执行这些联邦行动，这可能会影响在德克萨斯州的中国公民。<br>|<br>1. State Affairs Committee<br>2. Constitutional Rights  Remedies Committee<br>3. Judiciary  Civil Jurisprudence Committee<br>|Relating to the Texas Sovereignty Act.|Bell, Cecil, Spiller, Gerdes|11/12/2024 H Filed|
 |[HB898](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB898)|<br>This bill establishes the Texas Sovereignty Act, creating a Joint Legislative Committee to review federal actions and determine if they are unconstitutional. While not directly targeting Chinese immigrants, this could impact them if federal immigration policies or international agreements with China are deemed unconstitutional by Texas, potentially affecting their legal status, rights, or protections under federal law.<br>|<br>该法案确立了《德克萨斯主权法案》，成立一个联合立法委员会来审查联邦行动并确定其是否违宪。虽然没有直接针对中国移民，但如果德克萨斯州认定与中国相关的联邦移民政策或国际协议违宪，可能会影响中国移民在联邦法律下的合法身份、权利或保护。<br>|<br>1. State Affairs Committee<br>2. Constitutional Affairs Committee<br>3. Judiciary  Civil Jurisprudence Committee<br>|Relating to the Texas Sovereignty Act.|Spiller|11/12/2024 H Filed|
 |[HB1170](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1170)|<br>The bill requires Texas Department of Public Safety to analyze transportation security threats, including those from foreign actors and cyberthreats. While not explicitly targeting Chinese immigrants, the focus on "foreign actors" and transportation security could lead to increased scrutiny of Chinese travelers and transportation workers through enhanced screening and monitoring procedures.<br>|<br>该法案要求德克萨斯州公共安全部分析交通安全威胁，包括来自外国行为者和网络威胁的威胁。虽然没有明确针对中国移民，但对"外国行为者"和交通安全的关注可能会导致通过加强筛查和监控程序，对中国旅客和交通运输工作者加强审查。<br>|<br>1. Committee on Homeland Security  Public Safety<br>2. Committee on Transportation<br>3. Committee on State Affairs<br>|Relating to analysis and mitigation of transportation security threats in this state.|Raymond|11/12/2024 H Filed|
 |[HB1451](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1451)|<br>This bill requires lobbyists to disclose in their registration form whether they are currently registered as foreign agents, were registered as foreign agents in the past 12 months, or engaged in activities that would require federal foreign agent registration. While not explicitly targeting Chinese nationals, this could affect Chinese individuals or organizations engaging in lobbying activities in Texas.<br>|<br>该法案要求说客在注册表格中披露他们是否目前被注册为外国代理人、在过去12个月内是否曾被注册为外国代理人，或者是否从事过如果在联邦层面开展就需要注册为外国代理人的活动。虽然没有明确针对中国公民，但这可能会影响在德克萨斯州从事游说活动的中国个人或组织。<br>|<br>1. State Affairs Committee<br>2. Government Operations Committee<br>3. Ethics Committee<br>|Relating to the information required to be disclosed in a lobbyist registration form.|Capriglione|11/21/2024 H Filed|

@@ -20,7 +20,7 @@ These bills create a comprehensive framework of restrictions that significantly 
 
 Property Purchase Restrictions:
 - Multiple bills (HB191, HB402, HB1566, HB1849, HB2389, HB2536, HB2752, SB17, SB103, SB307) explicitly prohibit Chinese nationals, government entities, and Chinese-controlled organizations from purchasing real property in Texas.
-- Agricultural land faces particular scrutiny, with HB518, HB1743, and SB1063 specifically restricting foreign ownership of farmland, with SB1063 specifically addressing land up to 5 acres.
+- Agricultural land faces particular scrutiny, with HB518, HB1743, SB1063 specifically restricting foreign ownership of farmland, with SB1063 specifically addressing land up to 5 acres.
 
 Enforcement and Penalties:
 - HB243 authorizes property seizure through eminent domain near critical infrastructure.
@@ -32,52 +32,56 @@ Additional Restrictions:
 - HB2034 restricts groundwater permits for entities from designated countries.
 - HB2628 requires existing foreign-owned properties to be divested by March 1, 2026.
 - HB1743 forces non-resident Chinese citizens to divest their property by 2027.
+- HB2389 and SB103 additionally prohibit Chinese entities from entering contracts with Texas government entities.
 
 While many bills exempt U.S. citizens and permanent residents of Chinese descent, these laws create a hostile environment for Chinese nationals, students, and temporary workers in Texas. The legislation could affect:
 - Chinese students' housing options
-- Chinese businesses' operations and contracts with Texas government
+- Chinese businesses' operations and government contracts
 - Chinese professionals on work visas
 - Chinese agricultural investments
 - Property values of existing Chinese-owned properties
 - Access to groundwater rights
+- Tax burden on agricultural and open-space land
 
 This legislative package represents a discriminatory approach that could lead to broader anti-Chinese sentiment and affect the Chinese-American community, even those exempt from these restrictions.
 
 
 ### Translation
 
-外国人土地法历来是一种歧视性措施，用于限制特定种族或国籍群体的房地产所有权。这套德克萨斯州法案代表了此类歧视性立法的现代版本，主要针对中国公民和实体，以及其他一些特定国家。
+外国人土地法历来是一种歧视性措施，用于限制特定种族或国籍群体的财产所有权。这套德克萨斯州法案代表了此类歧视性立法的现代版本，主要针对中国公民和实体，以及其他一些特定国家。
 
 这些法案创建了一个全面的限制框架，严重影响在德克萨斯州的中国个人和实体：
 
-房地产购买限制：
-- 多项法案(HB191, HB402, HB1566, HB1849, HB2389, HB2536, HB2752, SB17, SB103, SB307)明确禁止中国公民、政府实体和中国控制的组织在德克萨斯州购买房地产。
-- 农业用地受到特别审查，HB518、HB1743和SB1063特别限制外国人拥有农田，其中SB1063专门针对5英亩以下的土地。
+财产购买限制：
+- 多项法案（HB191、HB402、HB1566、HB1849、HB2389、HB2536、HB2752、SB17、SB103、SB307）明确禁止中国公民、政府实体和中国控制的组织在德克萨斯州购买不动产。
+- 农业用地受到特别审查，HB518、HB1743、SB1063特别限制外国人拥有农田，其中SB1063具体针对5英亩以下的土地。
 
 执法和处罚：
-- HB243授权通过征用权没收关键基础设施附近的房地产。
-- HB733要求在购买住宅房地产前验证公民身份。
-- 如HB1849等法案施加严厉处罚，包括刑事指控和高达25万美元或房产价值50%的罚款。
+- HB243授权通过征用权没收关键基础设施附近的财产。
+- HB733要求验证购买住宅物业者的公民身份。
+- 如HB1849等法案规定严厉处罚，包括刑事指控和高达25万美元或物业价值50%的罚款。
 
 额外限制：
 - HB546影响外国人拥有的开放空间土地的税收优惠。
-- HB2034限制特定国家实体的地下水许可。
-- HB2628要求现有外国人拥有的房产在2026年3月1日前出售。
-- HB1743强制非居民中国公民在2027年前出售其房产。
+- HB2034限制来自特定国家的实体获取地下水许可。
+- HB2628要求现有外国拥有的财产必须在2026年3月1日前出售。
+- HB1743强制非居民中国公民在2027年前出售其财产。
+- HB2389和SB103还禁止中国实体与德克萨斯州政府实体签订合同。
 
 虽然许多法案豁免了具有中国血统的美国公民和永久居民，但这些法律为中国公民、学生和临时工作者创造了一个敌对环境。这些立法可能影响：
 - 中国学生的住房选择
-- 中国企业在德州的运营和与德州政府的合同
+- 中国企业的运营和政府合同
 - 持工作签证的中国专业人士
 - 中国在农业领域的投资
-- 现有中国人拥有房产的价值
+- 现有中国人拥有物业的价值
 - 地下水权限的获取
+- 农业和开放空间土地的税收负担
 
-这套立法代表了一种歧视性做法，可能导致更广泛的反华情绪，并影响中美社区，即使是那些被豁免的人群。
+这套立法方案代表了一种歧视性做法，可能导致更广泛的反华情绪，并影响中美社区，即使是那些被豁免的人群也可能受到影响。
 
 
 ### Bills
-Last Updated at 00:03:53 2025-02-21
+Last Updated at 12:24:35 2025-02-21
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -129,26 +133,26 @@ The collective impact of these bills creates a challenging environment for Chine
 
 教育法案通常关注课程标准、资金分配和学生资格标准。然而，这些德克萨斯州法案呈现出一系列针对国际学生和外国学术联系的限制性措施，特别影响中国移民和学生。
 
-多项法案(HB160、HB232、HB424、HB979、HB1324)系统性地限制无证移民获得州内学费资格，要求将其重新归类为非居民身份。这些变化显著增加了无proper身份中国学生的教育成本。HB371进一步限制了无证学生接受公立学校教育的机会，除非获得联邦资金支持。
+多项法案（HB160、HB232、HB424、HB979、HB1324）系统性地限制未获授权移民获得州内学费资格，要求将其重新归类为非居民。这些变化显著增加了无proper身份中国学生的教育成本。HB371进一步限制了无证学生接受公立教育的机会，除非获得联邦资金支持。
 
-多项法案着重限制外国影响：
+多项法案致力于限制外国在教育领域的影响：
 - HB173和SB1067禁止接受来自中国政府实体和其他指定国家的捐赠
 - HB1450要求详细季度报告所有外国资金来源
 - HB2595广泛限制与"外国对手"（包括中国）的教育合作，并设有重大处罚
-- SB1273设立研究安全委员会，专门针对外国研究活动并加强对中国研究人员的审查
+- SB1273成立高等教育研究安全委员会，专门针对外国研究活动并加强对中国研究人员的审查
 
-法案还通过HB1457和SB453引入课程变更，强制要求学习包括天安门事件、西藏和维吾尔等敏感话题的中国历史课程，这可能影响公众对中国移民和社区的看法。
+法案还通过HB1457和SB453引入课程变更，强制要求课程涵盖中国历史敏感话题，包括天安门广场事件、西藏和维吾尔族问题，这可能影响公众对中国移民和其社区的看法。
 
 其他限制包括：
 - SB1319将外国学生运动奖学金限制在总奖学金的25%
-- SB762规范旗帜展示，但允许展示官方国旗
+- SB762规范旗帜展示，但允许官方国旗
 - SB1273加强对中国研究人员的监督和背景调查
 
 这些法案的综合影响为德克萨斯州教育机构中的中国学生、学者和移民创造了一个充满挑战的环境，可能限制教育机会、研究机会和文化表达，同时增加监管和行政障碍。
 
 
 ### Bills
-Last Updated at 00:03:29 2025-02-21
+Last Updated at 12:24:08 2025-02-21
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -217,16 +221,16 @@ The collective impact on Chinese immigrants and Chinese Americans is substantial
 
 这些法案主要关注德克萨斯州的商业合同、投资和金融交易的监管，特别强调限制中国在各个领域的参与。这些立法显示出明确限制中国对德克萨斯州经济和基础设施影响的模式。
 
-这些法案可以分为以下几个主要领域：
+这些法案可分为以下几个主要领域：
 
 1. 金融系统和货币（HB1049，HB1056）：
 - 建立黄金/白银货币系统，并限制与"从事非法活动"实体的交易
 - 可能影响中国公民参与这些金融系统的能力
 
 2. 技术和基础设施合同（HB1907，HB2403，HB2409，SB934）：
-- 明确禁止德克萨斯州政府实体与中国公司签订IT服务合同
-- 多个重叠法案，处罚各异，包括刑事指控
-- 影响中资企业和在科技领域工作的中国专业人士
+- 明确禁止德州政府实体与中国公司签订信息技术服务合同
+- 多个重叠法案，包含不同程度的处罚，包括刑事指控
+- 影响中资企业和科技领域的中国专业人士
 - 延伸至电网设备（SB934）
 
 3. 教育和投资限制（HB1381，SB667）：
@@ -237,12 +241,12 @@ The collective impact on Chinese immigrants and Chinese Americans is substantial
 4. 商业和税收优惠（HB1623，HB2244）：
 - 限制来自"指定国家"实体的税收优惠
 - 特别影响电动车领域的中国公司
-- 影响在德克萨斯州经营的中资企业和中国公民
+- 影响在德州经营的中资企业和中国公民
 
 5. 游说和政治影响（HB2527，HB2912，HB2981）：
 - 禁止代表中国实体进行游说活动
-- 禁止中国公民为投票措施提供资金
-- 违规可导致重罪指控和巨额民事处罚
+- 禁止中国公民对投票议案进行捐助
+- 违规可导致重罪指控和重大民事处罚
 
 6. 基础设施和交通（HB2003，SB780）：
 - 加强对高铁项目外国投资的审查
@@ -256,7 +260,7 @@ The collective impact on Chinese immigrants and Chinese Americans is substantial
 
 
 ### Bills
-Last Updated at 00:04:41 2025-02-21
+Last Updated at 12:25:27 2025-02-21
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -294,17 +298,17 @@ Both bills, while not explicitly targeting Chinese immigrants, create additional
 
 ### Translation
 
-移民法通常侧重于规范非公民在特定管辖区内的入境、居留和权利。这里提出的两项德克萨斯州法案针对非法移民提出了限制性措施，其中包括来自中国的移民。
+移民法通常侧重于规范非公民在特定管辖区内的入境、居留和权利。这两项德克萨斯州法案引入了影响非法移民（包括来自中国的移民）的限制性措施。
 
-HB1762法案通过取消未经授权移民在德克萨斯州刑事案件中获得社区监督或延期判决的机会，创造了一个更为严厉的刑事司法环境。这特别影响到签证逾期或无证入境的中国公民，迫使他们面临完整的处罚，无法获得其他人可以享有的替代判决选择。这可能导致即使是轻微违法也会面临更长的监禁期和更严重的后果。
+HB1762法案通过取消未授权移民在德克萨斯州刑事案件中获得社区监督或延期判决的机会，造成了更为严厉的刑事司法环境。这特别影响到签证逾期或无证入境的中国公民，迫使他们面临完整刑罚，无法获得其他人可以享有的替代判决选项。这可能导致更长的监禁期限，即使是轻微违法也会面临更严重的后果。
 
-HB2587法案实施了一个医疗保健追踪系统，要求医院记录和报告与治疗未经授权移民相关的费用。该法案要求在医院入院时披露移民身份，这可能会为无合法身份的中国移民获得医疗保健服务设置障碍。这项要求可能会因为担心被发现或举报，而使未经授权的中国移民不敢寻求必要的医疗护理，可能导致严重的公共卫生后果。
+HB2587法案实施了一个医疗保健追踪系统，要求医院记录和报告与治疗未授权移民相关的费用。该法案要求在医院入院时披露移民身份，这可能会为无合法身份的中国移民获取医疗服务制造障碍。这项要求可能会因为担心被发现或举报，而使无证中国移民不敢寻求必要的医疗护理，可能导致严重的公共卫生后果。
 
-这两项法案虽然没有明确针对中国移民，但创造了额外的审查和限制层面，可能会对身份不合法的中国公民产生不成比例的影响，可能迫使他们在寻求基本服务或法律保护时生活在恐惧中。
+这两项法案虽然没有明确针对中国移民，但创造了额外的审查和限制层面，可能会对非法身份的中国公民造成不成比例的影响，迫使他们在寻求基本服务或法律保护时心存恐惧。
 
 
 ### Bills
-Last Updated at 00:05:11 2025-02-21
+Last Updated at 12:25:58 2025-02-21
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -331,21 +335,21 @@ These bills collectively suggest an increasing focus on potential security threa
 
 ### Translation
 
-这些法案代表德克萨斯州在州主权、安全和外国影响方面的各种立法努力。虽然这些法案并非专门针对中国移民或国民，但其中几项法案可能会对德州的中国社区产生重大影响。
+这些法案代表德克萨斯州在州主权、安全和外国影响力方面的各种立法努力。虽然这些法案并非专门针对中国移民或国民，但其中几项法案可能会对德州的中国社区产生重大影响。
 
 三项法案（HB796、HB898和SB80）提出了《德克萨斯主权法案》，成立委员会审查联邦行动。如果德州决定挑战联邦移民政策或与中国的国际协议，这可能会影响中国移民的法律地位和保护。
 
-安全相关立法包括HB1170，该法案要求进行运输安全威胁分析。这可能导致对中国旅客和运输部门工作者加强监控和筛查。SB1348专门成立针对中国潜在冲突的委员会，这可能导致对与中国基础设施项目有关联的中美企业和个人加强审查。
+安全相关立法包括HB1170，该法案要求进行运输安全威胁分析。这可能导致对中国旅客和运输行业工作者加强监控和筛查。SB1348专门成立针对中国潜在冲突的委员会，这可能导致对与中国基础设施项目有关联的中美企业和个人加强审查。
 
-HB1451要求说客披露外国代理人登记信息，这可能影响从事游说活动的中国个人或组织。HB2241具体限制某些中国制造的枪支，包括AK47和AKS等特定型号，虽然其主要影响是武器供应而非直接影响中国社区。
+HB1451要求说客披露外国代理人登记信息，这可能影响参与游说活动的中国个人或组织。HB2241具体限制某些中国制造的枪支，包括AK47和AKS等特定型号，但其主要影响在于武器供应而非直接影响中国社区。
 
-最值得注意的是，SB1349针对跨国压制行为设立刑事犯罪，这可能对在美中国公民产生重大影响。该法案特别针对外国政府代理人的骚扰、恐吓或监视行为，这些行为往往与中国政府影响海外华人社区的努力有关。
+最值得注意的是，SB1349将跨国压制行为定为刑事犯罪，这可能对在美中国公民产生重大影响。该法案特别针对外国政府代理人的骚扰或监视行为，这些行为往往与中国政府影响海外华人社区的努力有关。
 
-这些法案共同表明，德州对潜在安全威胁和外国影响的关注度不断提高，这可能导致德州的中国移民和华裔美国人面临更严格的审查和潜在挑战。
+这些法案共同表明，德州对潜在安全威胁和外国影响力的关注度不断提高，这可能导致德州的中国移民和华裔美国人面临更严格的审查和潜在挑战。
 
 
 ### Bills
-Last Updated at 00:04:21 2025-02-21
+Last Updated at 12:25:05 2025-02-21
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|

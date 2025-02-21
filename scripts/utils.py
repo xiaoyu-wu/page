@@ -12,3 +12,8 @@ def fetch_and_parse(url):
     except requests.exceptions.RequestException as e:
         print(f"Error fetching the URL: {e}")
         return None
+
+def extract_string_by_tag(xml_string, tag_name):
+    soup = BeautifulSoup(xml_string, 'xml')
+    tag = soup.find(tag_name)
+    return tag.text if tag else None

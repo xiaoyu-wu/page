@@ -18,7 +18,7 @@ def extract_key_info(soup, tag, id_pattern=ID_PATTERN):
     elements = soup.find_all(tag, id=id_pattern)
     return [element['id'] for element in elements]
 
-def scan_bills(url, tag, interval=60):
+def scan_bills_and_save(url, tag, interval=60):
     page_num = 1
     bills = []
     while True:
@@ -45,11 +45,7 @@ def scan_bills(url, tag, interval=60):
 
 if __name__ == "__main__":
     print("Starting bills search...")
-    if not os.path.isfile("bills_scanned.txt"):
-        bills = scan_bills(BILL_SCAN_URL, EXTRACTION_TAG, POLL_INTERVAL)
-    else:
-        with open('bills_scanned.txt') as f:
-            bills = f.read().splitlines()
+    bills = scan_bills_and_save(BILL_SCAN_URL, EXTRACTION_TAG, POLL_INTERVAL)
     with open("bills_patch.txt") as f:
         bills_patch = f.read().splitlines()
     for bill in bills_patch:

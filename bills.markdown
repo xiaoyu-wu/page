@@ -104,6 +104,48 @@ Last Updated at 12:24:35 2025-02-21
 |[SB307](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB307)|<br>This bill prohibits individuals and organizations from designated countries (including China) that pose national security risks from purchasing real property (agricultural land, mines, timber) in Texas. It affects Chinese nationals and Chinese-controlled organizations. The attorney general can investigate suspicious purchases and appoint receivers to manage/sell properties acquired in violation. US citizens/permanent residents are exempt.<br>|<br>该法案禁止来自被指定为对国家安全构成风险的国家（包括中国）的个人和组织购买德克萨斯州的不动产（农业用地、矿场、林地）。这影响到中国公民和受中国控制的组织。司法部长可以调查可疑的购买行为，并任命接管人管理/出售违规获得的财产。美国公民/永久居民不受影响。<br>|<br>1. State Affairs Committee<br>2. Agriculture  Livestock Committee<br>3. Natural Resources Committee<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities.|Kolkhorst, Bettencourt, Hall, Middleton|02/03/2025 S Referred to State Affairs|
 |[SB1063](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1063)|<br>This bill prohibits foreign individuals and companies from entering agreements related to agricultural land in Texas, specifically land up to 5 acres. Chinese citizens and Chinese-owned companies would be directly impacted, as they would be prohibited from purchasing, leasing, or controlling agricultural land. This affects both individual Chinese citizens and Chinese companies, regardless of whether they are publicly traded.<br>|<br>该法案禁止外国个人和公司就德克萨斯州的农业用地（特别是面积不超过5英亩的土地）签订协议。这将直接影响中国公民和中资公司，使他们无法购买、租赁或控制农业用地。这一限制同时适用于中国个人公民和中国公司，无论该公司是否为上市公司。<br>|<br>1. Agriculture Committee<br>2. State Affairs Committee<br>3. Business  Commerce Committee<br>|Relating to prohibiting contracts or other agreements with foreign-owned companies in connection with agricultural land.|Campbell|02/03/2025 S Filed|
 
+### Talking Points Against SB17
+
+1.	Harm to Texas Economy & Business Climate
+    o	Banning property ownership by foreign persons and companies would disrupt and impair real estate transactions across commercial, industrial, residential and agricultural markets.  
+    o	Texas’ major trading partners, responsible for tens of billions in annual trade, could be adversely affected.  
+    o	Restricting property purchases will deter investment into Texas, leading to lost business opportunities, company relocations to other states, and negative impacts on the job market.
+    o	This further deters foreign talent from coming to Texas.  
+    o	This bill could damage Texas’ reputation as a business-friendly state and hinder efforts to bring manufacturing back to the U.S.
+    o	Texas should uphold its pro-business and commerce environment rather than enforcing unnecessary restrictions.
+2.	Unclear Definitions and Practical Challenges
+    o	SB17 would ban property ownership by persons “domiciled” in certain countries, but does not define “domicile.”  This creates an unrealistic burden of proof for foreign individuals, even if they reside in Texas.  
+    o	The Texas definition of domicile typically includes two factors: the objective evidence of physical presence and the subjective intention of making that place his/her permanent home. Because of this definition, the proposed law is overbroad because it covers people with all temporary visas such as H1b and F1. Under federal immigration law, people with temporary visas cannot have the intention to treat the US as their permanent home and thus they cannot be said “domiciled” in Texas.
+    o	SB17 also restricts individuals’ ability to move or upgrade their property if their family circumstances change.  
+    o	Situations like inheritance, foreclosure, or collateral property ownership by foreign nationals remain unresolved.
+    o	The proposed “forced sale” mechanism for violations would result in financial losses and legal disputes.
+3.	SB17 Does Not Accomplish Meaningful Goals 
+    o	It claims to prevent “risk to the health, safety, and welfare of the public”.  However, nothing indicates restricting property ownership by foreign individuals would adversely impact public health or safety.  There is no connection between these goals, and owning real property.  
+    o	SB17 also prohibits property purchase if someone “causes or threatens to cause bodily injury to a person” (including introducing a disease).  This restriction is nonsensical – it would mean that a person’s property could be confiscated by the state if this person catches flu and passes it to another
+4.	Unconstitutional Because It Violates the Federal Preemption Principle 
+    o	The federal government and Congress have long established laws, regulations, and agencies—specifically CFIUS (Committee on Foreign Investments in the US) under the Department of Commerce—to assess and block foreign property purchases that pose national security threats. 
+    o	Since this area is already federally regulated, Texas cannot create its own conflicting or supplementary law, making the proposed legislation unconstitutional.
+5.	SB17 Prohibits Real Estate Ownership based on Nation of Origin.  
+    SB17 relies on the Annual Threat Assessment (ATA) report, but misinterprets it.  
+    o	The ATA report does not label any country as a national security risk, nor does it recommend banning property purchases. 
+    o	The report’s assessment could change, making any law inconsistent and unreliable over time.
+6.	Unfair Association Between Individuals and Governments
+o	The bills would punish individuals for the actions of their home country’s government, which is unjust and unrelated to national security.
+o	This is comparable to historical injustices like Japanese internment during WWII.
+7.	Likely Legal Violations
+o	The bill still discriminates based on national origin, violating federal and state laws such as:
+	14th Amendment (Equal Protection Clause)
+	Texas Constitution, Article 1, Section 3a (Prohibits discrimination based on national origin)
+	Fair Housing Act (Prohibits discrimination in housing)
+	WTO Agreements (Potential violation of international trade laws)
+8.	Broad Discriminatory Implications
+    o	Targeting specific countries indirectly affects all Asian Americans, due to similarity in names or appearances; which further fosters likelihood of discrimination and xenophobia.  
+    o	Compliance with the requirements of these bills/laws lead to administrative delays and uncertainties, further increasing costs and time of transactions unnecessarily.
+    o	The bills equate immigrants as potential foreign threats, creating social and legal issues.
+9.	Lessons from History 
+    o	Texas had alien land laws back in in the 19-20th century that restricted land ownership, but was abolished by the state legislature in 1965, “….on the grounds that they imposed ‘unreasonable and discriminatory restrictions’ on alien ownership and militated against efforts by the state to entice foreign investment and stimulate economic development and industrial growth.”  
+    o	We should learn from our own history.  
+
 
 ## Education
 

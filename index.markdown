@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/texas_capital.jpg
   actions:
-    - label: "Join AAPI Advocacy Day"
-      url: "http://bit.ly/3EjGOtS"
+    - label: "URGENT: Call to Oppose SB17"
+      url: "/fight/#urgent-call-state-affairs-committee-members-to-oppose-sb17"
     - label: "Fight Racist Bills!"
       url: "/fight/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -48,18 +48,11 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/fist.jpg
-    alt: "placeholder image 2"
+    alt: "Defend my rights!"
     title: "How can I defend my rights?"
     excerpt: 'Yes, everybody counts and your community needs you. No need to do everything. Just open the link and do ONE thing today!'
     url: "/fight/"
     btn_label: "Act now!"
-    btn_class: "btn--primary"
-  - image_path: assets/images/aapi_advocacy_day.jpeg
-    alt: "AAPI Advocacy Day"
-    title: "Join AAPI Advocacy Day"
-    excerpt: "Engage directly with your representatives! Share your concerns and make your voice heard!"
-    url: "http://bit.ly/3EjGOtS"
-    btn_label: "RSVP"
     btn_class: "btn--primary"
 ---
 

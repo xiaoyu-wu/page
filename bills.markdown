@@ -104,8 +104,9 @@ Last Updated at 12:24:35 2025-02-21
 |[SB307](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB307)|<br>This bill prohibits individuals and organizations from designated countries (including China) that pose national security risks from purchasing real property (agricultural land, mines, timber) in Texas. It affects Chinese nationals and Chinese-controlled organizations. The attorney general can investigate suspicious purchases and appoint receivers to manage/sell properties acquired in violation. US citizens/permanent residents are exempt.<br>|<br>该法案禁止来自被指定为对国家安全构成风险的国家（包括中国）的个人和组织购买德克萨斯州的不动产（农业用地、矿场、林地）。这影响到中国公民和受中国控制的组织。司法部长可以调查可疑的购买行为，并任命接管人管理/出售违规获得的财产。美国公民/永久居民不受影响。<br>|<br>1. State Affairs Committee<br>2. Agriculture  Livestock Committee<br>3. Natural Resources Committee<br>|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities.|Kolkhorst, Bettencourt, Hall, Middleton|02/03/2025 S Referred to State Affairs|
 |[SB1063](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1063)|<br>This bill prohibits foreign individuals and companies from entering agreements related to agricultural land in Texas, specifically land up to 5 acres. Chinese citizens and Chinese-owned companies would be directly impacted, as they would be prohibited from purchasing, leasing, or controlling agricultural land. This affects both individual Chinese citizens and Chinese companies, regardless of whether they are publicly traded.<br>|<br>该法案禁止外国个人和公司就德克萨斯州的农业用地（特别是面积不超过5英亩的土地）签订协议。这将直接影响中国公民和中资公司，使他们无法购买、租赁或控制农业用地。这一限制同时适用于中国个人公民和中国公司，无论该公司是否为上市公司。<br>|<br>1. Agriculture Committee<br>2. State Affairs Committee<br>3. Business  Commerce Committee<br>|Relating to prohibiting contracts or other agreements with foreign-owned companies in connection with agricultural land.|Campbell|02/03/2025 S Filed|
 
-### Talking Points Against SB17
 
+
+### Talking Points Against SB17
 **SB 17 is un-American and anti-Texan.  Let’s keep Texas open for business.** 
 
 1. **Harm to Texas Economy & Reputation**
@@ -114,7 +115,7 @@ Last Updated at 12:24:35 2025-02-21
     
     * **Excessive Bureaucratic Hurdles**: Compliance with SB 17 would introduce unnecessary red tape, leading to delays, increased transaction costs, and making Texas a less attractive place for investment and growth.  
     
-    * **Impact on Major Trading Partners**: Texas' key trading partners—responsible for tens of billions in annual trade—would face unnecessary restrictions, diminishing international business and economic relationships. (Mainland China is Texas’ 3rd largest trading partner, which imported $26.467 billion from Texas in 2024.) 
+    * **Impact on Major Trading Partners**: Texas' key trading partners—responsible for tens of billions in annual trade—would face unnecessary restrictions, diminishing international business and economic relationships. (Mainland China is Texas’ 3rd largest trading partner, which imported $26.467 billion from Texas in 2024\.)  
     
     * **Risk of Job Losses and Economic Setback**: Restricting property purchases would create a hostile environment for investors and entrepreneurs, prompting them to choose or relocate to more welcoming states, which could result in the loss of tens of thousands of jobs and billions in economic growth. This runs counter to Texas' ongoing efforts to stimulate economic development.  
     
@@ -126,9 +127,9 @@ Last Updated at 12:24:35 2025-02-21
     
     * **Texas' Legacy at Stake**: Texas should continue to champion its legacy as a leader in innovation, commerce, and economic prosperity, not impose unnecessary, harmful restrictions. We must protect the state’s “Open for Business” reputation.  
     
-2. **Lack of Evidence for Public Safety Claims**  
+2. **SB 17 Will Not Achieve Its Stated Goals**  
      
-    * The bill claims to prevent “risk to the health, safety, and welfare of the public, but there is no clear evidence to support that restricting property ownership will achieve these objectives.  
+    * The bill claims to “protect key land and natural resources from hostile counties and their actors” and to ensure national security.  However, there is no clear evidence to support that restricting property ownership will achieve these objectives.  
     
 3. **Unclear Definitions and Practical Challenges**  
      
@@ -136,7 +137,9 @@ Last Updated at 12:24:35 2025-02-21
     
     * **Expansion of Property Restrictions**: SB 17 now includes *commercial, industrial, and residential properties* under its restrictions, expanding beyond the provisions of SB 147 from 2023\.  However, there’s no evidence suggesting foreign ownership of these properties poses a national security threat.  The bill’s scope is overly broad and doesn’t align with its stated objectives.  
     
-    * **Vague Definitions of “Risk”**: The bill includes terms such as “corporate espionage” and “public nuisance” under the definition of risks to public health, safety, and welfare.  How these will be determined is unclear, leaving too much room for interpretation and creating uncertainty.  
+    * **Ambiguity Around the Leasehold Exception**: The leasehold exception is confusing.  It is unclear what “improvements constructed on a leasehold” means.  
+    
+    * **Vague Definitions of “Risk”**: The bill includes terms such as “corporate espionage” and “public nuisance” under the definition of “risk to public health, safety, and welfare.”  How these will be determined is unclear, leaving too much room for interpretation and creating uncertainty.  An objective, justifiable test for “risk to the health, safety, and welfare of the public” would be needed.   
     
     * **Nonsensical Provisions on “Bodily Injury”**: The bill also includes restrictions based on bodily injury, including introducing a dangerous disease or substance into an area.  This could lead to absurd situations where property owners are forced to sell their property due to minor incidents like a slip and fall or the common flu—undermining legal fairness.  
     
@@ -146,7 +149,9 @@ Last Updated at 12:24:35 2025-02-21
     
     * **Harsh Consequences for Violations**: The bill’s “forced sale” provision for violations is overly punitive, risking devastating financial losses and legal disputes.  
     
-    * **Lack of Certainty**: The bill’s ambiguity and lack of pre-clearance mechanisms for transactions could deter foreign investments and talent from choosing Texas as their home or business location.
+    * **Lack of Certainty**: The bill’s ambiguity and lack of pre-clearance mechanisms for transactions could deter foreign investments and talent from choosing Texas as their home or business location.  
+    
+    * **Lack of Protection for Service Providers**: The bill does not provide protection for title companies, real estate agents, attorneys and other service providers involved in real estate transactions.  This would create a chilling effect on these service providers.
 
 4. **Violates Federal Preemption and the Constitution**
 
@@ -154,21 +159,15 @@ Last Updated at 12:24:35 2025-02-21
     
     * **Legal Enforceability Issues**: Federal preemption prevents states from enacting conflicting or supplementary laws in areas already federally regulated, rendering SB 17 legally unenforceable.  
     
-5. **Discriminatory Basis and Misuse of Threat Assessments**
-
-    * **Misinterpretation of the Annual Threat Assessment (ATA)**: SB 17 relies on the ATA but misinterprets its findings. The ATA does not recommend banning property purchases.   
-    
-    * **Unreliable National Security Assessments**: National security assessments are subject to change, making laws based on them unstable and unreliable for long-term economic planning.  
-    
-6. **Unjustified Association Between Individuals and Governments**  
+5. **Unjustified Association Between Individuals and Governments**  
      
     * **Punishing Individuals for Their Governments' Actions**: The bill unfairly targets individuals based on their home country’s government actions, contradicting American values of individual responsibility and equal protection under the law. Those individuals and businesses make the choice to call Texas home.   
     
     * **Dangerous Precedents**: This mirrors historical injustices such as Japanese internment during WWII, setting a dangerous precedent for racial and ethnic discrimination.  
     
-7. **Likely Legal Violations**
+6. **Likely Legal Violations**
 
-     SB 17 discriminates based on national origin, violating several federal and state laws, including:
+    SB 17 discriminates based on national origin, violating several federal and state laws, including:
 
     * 14th Amendment (Equal Protection Clause)  
     
@@ -178,13 +177,13 @@ Last Updated at 12:24:35 2025-02-21
     
     * WTO Agreements (Potential violation of international trade laws)  
     
-8. **Broader Discriminatory and Social Implications**
+7. **Broader Discriminatory and Social Implications**
 
     * **Fostering Xenophobia**: By targeting specific nationalities, the bill fosters racial profiling, increasing discrimination against all Asian Americans—not just Chinese Americans—due to perceived ethnic similarity. This could lead to negative economic and social consequences for the AAPI community in Texas, including those born in Texas and U.S. citizens.  
     
     * **Dividing Communities**: The bill unjustly equates lawful immigrants with national security threats, creating an environment of fear, suspicion, and division among Texans.   
     
-9. **Lessons from History**
+8. **Lessons from History**
 
     * **Repeating Past Mistakes**: Texas had alien land laws back in the 19-20th century restricting foreign land ownership but the state legislature abolished them in 1965 “on the grounds that they imposed **unreasonable and discriminatory restrictions** on alien ownership and militated against efforts by the state to entice foreign investment and stimulate economic development and industrial growth.”  Enacting SB 17 would repeat past mistakes and undo decades of progress, reversing Texas’ global standing and economic growth.  
     

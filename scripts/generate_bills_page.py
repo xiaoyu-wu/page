@@ -29,6 +29,13 @@ def update_bills_page():
     for category in CATEGORIES:
         print(f"Building section for category {category}...")
         content += build_section_for_category(category)
+        if category == "Alien land laws":
+            with open("talking_points_sb17.md") as f:
+                tp = f.read()
+            content += f'''
+### Talking Points Against SB17
+{tp}
+'''
     with open("../bills.markdown", "w") as f:
         f.write(content)
 

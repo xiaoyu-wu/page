@@ -52,6 +52,18 @@ The list of Texas senators' phone numbers is as follows:
 
 ---
 
+## One-pager to Oppose SB17
+
+Please share this one-pager with anyone who may be concerned, and help spread awareness about the significant harm SB17 could inflict on Texas and its communities. You can [download as image](/assets/images/oppose-sb17-onepager.png) or as PDF files below:
+
+**English version**
+<embed src="/assets/docs/oppose-sb17-onepager-english.pdf" type="application/pdf" />
+
+**中文版**
+<embed src="/assets/docs/oppose-sb17-onepager-chinese.pdf" type="application/pdf" />
+
+---
+
 ## Monitor Legislative Progress
 
 1. **Be Aware of Deadlines**  

@@ -54,6 +54,11 @@ feature_row4:
     url: "/fight/"
     btn_label: "Act now!"
     btn_class: "btn--primary"
+  - image_path: /assets/images/oppose-sb17-onepager.png
+    alt: "One-pager to Oppose SB17"
+    title: 'Share the one-pager to oppose SB17'
+    url: "/fight/#one-pager-to-oppose-sb17"
+
 ---
 
 {% include feature_row id="intro" type="center" %}

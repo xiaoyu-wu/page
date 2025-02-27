@@ -9,8 +9,8 @@ header:
   actions:
     - label: "URGENT: Call to Oppose SB17"
       url: "/fight/#urgent-call-state-affairs-committee-members-to-oppose-sb17"
-    - label: "Fight Racist Bills!"
-      url: "/fight/"
+    - label: "URGENT: Send Emails to Oppose SB17"
+      url: "/fight/#urgent-send-emails-to-oppose-sb17"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The 89th session of the Texas Legislature has witnessed numerous racially discriminatory bills justified under the guise of national security. Stand up for your community—raise your voice, and fight back!"
 # intro:

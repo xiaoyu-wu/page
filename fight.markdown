@@ -97,24 +97,23 @@ Kevin.Sparks@senate.texas.gov
 ### Email Template 邮件模板
 
 **Subject:** Opposition to SB17  
-```
-Dear Senator,  
+> Dear Senator,  
+>
+> I strongly oppose SB17, which seeks to restrict property ownership based solely on national origin. This bill is discriminatory and violates both the Fourteenth Amendment to the United States Constitution and Fair Housing Laws.  
+>
+> While I fully support national security measures, I oppose any legislation that targets individuals or groups solely based on their national origin.
+>  
+> As an immigrant and a member of this community, I am deeply concerned about the message this bill sends and the potential for increased discrimination and hostility toward individuals and families like mine.  
+>
+> If enacted, this bill will damage Texas’ reputation as a business-friendly state, drive away skilled immigrant workers and investors, and harm our economy.  
+>
+> I urge you to stand against discrimination and vote NO on SB17.  
+> 
+> Thank you for your time and consideration.  
+> 
+> Sincerely,  
+> [Your Name]  
 
-I strongly oppose SB17, which seeks to restrict property ownership based solely on national origin. This bill is discriminatory and violates both the Fourteenth Amendment to the United States Constitution and Fair Housing Laws.  
-
-While I fully support national security measures, I oppose any legislation that targets individuals or groups solely based on their national origin.  
-
-As an immigrant and a member of this community, I am deeply concerned about the message this bill sends and the potential for increased discrimination and hostility toward individuals and families like mine.  
-
-If enacted, this bill will damage Texas’ reputation as a business-friendly state, drive away skilled immigrant workers and investors, and harm our economy.  
-
-I urge you to stand against discrimination and vote NO on SB17.  
-
-Thank you for your time and consideration.  
-
-Sincerely,  
-[Your Name]  
-```
 ---
 
 ## One-pager to Oppose SB17

@@ -52,6 +52,71 @@ The list of Texas senators' phone numbers is as follows:
 
 ---
 
+## URGENT: Send Emails to Oppose SB17
+
+In addition to making phone calls, you can also express your opposition to SB17 by sending a mass email to the 31 Texas senators. Simply copy and paste the following information, and sending it to all senators takes just 1 minute. You can do it anytime, day or night!
+
+除了打电话之外，您还可以通过群发邮件的方式向 31 位德州参议员表达对 SB17 提案的反对意见。复制并粘贴以下信息，发送给所有参议员仅需 1 分钟，白天黑夜，任何时间都可以发送！
+
+### Senator Email Addresses 参议员邮箱地址
+
+```
+Bryan.Hughes@senate.texas.gov,  
+Bob.Hall@senate.texas.gov,  
+Robert.Nichols@senate.texas.gov,  
+brandon.creighton@senate.texas.gov,  
+Charles.Schwertner@senate.texas.gov,  
+Carol.Alvarado@senate.texas.gov,  
+Paul.Bettencourt@senate.texas.gov,  
+Angela.Paxton@senate.texas.gov,  
+Kelly.Hancock@senate.texas.gov,  
+phil.king@senate.texas.gov,  
+mayes.middleton@senate.texas.gov,  
+tan.parker@senate.texas.gov,  
+Borris.Miles@senate.texas.gov,  
+Sarah.Eckhardt@senate.texas.gov,  
+molly.cook@senate.texas.gov,  
+Nathan.Johnson@senate.texas.gov,  
+Joan.Huffman@senate.texas.gov,  
+Lois.Kolkhorst@senate.texas.gov,  
+Roland.Gutierrez@senate.texas.gov,  
+Juan.Hinojosa@senate.texas.gov,  
+Judith.Zaffirini@senate.texas.gov,  
+Brian.Birdwell@senate.texas.gov,  
+Royce.West@senate.texas.gov,  
+Pete.Flores@senate.texas.gov,  
+Donna.Campbell@senate.texas.gov,  
+Jose.Menendez@senate.texas.gov,  
+Adam.Hinojosa@senate.texas.gov,  
+Charles.Perry@senate.texas.gov,  
+Cesar.Blanco@senate.texas.gov,  
+Brent.Hagenbuch@senate.texas.gov,  
+Kevin.Sparks@senate.texas.gov  
+```
+
+### Email Template 邮件模板
+
+**Subject:** Opposition to SB17  
+```
+Dear Senator,  
+
+I strongly oppose SB17, which seeks to restrict property ownership based solely on national origin. This bill is discriminatory and violates both the Fourteenth Amendment to the United States Constitution and Fair Housing Laws.  
+
+While I fully support national security measures, I oppose any legislation that targets individuals or groups solely based on their national origin.  
+
+As an immigrant and a member of this community, I am deeply concerned about the message this bill sends and the potential for increased discrimination and hostility toward individuals and families like mine.  
+
+If enacted, this bill will damage Texas’ reputation as a business-friendly state, drive away skilled immigrant workers and investors, and harm our economy.  
+
+I urge you to stand against discrimination and vote NO on SB17.  
+
+Thank you for your time and consideration.  
+
+Sincerely,  
+[Your Name]  
+```
+---
+
 ## One-pager to Oppose SB17
 
 Please share this one-pager with anyone who may be concerned, and help spread awareness about the significant harm SB17 could inflict on Texas and its communities. You can [download as image](/assets/images/oppose-sb17-onepager.png) or as PDF files below:

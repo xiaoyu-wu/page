@@ -16,4 +16,4 @@ def fetch_and_parse(url):
 def extract_string_by_tag(xml_string, tag_name):
     soup = BeautifulSoup(xml_string, 'xml')
     tag = soup.find(tag_name)
-    return tag.text if tag else None
+    return tag.text if tag else ''

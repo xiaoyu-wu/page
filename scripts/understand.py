@@ -16,13 +16,16 @@ TLO_BASE_URL = "https://capitol.texas.gov"
 POLL_INTERVAL = 10  # Time in seconds between each poll
 
 def lookup_bill_info(bill_number, url=BILL_HISTORY_URL):
-    populated_url = url.format(bill_number)
-    soup = fetch_and_parse(populated_url)
-    caption = soup.find('td', id='cellCaptionText').text.strip()
-    authors = soup.find('td', id='cellAuthors').text.strip().replace(' |', ',')  # Not to mess with MD table
-    last_action = soup.find('td', id='cellLastAction').text.strip()
-    print("Caption: {}\nAuthors: {}\nLast Action: {}\n".format(caption, authors, last_action))
-    return (caption, authors, last_action)
+    try:
+        populated_url = url.format(bill_number)
+        soup = fetch_and_parse(populated_url)
+        caption = soup.find('td', id='cellCaptionText').text.strip()
+        authors = soup.find('td', id='cellAuthors').text.strip().replace(' |', ',')  # Not to mess with MD table
+        last_action = soup.find('td', id='cellLastAction').text.strip()
+        print("Caption: {}\nAuthors: {}\nLast Action: {}\n".format(caption, authors, last_action))
+        return (caption, authors, last_action)
+    except:
+        return ("Unknown", "Unknown", "Unknown")
 
 
 def lookup_bill_text(bill_number, url=BILL_TEXT_URL):
@@ -162,6 +165,23 @@ def understand_bills(bills, url):
                     json.dump(bill_data, dataf)
             time.sleep(POLL_INTERVAL)
 
+def track_priority_bills(url):
+    for i in range(30):
+        bill = f"SB{i+1}"
+        if bill == "SB17":
+            continue
+        bill_url = url.format(bill)
+        caption, authors, last_action = lookup_bill_info(bill)
+        bill_data = {
+            "number": bill,
+            "url": bill_url,
+            "caption": caption,
+            "authors": authors,
+            "last_action": last_action
+        }
+        with open(f"data/{bill}.json", "w") as dataf:
+            json.dump(bill_data, dataf)
+
 if __name__ == "__main__":
     print("Collecting bills to understand...")
     if not os.path.isfile("bills_to_understand.txt"):
@@ -173,3 +193,4 @@ if __name__ == "__main__":
             print(f"Sorted bills: {bills_sorted}")
     print("Understanding bills ...")
     understand_bills(bills_sorted, BILL_HISTORY_URL)
+    track_priority_bills(BILL_HISTORY_URL)

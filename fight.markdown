@@ -11,32 +11,25 @@ Racist bills can have harmful and lasting effects on communities. Here are steps
 ---
 
 ## URGENT: Call State Affairs Committee Members to Oppose SB17
+Updated 3/2/2025
 
-☎️SB17 has been scheduled into the Senate State Affairs Committee, and a hearing could take place at any time. Now is a crucial moment to promptly communicate with senators to express your concerns.
+☎️SB17 has been assigned to the Senate State Affairs Committee, and a hearing could be held at any time. Now is a critical moment to promptly communicate with senators and express your concerns.
 
-We need everyone (as long as you are a Texas resident, regardless of status) to take the time to [continuously call] all 11 Texas senators to express our opposition to SB17.
+We need everyone (as long as you are a Texas resident, regardless of status) to take the time to [continuously call] the senator from your district as well as the 11 senators on the committee to express our opposition to SB17.
 
-Making a call is very simple and quick: first, spell out your name, then say "I am calling to oppose SB17." The person on the other end might note down your zip code or city, and then you can hang up. It takes about half a minute per senator. (Of course, you can also elaborate on your concerns in detail with the senator's office.)
+You can find the senator for your district by searching [here]( https://wrm.capitol.texas.gov/home). When calling, if you are a registered voter in that senator's district, be sure to say, "I am a registered and active voter in your district."
 
-The list of Texas senators' phone numbers is as follows:  
-- **Bryan Hughes (R)** – [512-463-0101](tel:512-463-0101)  
-- **Angela Paxton (R)** – [512-463-0108](tel:512-463-0108)  
-- **Paul Bettencourt (R)** – [512-463-0107](tel:512-463-0107)  
-- **Brian Birdwell (R)** – [512-463-0122](tel:512-463-0122)  
-- **Bob Hall (R)** – [512-463-0102](tel:512-463-0102)  
-- **Adam Hinojosa** – [512-463-0127](tel:512-463-0127)  
-- **Mayes Middleton (R)** – [512-463-0111](tel:512-463-0111)  
-- **Tan Parker (R)** – [512-463-0112](tel:512-463-0112)  
-- **Charles Perry (R)** – [512-463-0128](tel:512-463-0128)  
-- **Charles Schwertner (R)** – [512-463-0105](tel:512-463-0105)  
-- **Judith Zaffirini (D)** – [512-463-0121](tel:512-463-0121)  
+When calling other senators, it’s very simple and quick: first, spell your name, then say, "I am calling to oppose SB17." The person on the other end might note down your zip code or city, and then you can hang up. It takes about half a minute per senator. (Of course, you can also elaborate on your concerns and explain how the bill could impact Texas's economy and communities.)
 
 ☎️SB17已经被安排进参议院State Affairs Committee，随时可能举行听证会。现在是及时沟通参议员，表达自己担忧的关键时机。
 
-现在需要大家（只要是德州居民就行，不论身份）有空就【持续致电】所有11位德州参议员，表达我们反对SB17。
+现在需要大家（只要是德州居民就行，不论身份）有空就【持续致电】自己选区的参议员，以及committee的11位德州参议员，表达我们反对SB17。
 
-打电话非常简单快速：先spell自己名字，然后说一句I am calling to oppose SB17。对方可能会登记一下你的zipcode或城市，然后就可以挂电话。一个议员半分钟。(当然也可以和议员办公室具体仔细阐述担忧）
+自己选区的参议员可以在[这里](https://wrm.capitol.texas.gov/home)搜索。打过去时候，如果自己是该议员选区的注册选民，一定要说“I am a registered and active voter in your district.”
 
+拨打其他参议员时，非常简单快速：先spell自己名字，然后说一句I am calling to oppose SB17。对方可能会登记一下你的zipcode或城市，然后就可以挂电话。一个议员半分钟。(当然也可以和议员办公室具体阐述你的担忧，以及提案对德州经济和社区的影响）
+
+The list of Texas senators' phone numbers is as follows:  
 德州参议员电话名单如下:  
 - **Bryan Hughes (R)** – [512-463-0101](tel:512-463-0101)  
 - **Angela Paxton (R)** – [512-463-0108](tel:512-463-0108)  

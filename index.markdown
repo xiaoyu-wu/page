@@ -7,10 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/texas_capital.jpg
   actions:
+    - label: "URGENT: Testify at Public Hearing of SB17"
+      url: "/fight/#urgent-testify-at-public-hearing-of-sb17" 
     - label: "URGENT: Call to Oppose SB17"
       url: "/fight/#urgent-call-state-affairs-committee-members-to-oppose-sb17"
-    - label: "URGENT: Send Emails to Oppose SB17"
-      url: "/fight/#urgent-send-emails-to-oppose-sb17"
+    # - label: "URGENT: Send Emails to Oppose SB17"
+    #   url: "/fight/#urgent-send-emails-to-oppose-sb17"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The 89th session of the Texas Legislature has witnessed numerous racially discriminatory bills justified under the guise of national security. Stand up for your community—raise your voice, and fight back!"
 # intro:
@@ -58,7 +60,13 @@ feature_row4:
     alt: "One-pager to Oppose SB17"
     title: 'Share the one-pager to oppose SB17'
     url: "/fight/#one-pager-to-oppose-sb17"
-
+  - image_path: /assets/images/testify-training.jpg
+    alt: "Training Session to Testify Against SB17"
+    title: "Prepare to testify!"
+    excerpt: 'Asian Texan For Justice will host an online training session to help everyone prepare their testimonies.'
+    url: "http://Bit.ly/alienlandtestimony"
+    btn_label: "Sign up now!"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

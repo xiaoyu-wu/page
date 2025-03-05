@@ -10,6 +10,22 @@ Racist bills can have harmful and lasting effects on communities. Here are steps
 
 ---
 
+## URGENT: Testify at Public Hearing of SB17
+
+On **Thursday, March 6th**, the Texas Senate State Affairs Committee will hold a hearing on the discriminatory new alien land bill, **SB17**. This is one of the most critical opportunities to oppose SB17!
+
+We urge those who are able to attend to come and testify at the hearing. Since this is a Senate hearing, written testimonies cannot be submitted by others on your behalf—you must either testify in person or submit a written testimony yourself. Therefore, please try to sign up to testify by **10:30 AM**.
+
+On **Wednesday, March 5th, at 6:30 PM**, **Asian Texan For Justice** will host an online training session to help everyone prepare their testimonies. Sign up here: [http://Bit.ly/alienlandtestimony](http://Bit.ly/alienlandtestimony). Everyone is welcome to join!
+
+**3月6日（周四）**，德州参议院州务委员会将对具有歧视性的新外国人土地法案**SB17**举行听证会。这是阻击SB17最重要的环节之一！
+
+我们呼吁能够到场作证的朋友们积极参与听证会。由于这是参议院听证会，书面证词不能由他人代为提交，必须亲自到场作证或本人亲自提交书面证词。因此，请大家尽量在**上午10:30前**报名作证。
+
+**3月5日（周三）晚6:30**，**Asian Texan For Justice**将组织一场线上听证会培训，帮助大家更好地准备证词。报名链接：[http://Bit.ly/alienlandtestimony](http://Bit.ly/alienlandtestimony)。欢迎大家踊跃参加！
+
+---
+
 ## URGENT: Call State Affairs Committee Members to Oppose SB17
 Updated 3/2/2025
 

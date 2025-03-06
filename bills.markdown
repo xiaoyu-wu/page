@@ -48,24 +48,24 @@ This legislative package represents a discriminatory approach that could lead to
 
 ### Translation
 
-外国人土地法历来是一种歧视性措施，用于限制特定族裔或国籍群体的财产所有权。这套德克萨斯州法案代表了此类歧视性立法的现代版本，主要针对中国公民和实体，以及其他一些指定国家。
+外国人土地法历来是一种歧视性措施，用于限制特定种族或国籍群体的房地产所有权。这套德克萨斯州法案代表了此类歧视性立法的现代版本，主要针对中国公民和实体，以及其他一些指定国家。
 
 这些法案创建了一个全面的限制框架，严重影响在德克萨斯州的中国个人和实体：
 
-财产购买限制：
-- 多项法案（HB191、HB402、HB1566、HB1849、HB2389、HB2536、HB2752、SB17、SB103、SB307）明确禁止中国公民、政府实体和中国控制的组织在德克萨斯州购买不动产。
+房地产购买限制：
+- 多项法案（HB191、HB402、HB1566、HB1849、HB2389、HB2536、HB2752、SB17、SB103、SB307）明确禁止中国公民、政府实体和中国控制的组织在德克萨斯州购买房地产。
 - 农业用地受到特别审查，HB518、HB1743、SB1063特别限制外国人拥有农田，其中SB1063具体针对不超过5英亩的土地。
 
 执法和处罚：
-- HB243授权通过征用权没收关键基础设施附近的财产。
-- HB733要求验证购买住宅物业者的公民身份。
+- HB243授权通过征用权没收关键基础设施附近的房产。
+- HB733要求验证购买住宅房地产的公民身份。
 - 如HB1849等法案规定严厉处罚，包括刑事指控和罚款。
 
 额外限制：
-- HB546影响外国人拥有的开放空间用地的税收优惠。
+- HB546影响外国人拥有的开放空间土地的税收优惠。
 - HB2034限制指定国家实体的地下水许可。
-- HB2628要求现有外国人拥有的财产在2026年3月1日前出售。
-- HB1743强制非居民中国公民在2027年前出售其财产。
+- HB2628要求现有外国拥有的房产在2026年3月1日前出售。
+- HB1743强制非居民中国公民在2027年前出售其房产。
 - HB2389和SB103还禁止中国实体与德克萨斯州政府实体签订合同。
 
 虽然许多法案豁免了具有中国血统的美国公民和永久居民，但这些法律为中国公民、学生和临时工作者创造了敌对环境。这些立法可能影响：
@@ -73,15 +73,15 @@ This legislative package represents a discriminatory approach that could lead to
 - 中国企业的运营和政府合同
 - 持工作签证的中国专业人士
 - 中国农业投资
-- 现有中国人拥有物业的价值
+- 现有中国人拥有房产的价值
 - 地下水权获取
-- 农业和开放空间用地的税收负担
+- 农业和开放空间土地的税收负担
 
-这套立法方案代表了一种歧视性做法，可能导致更广泛的反华情绪，并影响中美社区，即使是那些被豁免的人群也不例外。
+这套立法方案代表了一种歧视性做法，可能导致更广泛的反华情绪，并影响中美社区，即使是那些豁免的人群也不例外。
 
 
 ### Bills
-Last Updated at 18:54:56 2025-03-04
+Last Updated at 08:50:46 2025-03-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -204,11 +204,12 @@ Multiple bills focus on limiting foreign influence in education:
 - SB1273 and SB1741 establish increased security measures targeting foreign research activities
 - HB3741 requires non-US citizen students and employees to sign declarations that they are not agents of foreign adversaries
 
-The bills also introduce curriculum changes through HB1457 and SB453, mandating courses covering sensitive topics in Chinese history including Tiananmen Square, Tibet, and Uyghurs, which could potentially shape public perception of Chinese immigrants and their communities.
+The bills also introduce curriculum changes:
+- HB1457 and SB453 mandate courses covering sensitive topics in Chinese history including Tiananmen Square, Tibet, and Uyghurs
+- SB762 regulates flag displays, though allowing official national flags
 
 Additional measures include:
 - SB1319 caps foreign student athletic scholarships at 25% of total available scholarships
-- SB762 regulates flag displays, though allowing official national flags
 - HB3564 requires detailed demographic data collection specifically identifying Chinese students
 - SB1273 increases surveillance and background checks for Chinese researchers
 
@@ -217,30 +218,31 @@ The collective impact of these bills creates a challenging environment for Chine
 
 ### Translation
 
-教育法案通常关注课程标准、资金分配和学生资格标准。然而，这些德克萨斯州法案呈现出一系列针对国际学生和外国学术联系的限制性措施，特别影响中国移民和学生。
+教育法案通常关注课程标准、资金分配和学生资格标准。然而，这些德克萨斯州法案显示出一系列针对国际学生和外国学术联系的限制性措施，特别影响中国移民和学生。
 
-多项法案(HB160、HB232、HB424、HB979、HB1324)系统性地限制无证移民获得州内学费资格，要求将其重新归类为非居民。这些变化通过大幅增加教育成本，显著影响没有适当文件的中国学生。HB371进一步限制无证学生接受公立学校教育，除非获得联邦资金支持。
+多项法案(HB160、HB232、HB424、HB979、HB1324)系统性地限制未获授权的移民获得州内学费资格，要求将其重新归类为非居民。这些变化通过大幅增加教育成本，显著影响没有适当文件的中国学生。HB371进一步限制无证学生获得公立学校教育，除非获得联邦资金支持。
 
 多项法案致力于限制外国影响：
 - HB173、SB1067和SB1741禁止接受来自中国政府实体和其他指定国家的捐赠
 - HB1450要求详细季度报告所有外国资金来源
 - HB2595广泛限制与"外国对手"（包括中国）的教育合作，并设有重大处罚
-- SB1273和SB1741建立针对外国研究活动的加强安全措施
+- SB1273和SB1741建立针对外国研究活动的增强安全措施
 - HB3741要求非美国公民学生和员工签署声明，表明他们不是外国对手的代理人
 
-法案还通过HB1457和SB453引入课程变更，强制要求学习包括天安门广场、西藏和维吾尔等中国历史敏感话题的课程，这可能影响公众对中国移民和其社区的看法。
+这些法案还引入课程变更：
+- HB1457和SB453强制要求课程涵盖中国历史敏感话题，包括天安门广场事件、西藏和维吾尔族
+- SB762规范旗帜展示，但允许展示官方国旗
 
 其他措施包括：
-- SB1319将外国学生运动奖学金限制在总奖学金的25%
-- SB762规范旗帜展示，但允许展示官方国旗
-- HB3564要求收集具体识别中国学生的详细人口统计数据
+- SB1319将外国学生运动奖学金限制在总可用奖学金的25%
+- HB3564要求收集详细的人口统计数据，特别识别中国学生
 - SB1273加强对中国研究人员的监督和背景调查
 
 这些法案的综合影响为德克萨斯州教育机构中的中国学生、学者和移民创造了一个充满挑战的环境，可能限制教育机会、研究机会和文化表达，同时增加监督和行政障碍。
 
 
 ### Bills
-Last Updated at 18:54:32 2025-03-04
+Last Updated at 08:50:25 2025-03-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -316,7 +318,7 @@ The collective impact on Chinese immigrants and Chinese Americans is substantial
 
 这些法案主要关注德克萨斯州的商业合同、投资和金融交易的监管，特别强调限制中国在各个领域的参与。这些立法显示出明确限制中国对德克萨斯州经济和基础设施影响的模式。
 
-这些法案可分为以下几个主要领域：
+这些法案可以分为以下几个主要领域：
 
 1. 金融系统和货币（HB1049，HB1056）：
 - 建立黄金/白银货币系统，并限制与"从事非法活动"实体的交易
@@ -324,9 +326,9 @@ The collective impact on Chinese immigrants and Chinese Americans is substantial
 
 2. 技术和基础设施合同（HB1907，HB2403，HB2409，SB934，SB1585，SB1847）：
 - 明确禁止德州政府实体与中国公司签订IT服务和关键基础设施合同
-- 多个重叠法案设有不同处罚，包括刑事指控和高达合同价值两倍的民事处罚
+- 多个重叠法案设有不同处罚，包括刑事指控和最高达合同价值两倍的民事处罚
 - 影响中资企业和科技领域的中国专业人士
-- 涉及电网设备和交通系统
+- 延伸至电网设备和交通系统
 - 包括对遥感技术和激光雷达系统的具体限制
 
 3. 教育和投资限制（HB1381，SB667）：
@@ -336,14 +338,14 @@ The collective impact on Chinese immigrants and Chinese Americans is substantial
 
 4. 商业和税收优惠（HB1623，HB2244，HB3638）：
 - 限制来自"指定国家"实体的税收优惠
-- 特别影响中国电动车领域公司
+- 特别影响中国电动车领域企业
 - 创建偏向美国企业的采购优先权
 - 影响在德州经营的中资企业和中国公民
 
 5. 游说和政治影响（HB2527，HB2912，HB2981，SB1845）：
 - 禁止代表中国实体进行游说活动
 - 禁止中国公民对投票措施进行捐助
-- 设有重大民事处罚和潜在重罪指控
+- 实施重大民事处罚和潜在重罪指控
 - 限制外国对德州立法的影响
 
 6. 基础设施和交通（HB2003，SB780）：
@@ -359,7 +361,7 @@ The collective impact on Chinese immigrants and Chinese Americans is substantial
 
 
 ### Bills
-Last Updated at 18:55:47 2025-03-04
+Last Updated at 08:51:48 2025-03-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -392,30 +394,36 @@ Last Updated at 18:55:47 2025-03-04
 
 Immigration laws typically focus on regulating the entry, residence, and rights of non-citizens within a jurisdiction. The three Texas bills presented here introduce restrictive measures that affect unauthorized immigrants, including those from China.
 
-HB1762 creates a more severe criminal justice environment for unauthorized immigrants by eliminating access to community supervision or deferred adjudication options in Texas criminal cases. This particularly impacts Chinese nationals who may have overstayed their visas or entered without proper documentation, forcing them to face full penalties without access to alternative sentencing options that are available to others. This could result in longer incarceration periods and more severe consequences for even minor offenses.
+HB1762 creates a more severe criminal justice environment for unauthorized immigrants by eliminating access to community supervision or deferred adjudication options in Texas criminal cases. This particularly impacts Chinese nationals who may have overstayed their visas or entered without proper documentation, forcing them to face full penalties without access to alternative sentencing options.
 
-HB2587 implements a healthcare tracking system that requires hospitals to document and report costs associated with treating unauthorized immigrants. The bill mandates immigration status disclosure during hospital intake, which could create barriers to healthcare access for Chinese immigrants without legal status. This requirement might deter unauthorized Chinese immigrants from seeking necessary medical care due to fear of detection or reporting, potentially leading to serious public health consequences.
+HB2587 implements a healthcare tracking system that requires hospitals to document and report costs associated with treating unauthorized immigrants. The bill mandates immigration status disclosure during hospital intake, which could create barriers to healthcare access for Chinese immigrants without legal status, potentially deterring them from seeking necessary medical care due to fear of detection.
 
-HB3681 adds a new layer of employment verification requirements by mandating all Texas employers to use E-verify for new hires. For Chinese workers, this creates additional scrutiny during the hiring process. The requirement to report cases where E-verify cannot confirm legal status to the Department of Public Safety, who then notifies ICE, could create a chilling effect on employment opportunities for Chinese immigrants, even those legally present but with complex immigration situations. The criminal penalties for violations could also lead employers to be overly cautious in hiring anyone they perceive as potentially unauthorized.
+HB3681 adds strict employment verification requirements by mandating all Texas employers to use E-verify for new hires. For Chinese workers, this creates additional scrutiny during the hiring process, with employers required to report cases where E-verify cannot confirm legal status to authorities within 5 days. This could lead to increased ICE involvement and create significant employment barriers for Chinese immigrants.
 
-These bills, while not explicitly targeting Chinese immigrants, create multiple layers of scrutiny and restrictions that could disproportionately affect Chinese nationals, potentially forcing them to live in fear of seeking basic services, employment, or legal protections.
+These bills collectively create a hostile environment for unauthorized immigrants, including Chinese nationals, by:
+- Removing access to alternative sentencing options
+- Creating barriers to healthcare access through mandatory status reporting
+- Implementing strict employment verification with swift reporting requirements to authorities
 
 
 ### Translation
 
 移民法通常侧重于规范非公民在特定管辖区内的入境、居留和权利。这三项德克萨斯州法案引入了影响非法移民（包括来自中国的移民）的限制性措施。
 
-HB1762通过取消非法移民在德克萨斯州刑事案件中获得社区监督或延期判决的机会，创造了更为严厉的刑事司法环境。这特别影响到签证逾期或无证入境的中国公民，迫使他们面临完整刑罚，无法获得其他人可以享有的替代判决方案。这可能导致即使是轻微违法也会面临更长的监禁期和更严重的后果。
+HB1762通过取消未授权移民在德克萨斯州刑事案件中获得社区监督或延期判决的机会，创造了更为严厉的刑事司法环境。这特别影响到签证逾期或无证入境的中国公民，迫使他们在没有替代判决选择的情况下面临全额刑罚。
 
-HB2587实施了一个医疗保健追踪系统，要求医院记录和报告与治疗非法移民相关的费用。该法案要求在医院入院时披露移民身份，这可能会为无合法身份的中国移民获取医疗服务设置障碍。这项要求可能会因为担心被发现或举报，而使非法中国移民不敢寻求必要的医疗护理，可能导致严重的公共卫生问题。
+HB2587实施了一个医疗保健追踪系统，要求医院记录和报告与治疗未授权移民相关的费用。该法案要求在医院入院时披露移民身份，这可能会为无合法身份的中国移民获取医疗保健服务制造障碍，由于担心被发现，他们可能会推迟寻求必要的医疗护理。
 
-HB3681通过要求所有德克萨斯州雇主对新雇员使用E-verify系统，增加了就业验证要求。对中国工人来说，这在招聘过程中增加了额外的审查。如果E-verify无法确认合法身份，雇主必须向公共安全部报告，后者会通知移民及海关执法局（ICE），这可能会对中国移民的就业机会产生寒蝉效应，即使是那些合法居留但移民状况复杂的人也会受到影响。违法行为的刑事处罚也可能导致雇主在雇用他们认为可能未经授权的人时过分谨慎。
+HB3681通过强制要求所有德克萨斯州雇主对新雇员使用E-verify系统进行验证，增加了严格的就业验证要求。对中国工人来说，这在招聘过程中造成了额外的审查，雇主必须在5天内向当局报告E-verify无法确认合法身份的案例。这可能导致移民执法部门的介入增加，并为中国移民创造就业障碍。
 
-这些法案虽然没有明确针对中国移民，但创造了多层审查和限制，可能会对中国公民产生不成比例的影响，可能迫使他们在寻求基本服务、就业或法律保护时生活在恐惧之中。
+这些法案通过以下方式共同为非法移民（包括中国公民）创造了敌对环境：
+- 取消替代判决选项
+- 通过强制身份报告制造医疗保健服务获取障碍
+- 实施严格的就业验证，并要求快速向当局报告
 
 
 ### Bills
-Last Updated at 18:56:22 2025-03-04
+Last Updated at 08:52:26 2025-03-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
@@ -435,39 +443,39 @@ Three bills (HB796, HB898, and SB80) propose the Texas Sovereignty Act, establis
 Security-focused legislation includes:
 - HB1170, which mandates transportation security threat analysis, potentially leading to increased surveillance and screening of Chinese travelers and workers in the transportation sector
 - SB1348 establishes a committee specifically focused on potential conflicts with China, which could result in heightened scrutiny of Chinese-American businesses and individuals connected to Chinese infrastructure projects, particularly in Taiwan-related scenarios
-- SB1349 creates criminal offenses for transnational repression, which could significantly impact Chinese nationals in the US. This bill specifically addresses concerns about foreign government agents engaging in harassment or surveillance, activities that have been associated with Chinese government efforts to influence overseas Chinese communities
+- SB1349 creates criminal offenses for transnational repression, which could significantly impact Chinese nationals in the US, particularly targeting activities often associated with Chinese government influence operations, such as harassment or surveillance of individuals
 
 Regulatory measures include:
 - HB1451 requires foreign agent registration disclosure for lobbyists, which could affect Chinese individuals or organizations involved in lobbying activities
-- HB2241 specifically restricts certain Chinese-manufactured firearms, including specific models like AK47 and AKS, creating a private right of action for violations with minimum damages of $10,000 per weapon
+- HB2241 specifically restricts certain Chinese-manufactured firearms, creating a private right of action for violations with minimum damages of $10,000 per weapon
 
-These bills collectively suggest an increasing focus on potential security threats and foreign influence, which could lead to enhanced scrutiny and potential challenges for Chinese immigrants and Chinese Americans in Texas.
+These bills collectively suggest an increasing focus on potential security threats and foreign influence, which could lead to enhanced scrutiny and potential challenges for Chinese immigrants and Chinese Americans in Texas, particularly in areas of transportation, business operations, and political activities.
 
 
 ### Translation
 
-这些法案代表德克萨斯州在州主权、安全和外国影响力方面的各种立法努力。虽然这些法案并非专门针对中国移民或国民，但其中几项法案可能会对德克萨斯州的中国社区产生重大影响。
+这些德克萨斯州的法案主要关注州主权、安全和外国影响。虽然这些法案并非专门针对中国移民或国民，但其中几项法案可能会对德州的中国社区产生重大影响。
 
-三项法案（HB796、HB898和SB80）提出了《德克萨斯主权法案》，成立委员会审查联邦行动。如果德克萨斯州决定挑战联邦移民政策或与中国的国际协议，这可能会影响中国移民的法律地位和保护。
+三项法案（HB796、HB898和SB80）提出了《德克萨斯主权法案》，设立委员会审查联邦行动。如果德州决定质疑联邦移民政策或与中国的国际协议，这可能会影响中国移民的法律地位和保护。
 
 安全相关立法包括：
 - HB1170要求进行运输安全威胁分析，可能导致对中国旅客和运输部门工作人员加强监控和检查
-- SB1348成立专门针对中国潜在冲突的委员会，这可能导致对与中国基础设施项目有关联的中美企业和个人加强审查，特别是在涉及台湾相关情况时
-- SB1349将跨国压制行为定为刑事犯罪，这可能会显著影响在美中国公民。该法案特别针对外国政府特工进行骚扰或监视的行为，这些活动往往与中国政府影响海外华人社区的努力有关
+- SB1348成立专门针对中国潜在冲突的委员会，可能会加强对与中国基础设施项目有关联的中美企业和个人的审查，特别是在涉及台湾相关情景时
+- SB1349将跨国压制行为定为刑事犯罪，这可能会显著影响在美中国公民，特别是针对与中国政府影响力活动相关的行为，如骚扰或监视个人
 
 监管措施包括：
 - HB1451要求游说者披露外国代理人登记信息，这可能会影响从事游说活动的中国个人或组织
-- HB2241特别限制某些中国制造的枪支，包括AK47和AKS等特定型号，违规者将面临每件武器最少10,000美元的民事诉讼赔偿
+- HB2241专门限制某些中国制造的枪支，违规者将面临最低1万美元每件武器的民事诉讼
 
-这些法案共同表明，德克萨斯州越来越关注潜在的安全威胁和外国影响力，这可能会导致德克萨斯州的中国移民和美籍华人面临更严格的审查和潜在挑战。
+这些法案共同表明德州对潜在安全威胁和外国影响的关注度不断提高，这可能会导致德州的中国移民和华裔美国人面临更严格的审查和潜在挑战，特别是在运输、商业运营和政治活动等领域。
 
 
 ### Bills
-Last Updated at 18:55:26 2025-03-04
+Last Updated at 08:51:23 2025-03-06
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
-|[HB796](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB796)|<br>This bill, known as the Texas Sovereignty Act, establishes a Joint Legislative Committee to review federal actions and determine if they are unconstitutional. While not specifically targeting Chinese immigrants, any federal immigration policies or executive orders deemed unconstitutional by this committee could potentially affect Chinese nationals in Texas, as the state could choose not to recognize or enforce such federal actions.<br>|<br>这项被称为《德克萨斯主权法案》的法案设立了一个联合立法委员会，用于审查联邦行动并确定其是否违宪。虽然该法案并未特别针对中国移民，但如果该委员会认定任何联邦移民政策或行政命令违宪，德克萨斯州可能会选择不承认或不执行这些联邦行动，这可能会影响在德克萨斯州的中国公民。<br>|<br>1. State Affairs Committee<br>2. Constitutional Rights  Remedies Committee<br>3. Judiciary  Civil Jurisprudence Committee<br>|Relating to the Texas Sovereignty Act.|Bell, Cecil, Spiller, Gerdes|11/12/2024 H Filed|
+|[HB796](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB796)|<br>This bill, known as the Texas Sovereignty Act, establishes a Joint Legislative Committee to review federal actions and determine if they are unconstitutional. While not specifically targeting Chinese immigrants, any federal immigration policies or executive orders deemed unconstitutional by this committee could potentially affect Chinese nationals in Texas, as the state could choose not to recognize or enforce such federal actions.<br>|<br>这项被称为《德克萨斯主权法案》的法案设立了一个联合立法委员会，负责审查联邦行动并确定其是否违宪。虽然该法案并未特别针对中国移民，但如果该委员会认定任何联邦移民政策或行政命令违宪，德克萨斯州可能会选择不承认或不执行这些联邦行动，这可能会影响在德克萨斯州的中国公民。<br>|<br>1. State Affairs Committee<br>2. Constitutional Rights  Remedies Committee<br>3. Judiciary  Civil Jurisprudence Committee<br>|Relating to the Texas Sovereignty Act.|Bell, Cecil, Spiller, Gerdes|03/05/2025 H Referred to State Affairs: Mar  5 2025 11:46AM|
 |[HB898](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB898)|<br>This bill establishes the Texas Sovereignty Act, creating a Joint Legislative Committee to review federal actions and determine if they are unconstitutional. While not directly targeting Chinese immigrants, this could impact them if federal immigration policies or international agreements with China are deemed unconstitutional by Texas, potentially affecting their legal status, rights, or protections under federal law.<br>|<br>该法案确立了《德克萨斯主权法案》，成立一个联合立法委员会来审查联邦行动并确定其是否违宪。虽然没有直接针对中国移民，但如果德克萨斯州认定与中国相关的联邦移民政策或国际协议违宪，可能会影响中国移民在联邦法律下的合法身份、权利或保护。<br>|<br>1. State Affairs Committee<br>2. Constitutional Affairs Committee<br>3. Judiciary  Civil Jurisprudence Committee<br>|Relating to the Texas Sovereignty Act.|Spiller|11/12/2024 H Filed|
 |[HB1170](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1170)|<br>The bill requires Texas Department of Public Safety to analyze transportation security threats, including those from foreign actors and cyberthreats. While not explicitly targeting Chinese immigrants, the focus on "foreign actors" and transportation security could lead to increased scrutiny of Chinese travelers and transportation workers through enhanced screening and monitoring procedures.<br>|<br>该法案要求德克萨斯州公共安全部分析交通安全威胁，包括来自外国行为者和网络威胁的威胁。虽然没有明确针对中国移民，但对"外国行为者"和交通安全的关注可能会导致通过加强筛查和监控程序，对中国旅客和交通运输工作者加强审查。<br>|<br>1. Committee on Homeland Security  Public Safety<br>2. Committee on Transportation<br>3. Committee on State Affairs<br>|Relating to analysis and mitigation of transportation security threats in this state.|Raymond|11/12/2024 H Filed|
 |[HB1451](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1451)|<br>This bill requires lobbyists to disclose in their registration form whether they are currently registered as foreign agents, were registered as foreign agents in the past 12 months, or engaged in activities that would require federal foreign agent registration. While not explicitly targeting Chinese nationals, this could affect Chinese individuals or organizations engaging in lobbying activities in Texas.<br>|<br>该法案要求说客在注册表格中披露他们是否目前被注册为外国代理人、在过去12个月内是否曾被注册为外国代理人，或者是否从事过如果在联邦层面开展就需要注册为外国代理人的活动。虽然没有明确针对中国公民，但这可能会影响在德克萨斯州从事游说活动的中国个人或组织。<br>|<br>1. State Affairs Committee<br>2. Government Operations Committee<br>3. Ethics Committee<br>|Relating to the information required to be disclosed in a lobbyist registration form.|Capriglione|11/21/2024 H Filed|
@@ -478,7 +486,7 @@ Last Updated at 18:55:26 2025-03-04
 
 
 ## Priority Bills Status
-Last Updated at 18:56:55 2025-03-04
+Last Updated at 08:52:46 2025-03-06
 
 |Bill Number|Caption|Authors|Last Actiond|
 |-|-|-|-|
@@ -486,27 +494,27 @@ Last Updated at 18:56:55 2025-03-04
 |[SB2](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2)|Relating to the establishment of an education savings account program.|Creighton, Bettencourt, Campbell, Hagenbuch, Hinojosa, Adam, King, Middleton, Parker, Paxton|02/25/2025 H Referred to Public Education: Feb 25 2025  3:35PM|
 |[SB3](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB3)|Relating to the regulation of consumable hemp products and the hemp-derived cannabinoids contained in those products; requiring a registration; imposing fees; creating criminal offenses; providing an administrative penalty.|Perry|03/03/2025 S Left pending in committee|
 |[SB4](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB4)|Relating to an increase in the amount of the exemption of residence homesteads from ad valorem taxation by a school district and the protection of school districts against certain losses in local revenue.|Bettencourt, Alvarado, Birdwell, Blanco, Campbell, Cook, Creighton, Eckhardt, Flores, Gutierrez, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Hinojosa, Juan "Chuy", Huffman, Hughes, King, Kolkhorst, Menéndez, Middleton, Nichols, Parker, Paxton, Perry, Schwertner, Sparks, West, Zaffirini|02/18/2025 H Received from the Senate|
-|[SB5](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB5)|Relating to the creation of the Dementia Prevention and Research Institute of Texas.|Huffman|03/04/2025 S Placed on intent calendar|
+|[SB5](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB5)|Relating to the creation of the Dementia Prevention and Research Institute of Texas.|Huffman|03/05/2025 S Reported engrossed|
 |[SB6](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB6)|Relating to electricity planning and infrastructure costs for large loads.|King, Schwertner|02/27/2025 S Left pending in committee|
 |[SB7](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB7)|Unknown|Unknown|Unknown|
-|[SB8](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB8)|Unknown|Unknown|Unknown|
+|[SB8](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB8)|Relating to agreements between sheriffs and the United States Immigration and Customs Enforcement to enforce federal immigration law.|Huffman, Schwertner|03/05/2025 S Filed|
 |[SB9](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB9)|Relating to the release of defendants on bail, the duties of a magistrate in certain criminal proceedings, the regulation of charitable bail organizations, pretrial intervention programs, and the notice provided by peace officers to victims of family violence, stalking, harassment, or terroristic threat.|Huffman|02/20/2025 H Received from the Senate|
-|[SB10](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB10)|Relating to the display of the Ten Commandments in public school classrooms.|King, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, Hughes, Kolkhorst, Middleton, Nichols, Parker, Paxton, Perry, Schwertner, Sparks|03/04/2025 S Vote taken in committee|
-|[SB11](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB11)|Relating to a period of prayer and reading of the Bible or other religious text in public schools.|Middleton, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, Hughes, King, Kolkhorst, Nichols, Parker, Paxton, Perry, Schwertner, Sparks|03/04/2025 S Vote taken in committee|
+|[SB10](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB10)|Relating to the display of the Ten Commandments in public school classrooms.|King, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, Hughes, Kolkhorst, Middleton, Nichols, Parker, Paxton, Perry, Schwertner, Sparks|03/06/2025 S Placed on intent calendar|
+|[SB11](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB11)|Relating to a period of prayer and reading of the Bible or other religious text in public schools.|Middleton, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, Hughes, King, Kolkhorst, Nichols, Parker, Paxton, Perry, Schwertner, Sparks|03/05/2025 S Committee report printed and distributed: Mar  5 2025  2:38PM|
 |[SB12](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB12)|Relating to parental rights in public education and to certain public school requirements and prohibitions regarding instruction and diversity, equity, and inclusion duties and the loss of funding for public schools that fail to comply with those provisions.|Creighton|02/27/2025 S Left pending in committee|
-|[SB13](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB13)|Relating to a school district's library materials and catalog, the creation of local school library advisory councils, and parental rights regarding public school library catalogs and access by the parent's child to library materials.|Paxton, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, Hughes, King, Kolkhorst, Middleton, Nichols, Parker, Perry, Schwertner, Sparks|03/04/2025 S Vote taken in committee|
+|[SB13](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB13)|Relating to a school district's library materials and catalog, the creation of local school library advisory councils, and parental rights regarding public school library catalogs and access by the parent's child to library materials.|Paxton, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, Hughes, King, Kolkhorst, Middleton, Nichols, Parker, Perry, Schwertner, Sparks|03/05/2025 S Committee report printed and distributed: Mar  5 2025  2:43PM|
 |[SB14](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB14)|Unknown|Unknown|Unknown|
 |[SB15](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB15)|Relating to size and density requirements for residential lots in certain municipalities; authorizing a fee.|Bettencourt, Campbell, Creighton, Gutierrez, Hagenbuch, Hughes, Middleton, Nichols, Paxton, West|03/04/2025 S Filed|
 |[SB16](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB16)|Unknown|Unknown|Unknown|
 |[SB17](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB17)|Relating to the purchase of or acquisition of title to real property by certain aliens or foreign entities.|Kolkhorst, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hinojosa, Adam, Hinojosa, Juan "Chuy", Huffman, King, Middleton, Parker, Schwertner, Sparks|03/06/2025 S Scheduled for public hearing on  . . .|
-|[SB18](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB18)|Relating to prohibiting municipal libraries that host certain events from receiving state or other public funding.|Hughes, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, King, Kolkhorst, Middleton, Nichols, Parker, Paxton, Perry, Schwertner, Sparks|03/03/2025 S Vote taken in committee|
-|[SB19](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB19)|Relating to the use by a political subdivision of public funds for lobbying and certain other activities.|Middleton, Bettencourt, Campbell, Creighton, Flores, Hagenbuch, Hall, Hinojosa, Adam, King, Parker, Paxton, Schwertner|03/03/2025 S Vote taken in committee|
+|[SB18](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB18)|Relating to prohibiting municipal libraries that host certain events from receiving state or other public funding.|Hughes, Bettencourt, Birdwell, Campbell, Creighton, Flores, Hagenbuch, Hall, Hancock, Hinojosa, Adam, Huffman, King, Kolkhorst, Middleton, Nichols, Parker, Paxton, Perry, Schwertner, Sparks|03/06/2025 S Placed on intent calendar|
+|[SB19](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB19)|Relating to the use by a political subdivision of public funds for lobbying and certain other activities.|Middleton, Bettencourt, Campbell, Creighton, Flores, Hagenbuch, Hall, Hinojosa, Adam, King, Parker, Paxton, Schwertner|03/06/2025 S Placed on intent calendar|
 |[SB20](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB20)|Relating to the creation of the criminal offense of possession or promotion of obscene visual material appearing to depict a child.|Flores, Hagenbuch, Hinojosa, Juan "Chuy", Huffman, King, Parker|03/04/2025 S Vote taken in committee|
 |[SB21](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB21)|Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.|Schwertner|03/05/2025 S Placed on intent calendar|
 |[SB22](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB22)|Unknown|Unknown|Unknown|
 |[SB23](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB23)|Unknown|Unknown|Unknown|
-|[SB24](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB24)|Unknown|Unknown|Unknown|
-|[SB25](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB25)|Relating to health and nutrition standards to promote healthy living.|Kolkhorst|02/26/2025 S Left pending in committee|
+|[SB24](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB24)|Relating to the inclusion of an understanding of communist regimes and ideologies in the essential knowledge and skills for the social studies curriculum for public school students.|Campbell, Bettencourt, Creighton, Flores, Hagenbuch, Hall, Hinojosa, Adam, Huffman, Hughes, Kolkhorst, Middleton, Parker, Paxton, Perry, Schwertner|03/05/2025 S Filed|
+|[SB25](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB25)|Relating to health and nutrition standards to promote healthy living.|Kolkhorst|03/05/2025 S Vote taken in committee|
 |[SB26](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB26)|Relating to public education, including the rights and compensation of public school educators and funding for teacher compensation under the Foundation School Program.|Creighton|02/27/2025 H Received from the Senate|
 |[SB27](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB27)|Relating to the rights of public school educators and assistance provided to public schools by the Texas Education Agency related to public school educators.|Creighton|02/28/2025 S Referred to Education K-16|
 |[SB28](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB28)|Relating to a lottery game played or facilitated for play by telephone or through an Internet or mobile Internet application; creating criminal offenses.|Hall, Alvarado, Bettencourt, Birdwell, Campbell, Cook, Creighton, Flores, Hagenbuch, Hancock, Hinojosa, Adam, Huffman, King, Kolkhorst, Middleton, Paxton, Perry, Sparks, West|03/04/2025 H Received from the Senate|

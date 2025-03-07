@@ -41,7 +41,7 @@ def scan_bills_and_save(url, tag, interval=60):
     with open("bills_scanned.txt", "w") as bills_scanned_file:
         for bill in bills:
             bills_scanned_file.write(bill + '\n')
-    return bills
+    return set(bills)
 
 if __name__ == "__main__":
     print("Starting bills search...")
@@ -50,7 +50,7 @@ if __name__ == "__main__":
         bills_patch = f.read().splitlines()
     for bill in bills_patch:
         if bill not in bills:
-            bills.append(bill)
+            bills.add(bill)
             print(f"Added: {bill}")
     with open("bills_irrelevant.txt") as f:
         bills_irrelevent = f.read().splitlines()

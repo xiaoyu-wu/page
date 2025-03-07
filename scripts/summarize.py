@@ -74,6 +74,7 @@ The input is as follows:
 def summarize_bills_by_category(bills):
     categories = {}
     for bill in bills:
+        print(f"Including {bill}")
         with open(f"data/{bill}.json") as dataf:
             bill_data = json.load(dataf)
         category = bill_data["category"]
@@ -133,12 +134,12 @@ def build_bills_table(bills, file_name, includeCategory=False):
 
 if __name__ == "__main__":
     with open("bills_scanned.txt") as f:
-        bills = f.read().splitlines()
+        bills = set(f.read().splitlines())
     with open("bills_patch.txt") as f:
         bills_patch = f.read().splitlines()
     for bill in bills_patch:
         if bill not in bills:
-            bills.append(bill)
+            bills.add(bill)
             print(f"Added: {bill}")
     with open("bills_irrelevant.txt") as f:
         bills_irrelevent = f.read().splitlines()
@@ -146,7 +147,7 @@ if __name__ == "__main__":
             if bill in bills:
                 bills.remove(bill)
                 print(f"Removed: {bill}")
-    bills_sorted = sorted(bills, key=lambda x: (x[:2], int(x[2:])))
+    bills_sorted = sorted(list(bills), key=lambda x: (x[:2], int(x[2:])))
     with open("bills_to_understand.txt", "w") as f:
         for bill in bills_sorted:
             f.write(bill + '\n')

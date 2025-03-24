@@ -10,55 +10,63 @@ Racist bills can have harmful and lasting effects on communities. Here are steps
 
 ---
 
-## URGENT: Testify at Public Hearing of SB17
+## URGENT: Call to Oppose
 
-On **Thursday, March 6th**, the Texas Senate State Affairs Committee will hold a hearing on the discriminatory new alien land bill, **SB17**. This is one of the most critical opportunities to oppose SB17!
+# SB17 已经火速通过了参议院，进入众议院，推进速度飞快
 
-We urge those who are able to attend to come and testify at the hearing. Since this is a Senate hearing, written testimonies cannot be submitted by others on your behalf—you must either testify in person or submit a written testimony yourself. Therefore, please try to sign up to testify by **10:30 AM**.
+SB17 has swiftly passed the Senate and moved to the House of Representatives, progressing at a rapid pace.
 
-On **Wednesday, March 5th, at 6:30 PM**, **Asian Texan For Justice** will host an online training session to help everyone prepare their testimonies. Sign up here: [http://Bit.ly/alienlandtestimony](http://Bit.ly/alienlandtestimony). Everyone is welcome to join!
+这个提案将限制华人（非绿卡）和中国企业买房，仅豁免自住房（造成华人无法换房，购房时被区别对待）。
 
-**3月6日（周四）**，德州参议院州务委员会将对具有歧视性的新外国人土地法案**SB17**举行听证会。这是阻击SB17最重要的环节之一！
+This proposal will restrict Chinese nationals (non-green card holders) and Chinese enterprises from purchasing property, with exemptions only for primary residences (resulting in Chinese nationals being unable to change homes and being treated differently when purchasing property).
 
-我们呼吁能够到场作证的朋友们积极参与听证会。由于这是参议院听证会，书面证词不能由他人代为提交，必须亲自到场作证或本人亲自提交书面证词。因此，请大家尽量在**上午10:30前**报名作证。
+## HB17、HB1849 和 HB2536 是三个一模一样的提案
 
-**3月5日（周三）晚6:30**，**Asian Texan For Justice**将组织一场线上听证会培训，帮助大家更好地准备证词。报名链接：[http://Bit.ly/alienlandtestimony](http://Bit.ly/alienlandtestimony)。欢迎大家踊跃参加！
+HB17, HB1849, and HB2536 are three identical proposals.
 
----
+他们都禁止中国企业和中国公民（非绿卡）在德州购置任何房产（包括住宅物业、商业物业、工业物业、农田等），允许政府没收私人财产。如果违规买房，将遭遇刑事重罪加罚款。这个提案已经得到54位众议院共和党议员的联署支持。
 
-## URGENT: Call State Affairs Committee Members to Oppose SB17
-Updated 3/2/2025
+They all prohibit Chinese enterprises and Chinese citizens (non-green card holders) from purchasing any property in Texas (including residential, commercial, industrial properties, farmland, etc.), and allow the government to confiscate private property. Violators will face criminal felony charges and fines. This proposal has already garnered the support of 54 Republican House members.
 
-☎️SB17 has been assigned to the Senate State Affairs Committee, and a hearing could be held at any time. Now is a critical moment to promptly communicate with senators and express your concerns.
+## 目前，HB17 等提案都被分到 House Committee on Homeland Security, Public Safety & Veterans' Affairs
 
-We need everyone (as long as you are a Texas resident, regardless of status) to take the time to [continuously call] the senator from your district as well as the 11 senators on the committee to express our opposition to SB17.
+Currently, HB17 and other proposals have been assigned to the House Committee on Homeland Security, Public Safety & Veterans' Affairs.
 
-You can find the senator for your district by searching [here]( https://wrm.capitol.texas.gov/home). When calling, if you are a registered voter in that senator's district, be sure to say, "I am a registered and active voter in your district."
+且 HB17 作者 Cole Hefner 就是该组委会主席。这些提案随时会举行听证会！
 
-When calling other senators, it’s very simple and quick: first, spell your name, then say, "I am calling to oppose SB17." The person on the other end might note down your zip code or city, and then you can hang up. It takes about half a minute per senator. (Of course, you can also elaborate on your concerns and explain how the bill could impact Texas's economy and communities.)
+Moreover, Cole Hefner, the author of HB17, is the chairman of this committee. Hearings for these proposals could be held at any time!
 
-☎️SB17已经被安排进参议院State Affairs Committee，随时可能举行听证会。现在是及时沟通参议员，表达自己担忧的关键时机。
+## 请大家一定要积极行动起来！
 
-现在需要大家（只要是德州居民就行，不论身份）有空就【持续致电】自己选区的参议员，以及committee的11位德州参议员，表达我们反对SB17。
+Everyone must take action!
 
-自己选区的参议员可以在[这里](https://wrm.capitol.texas.gov/home)搜索。打过去时候，如果自己是该议员选区的注册选民，一定要说“I am a registered and active voter in your district.”
+只要是德州居民，无论任何签证，都可以拨打电话给议员施压。接通电话以后告诉他们：
 
-拨打其他参议员时，非常简单快速：先spell自己名字，然后说一句I am calling to oppose SB17。对方可能会登记一下你的zipcode或城市，然后就可以挂电话。一个议员半分钟。(当然也可以和议员办公室具体阐述你的担忧，以及提案对德州经济和社区的影响）
+As long as you are a Texas resident, regardless of your visa status, you can call your representatives to pressure them. When you get through, tell them:
 
-The list of Texas senators' phone numbers is as follows:  
-德州参议员电话名单如下:  
-- **Bryan Hughes (R)** – [512-463-0101](tel:512-463-0101)  
-- **Angela Paxton (R)** – [512-463-0108](tel:512-463-0108)  
-- **Paul Bettencourt (R)** – [512-463-0107](tel:512-463-0107)  
-- **Brian Birdwell (R)** – [512-463-0122](tel:512-463-0122)  
-- **Bob Hall (R)** – [512-463-0102](tel:512-463-0102)  
-- **Adam Hinojosa** – [512-463-0127](tel:512-463-0127)  
-- **Mayes Middleton (R)** – [512-463-0111](tel:512-463-0111)  
-- **Tan Parker (R)** – [512-463-0112](tel:512-463-0112)  
-- **Charles Perry (R)** – [512-463-0128](tel:512-463-0128)  
-- **Charles Schwertner (R)** – [512-463-0105](tel:512-463-0105)  
-- **Judith Zaffirini (D)** – [512-463-0121](tel:512-463-0121)  
+> I am calling to oppose SB17, HB17, HB1849, and HB2536! If you vote for this bill, you are a racist, you hate Chinese Americans, and we will let everyone know.
 
+## 先拨打自己选区的 Texas House Representative
+
+First, call your district's Texas House Representative.
+
+联系方式可查询 [https://wrm.capitol.texas.gov/home](https://wrm.capitol.texas.gov/home)
+
+## 再拨打组委会成员
+
+Then, call the committee members:
+
+- **Cole Hefner (R)** - [512-463-0271](tel:512-463-0271) - 此人也是 HB17 作者 (This person is also the author of HB17)
+- **Ray Lopez (D)** - [512-463-0669](tel:512-463-0669)
+- **Terry Canales (D)** - [512-463-0426](tel:512-463-0426)
+- **Philip Cortez (D)** - [512-463-0269](tel:512-463-0269)
+- **Mark Dorazio (R)** - [512-463-0646](tel:512-463-0646)
+- **Hillary Hickland (R)** - [512-463-0630](tel:512-463-0630)
+- **Janis Holt (R)** - [512-463-0570](tel:512-463-0570)
+- **Carrie Isaac (R)** - [512-463-0325](tel:512-463-0325)
+- **AJ Louderback (R)** - [512-463-0456](tel:512-463-0456)
+- **Don McLaughlin (R)** - [512-463-0194](tel:512-463-0194)
+- **Katrina Pierson (R)** - [512-463-0484](tel:512-463-0484)
 ---
 
 ## URGENT: Send Emails to Oppose SB17

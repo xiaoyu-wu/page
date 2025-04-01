@@ -7,10 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/texas_capital.jpg
   actions:
+    - label: "URGENT: Testitfy to Oppose HB17"
+      url: "/fight/#urgent-testify-against-racist-bills"
     - label: "URGENT: Call to Oppose HB17"
       url: "/fight/#urgent-call-to-oppose"
-    # - label: "URGENT: Send Emails to Oppose SB17"
-    #   url: "/fight/#urgent-send-emails-to-oppose-sb17"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "The 89th session of the Texas Legislature has witnessed numerous racially discriminatory bills justified under the guise of national security. Stand up for your community—raise your voice, and fight back!"
 # intro:

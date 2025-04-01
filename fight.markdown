@@ -10,6 +10,26 @@ Racist bills can have harmful and lasting effects on communities. Here are steps
 
 ---
 
+## URGENT: Testify against Racist Bills
+
+- ☎ HB17 hearing will be held this Wednesday, "property purchase ban and property confiscation" will become reality  
+  ☎ HB17本周三举行听证会，“禁购房产、没收房产”将成现实  
+
+- Friends who can attend the hearing in Austin: There will be free buses departing from Houston Chinatown's Dunhuang Plaza at 6:30 AM on Wednesday, going directly to Austin and returning the same evening. You must register in advance - please don't just show up for the bus. This is mainly to prevent seating shortages if not reserved beforehand. Register to secure your seat: https://docs.google.com/forms/d/e/1FAIpQLScUicoKy6D-PQ9s5Hdx_LxentoyRYp3jeHEP3eVyzjijAwtTQ/viewform  
+  如果能去奥斯汀参加听证会的朋友，休斯敦有免费大巴周三早上6:30从中国城敦煌广场出发 直达奥斯汀，当天晚上返回，请一定要报名，不要直接去坐大巴，主要是怕没有提前预定，座位不够，报名我们好确保您的座位： https://docs.google.com/forms/d/e/1FAIpQLScUicoKy6D-PQ9s5Hdx_LxentoyRYp3jeHEP3eVyzjijAwtTQ/viewform  
+
+- Hearing training video link: https://m.youtube.com/watch?v=ChjP_h7MKvU  
+  听证会培训视频链接：https://m.youtube.com/watch?v=ChjP_h7MKvU  
+
+- HB17 reference materials package and Talking Points: https://drive.google.com/drive/folders/1TCB4Z2XmzumyCbUGN_eSstFZhiUL_3LB  
+  HB17 相关资料包以及Talking Points： https://drive.google.com/drive/folders/1TCB4Z2XmzumyCbUGN_eSstFZhiUL_3LB  
+
+- If worried about English proficiency: 1) Read directly from script 2) We have volunteers who can provide on-site translation/script reading (you provide a one-minute Chinese script). The volunteer will accompany you to the podium - you sit while the volunteer reads.  
+  担心英语不好的话：1 直接念稿子 2 我们这里有志愿者可以提供现场翻译念稿（你们提供一个一分钟的中文稿子），志愿者和人一起上去，人坐着，志愿者念  
+
+- The HB17 hearing is this Wednesday, and Tuesday is crucial. Friends who cannot go to Austin, let's call the committee office together to make our voices heard!  
+  HB17本周三将进行听证会，周二至关重要。不能前往奥斯汀的朋友，让我们一起打电话到组委会办公室，发出我们的声音！
+
 ## URGENT: Call to Oppose
 
 # SB17 已经火速通过了参议院，进入众议院，推进速度飞快

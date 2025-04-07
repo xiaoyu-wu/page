@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/texas_capital.jpg
   actions:
-    - label: "URGENT: Testitfy to Oppose HB17"
-      url: "/fight/#urgent-testify-against-racist-bills"
+    # - label: "URGENT: Testitfy to Oppose HB17"
+    #   url: "/fight/#urgent-testify-against-racist-bills"
     - label: "URGENT: Call to Oppose HB17"
       url: "/fight/#urgent-call-to-oppose"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -16,9 +16,13 @@ excerpt: "The 89th session of the Texas Legislature has witnessed numerous racia
 # intro:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/austin_rally.jpg
-    alt: "Rally in Austin"
-    title: "Join our rally in Austin on March 29, 11am at State Capitol"
+  - image_path: assets/images/hb17.png
+    alt: "HB17"
+    title: "Stop Racist HB17"
+    excerpt: 'HB 17 poses serious threats to immigrant communities, including those with legal status. Find resources explaining the dangers of this bill, its even more harmful committee substitute (which has been hidden from public view), and tools to take action.'
+    url: "/hb17/"
+    btn_label: "Learn more"
+    btn_class: "btn--primary"   
 feature_row2:
   - image_path: /assets/images/documents.jpg
     alt: "documents"
@@ -47,7 +51,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row type="left"%}
 
 {% include feature_row id="feature_row2" type="left" %}
 

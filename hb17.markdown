@@ -1,0 +1,109 @@
+---
+layout: single
+title: Stop Racist HB17 - Protect Immigrant Rights
+permalink: /hb17/
+toc: true
+toc_sticky: true
+---
+
+HB 17 in the 89th Texas Legislature poses serious threats to immigrant communities, including those with legal status. Below you'll find resources explaining the dangers of this bill, its even more harmful committee substitute (which has been hidden from public view), and tools to take action.
+
+## 🔍 Hidden Committee Substitute: Worse Than the Original Bill
+
+**We've obtained a PDF of the dangerous committee substitute version that has not been made publicly available.** This version includes even more restrictive measures targeting immigrants with legal status in Texas.
+
+[Download the Committee Substitute PDF](/assets/docs/Committee_Sub_HB17.pdf)
+
+## 📄 Why We Oppose HB 17
+
+While national security is a legitimate concern, **the committee substitute of HB 17 is so broadly written that the local Chinese American community believes it is the new Chinese Exclusion Act.**
+
+### 1. Harm to Texas Economy & Business Climate
+- **Destabilizes Real Estate Markets** - Banning property ownership and prohibiting leases by foreign individuals and companies disrupts commercial, industrial, residential, and agricultural markets.
+- **Discourages investment into Texas**, and drives away entrepreneurs and talent, costing Texas jobs and growth.
+- The President of the United States expressed that he wants foreign investments into the U.S. - [see statement (Feb. 26, 2025)](https://www.youtube.com/shorts/2t6UNUxpKA0). This bill is in direct opposition to that.
+- **Talented and skilled international students and workers will leave Texas**, harming research and economic activity in many universities and corporations.
+- **Enforcement will be difficult, costly, and slow**, and is likely to result in racial profiling of all Asians and Asian Americans.
+
+### 2. HB 17 Does Not Enhance National Security
+- **Confuses individuals with their former governments**; it baselessly assumes all of these individuals are agents of their former government, and punishes individuals not for something they did, but for where they came from.
+- There is **no evidence** that restricting immigrants from owning a townhome or a condominium will impact national security. There is simply no connection.
+- The **"not-within-10-miles-of-a-critical-infrastructure-facility" requirement** will effectively place prohibitions on nearly all properties.
+
+### 3. Violates Federal Law & Constitutional Rights
+- **Federal/State Oversight Already Exists** - Federal government already regulates foreign transactions through CFIUS; and Texas already passed the Lone Star Infrastructure Protection Act in 2021, making HB 17 redundant and excessive.
+- **Unconstitutional Discrimination** - Violates:
+  - The 14th Amendment
+  - The Texas Constitution (Art. 1, sec. 3)
+  - The Fair Housing Act
+  ...by targeting individuals based on national origin.
+
+### 4. Dangerous Social & Historical Precedents
+- **Echoes Past Discrimination** - Resembles past alien land laws and policies, which Texas repealed in 1965 to encourage investment and deter discrimination.
+- **Fosters Xenophobia & Racial Profiling** - Creates fear and division, disproportionately impacting the entire Asian American population.
+
+**We urge protection of the legitimate interests** of those hard-working work and student visa holders from China lawfully living in the state and businesses that help make Texas an economic powerhouse.
+
+*Let's stand for fairness, business success, and an open Texas.*
+
+[Download Our Opposition Brief](/assets/docs/Why_We_Oppose_HB17.pdf)
+
+## ⚖️ Legal Analysis: Domicile Status of Visa Holders
+
+**Impossibility of Establishing Domicile for Temporary Visa Holders Under Current U.S. Law**
+
+This analysis highlights the significant legal barriers temporary visa holders face when attempting to establish domicile in the United States. Under current immigration laws and regulations:
+
+### Key Legal Barriers
+- **Visa Type Restrictions**: Holders of nonimmigrant visas (F-1, H-1B, L-1A, etc.) are generally **prohibited from demonstrating intent to remain permanently** in the U.S. - a core requirement for establishing domicile.
+- **Visa Violation Risk**: Showing such intent could **violate the terms of their visa status** and jeopardize their legal standing.
+- **Permanent Residency Hurdles**: Until individuals complete the complex, uncertain path to permanent residency (green card status), establishing domicile remains legally unattainable.
+
+### Conflict with HB17/SB17
+- **Impossible Requirements**: These bills demand property transactions that presume domicile status - a legal impossibility for most visa holders.
+- **Chilling Effect**: This conflict could deter investment and skilled worker settlement in Texas, harming economic growth.
+
+[Download Full Legal Memorandum (PDF)](/assets/docs/Legal_Analysis_of_Domicile.pdf)  
+*Document analyzes relevant immigration statutes, regulations, and case law*
+
+## 🏗️ Impact of the "Critical Infrastructure Facility" Clause
+
+![](/assets/docs/critical_infrastructure_clause.png)
+
+## ✉️ Email Template: Urgent HB17 Amendment Request
+
+**Subject:** Urgent: Request to Amend HB17 to Protect International Students and Scholars  
+
+**Dear** <span style="background-color: yellow">[Title or Name]</span>,  
+
+I am writing to share my deep concern regarding Texas House Bill 17 (HB17) and Senate Bill 17 (SB17), particularly the Committee Substitute version of HB17. These bills propose sweeping restrictions on international individuals from China and several other countries, including those holding temporary visas such as F-1, J-1, and H-1B.  
+
+Under the current Committee Substitute of HB17, beginning September 1, 2025, international students, scholars, and professionals holding F-1, J-1, or H-1B visas would be prohibited from purchasing homes, renting apartments, or leasing land within 10 miles of any critical infrastructure in Texas [...] In practice, this would make it nearly impossible for Chinese students and employees on temporary visas to live, study, or work in the city of <span style="background-color: yellow">[YOUR LOCATION]</span> and most of Texas.  
+
+**A few important updates:**  
+- The Committee Substitute of HB17 is scheduled for a committee vote as early as this Wednesday, April 9.  
+- This substitute version has not been made available online but was distributed at the public hearing on April 2. I have attached a copy of the updated bill language for your review.  
+
+**Contact Information for Rep. Cole Hefner:**  
+- Phone: (512) 463-0271  
+- Email: [Cole.Hefner@house.texas.gov](mailto:Cole.Hefner@house.texas.gov)  
+- Legislative Director: [Harrison.Salter@house.texas.gov](mailto:Harrison.Salter@house.texas.gov)  
+
+**Sincerely,**  
+<span style="background-color: yellow">[Your Name]</span>  
+<span style="background-color: yellow">[Your Title/Organization/University Affiliation]</span>  
+
+**Attachments:**  
+1. [The committee substitute of HB17](https://TexasRacistBills.org/assets/docs/Committee_Sub_HB17.pdf)  
+2. [Why We Oppose HB17](https://TexasRacistBills.org/assets/docs/Why_We_Oppose_HB17.pdf)  
+3. [Legal Analysis of Domicile](https://TexasRacistBills.org/assets/docs/Legal_Analysis_of_Domicile.pdf)  
+4. [Endorsement by 80 Organizations in Opposition to SB 17, HB 17, and Other National-Origin-Based Discrimination Bills in the 89th Texas Legislature](https://TexasRacistBills.org/assets/docs/Endorsement.pdf)  
+5. [Impact of "Critical Infrastructure Facility" Radius Clause](https://TexasRacistBills.org/assets/docs/critical_infrastructure_clause.png)  
+
+## 🗣️ Community Opposition: 80 Organizations Against HB 17
+
+This growing coalition of immigrant rights groups, business associations, educational institutions, and community organizations demonstrates the widespread opposition to this harmful bill.
+
+[View Endorsing Organizations](/assets/docs/Endorsement.pdf)
+
+*Last updated: [4/6/2025]*

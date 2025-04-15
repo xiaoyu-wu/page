@@ -72,6 +72,23 @@ This analysis highlights the significant legal barriers temporary visa holders f
 
 ![](/assets/docs/critical_infrastructure_clause.png)
 
+## ❌ HB17 Misinterprets the Federal Definition of Foreign Adversaries
+
+Under federal law, only individuals who have “engaged in a long-term pattern or serious instances of conduct
+significantly adverse to the national security of the United States or the safety of U.S. persons” can be
+classified as foreign adversaries.
+
+However, Texas House Bill 17 (HB17) wrongly expands this definition to include all individuals from
+certain countries—such as China, Iran, Russia, and North Korea—regardless of their actions, status, or
+intent.
+This broad and indiscriminate classification:
+- **Misrepresents federal law**;
+- **Violates the principle of individual assessment**;
+- And **threatens the fair housing rights and civil liberties** of lawful residents, students, and
+professionals who pose no national security risk.
+
+[Download Reference](/assets/docs/Misinterpretation.pdf)
+
 ## 🗣️ Community Opposition: 80 Organizations Against HB 17
 
 This growing coalition of immigrant rights groups, business associations, educational institutions, and community organizations demonstrates the widespread opposition to this harmful bill.

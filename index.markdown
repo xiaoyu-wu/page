@@ -23,6 +23,18 @@ feature_row:
     url: "/hb17/"
     btn_label: "Learn more"
     btn_class: "btn--primary"   
+  - image_path: assets/images/takei1.webp
+    alt: "Japanese Internment Camp"
+    title: "Read Opposition against HB17 from Judge Peter Sakai"
+    excerpt: 'Bexar County Judge Peter Sakai, whose family was forcibly interned during WWII, condemns Texas HB 17’s property bans targeting immigrants from specific nations, arguing it revives unconstitutional discrimination and undermines civil rights, economic growth, and the rule of law.'
+    url: "/assets/docs/Letter_from_Judge_Peter_Sakai.pdf"
+    btn_label: "Read the open letter"
+    btn_class: "btn--primary"   
+  - image_path: assets/images/ChineseExclusionAct.png
+    alt: "Chinese Exclusion Act"
+    title: "Learn from History and Stop Racist Bill"
+    url: "/assets/images/ChineseExclusionAct.png"
+    btn_label: "Download the poster"
 feature_row2:
   - image_path: /assets/images/documents.jpg
     alt: "documents"
@@ -51,7 +63,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="left"%}
+{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 

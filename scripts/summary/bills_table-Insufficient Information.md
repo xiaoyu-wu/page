@@ -1,5 +1,5 @@
-Last Updated at 15:29:50 2025-04-15
+Last Updated at 12:26:27 2025-05-08
 
 |Bill Number|Summary|Translationd|Committees|Caption|Authors|Last Actiond|
 |-|-|-|-|-|-|-|
-|[HB132](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB132)||||Relating to the confidentiality of information used to prevent, detect, respond to, or investigate a hostile act of a foreign adversary of the United States.|Lopez, Ray|04/14/2025 H Committee report distributed: Apr 14 2025 11:16AM|
+|[HB118](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB118)||||Relating to the establishment and powers and duties of the Texas Advisory Committee on Geopolitical Conflict.|Hefner|04/30/2025 H Laid on the table subject to call|
